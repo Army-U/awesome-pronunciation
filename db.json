@@ -68,7 +68,8 @@
 				"https://dict.youdao.com/dictvoice?audio=Akka&type=2"
 			],
 			"symbol": ["[ˈʌkɑː]"],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		},
 		{
 			"word": "AJAX",
@@ -168,7 +169,8 @@
 				"https://dict.youdao.com/dictvoice?audio=Axure&type=2"
 			],
 			"symbol": ["[`æk∫ur]"],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		},
 		{
 			"word": "Azure",
@@ -250,7 +252,8 @@
 				"http://www.howtopronounce.cc/file/ed0f4dc328ea4ce49ce3c2de545948f9.mp3"
 			],
 			"symbol": ["['sef]"],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		},
 		{
 			"word": "char",
@@ -321,7 +324,8 @@
 				"https://dict.youdao.com/dictvoice?audio=deque&type=2"
 			],
 			"symbol": ["['dek]"],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		},
 		{
 			"word": "Django",
@@ -331,7 +335,8 @@
 			"symbol": [
 				"[ˈdʒæŋɡoʊ]"
 			],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		},
 		{
 			"word": "doc",
@@ -347,7 +352,8 @@
 				"https://dict.youdao.com/dictvoice?audio=Dubbo&type=2"
 			],
 			"symbol": ["['dʌbəu]"],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		}
 	],
 
@@ -387,7 +393,8 @@
 				"https://dict.youdao.com/dictvoice?audio=facade&type=2"
 			],
 			"symbol": ["[fə'sɑːd]"],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		},
 		{
 			"word": "fedora",
@@ -397,7 +404,8 @@
 			"symbol": [
 				"[fɪ'dɔːrə]"
 			],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		},
 		{
 			"word": "Feign",
@@ -405,7 +413,8 @@
 				"https://dict.youdao.com/dictvoice?audio=Feign&type=2"
 			],
 			"symbol": ["[feɪn]"],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		},
 		{
 			"word": "FIFO",
@@ -464,7 +473,8 @@
 				"['nəʊm]",
 				"[ɡ'nəʊm]"
 			],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		},
 		{
 			"word": "GNU",
@@ -472,7 +482,8 @@
 				"http://www.howtopronounce.cc/file/118cec210b284899988aa018fb673211.mp3"
 			],
 			"symbol": ["[gnu:]"],
-			"reference": "[wikipedia GNU](https://en.wikipedia.org/wiki/GNU)"
+			"reference": "[wikipedia GNU](https://en.wikipedia.org/wiki/GNU)",
+			"hidden": true
 		},
 		{
 			"word": "Google",
@@ -543,7 +554,8 @@
 			"symbol": [
 				"[hɪst'rɪks]"
 			],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		}
 	],
 
@@ -554,7 +566,8 @@
 				"http://www.howtopronounce.cc/file/ffa48ceac4bc472fb8834f324b671f40.mp3"
 			],
 			"symbol": ["[aɪs]"],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		},
 		{
 			"word": "icon",
@@ -665,7 +678,8 @@
 				"https://dict.youdao.com/dictvoice?audio=Jersey&type=2"
 			],
 			"symbol": ["['dʒɜːzɪ]"],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		},
 		{
 			"word": "jpg(jpeg)",
@@ -741,7 +755,8 @@
 				"[ˈlɑːtɛk]",
 				"[ˈleɪtɛk]"
 			],
-			"reference": "[What is the correct pronunciation of TeX and LaTeX?](https://tex.stackexchange.com/questions/17502/what-is-the-correct-pronunciation-of-tex-and-latex)"
+			"reference": "[What is the correct pronunciation of TeX and LaTeX?](https://tex.stackexchange.com/questions/17502/what-is-the-correct-pronunciation-of-tex-and-latex)",
+			"hidden": true
 		},
 		{
 			"word": "linear",
@@ -775,7 +790,8 @@
 				"http://www.howtopronounce.cc/file/459c115769eb4c2f8e409ca3191a736c.mp3"
 			],
 			"symbol": ["[ˈlu:sɪn]"],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		}
 	],
 
@@ -806,7 +822,8 @@
 			"symbol": [
 				"['mɛərɪr diː bi:]"
 			],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		},
 		{
 			"word": "matrix",
@@ -854,7 +871,8 @@
 			"symbol": [
 				"[maɪ'baɪtɪs]"
 			],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		},
 		{
 			"word": "MySQL",
@@ -905,7 +923,8 @@
 				"http://www.howtopronounce.cc/file/ceadc221e2b54b43a413f2c55a7ca04f.mp3"
 			],
 			"symbol": ["[nʌm'paɪ]"],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		},
 		{
 			"word": "NVIDIA",
@@ -967,7 +986,8 @@
 				"https://dict.youdao.com/dictvoice?audio=putty&type=2"
 			],
 			"symbol": ["[ˈpʌtɪ]"],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		},
 		{
 			"word": "query",
@@ -994,7 +1014,8 @@
 				"https://dict.youdao.com/dictvoice?audio=cute&type=2"
 			],
 			"symbol": ["[kjuːt]"],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		}
 	],
 
@@ -1005,7 +1026,8 @@
 				"https://dict.youdao.com/dictvoice?audio=Realm&type=2"
 			],
 			"symbol": ["[relm]"],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		},
 		{
 			"word": "Redis",
@@ -1059,7 +1081,8 @@
 				"https://dict.youdao.com/dictvoice?audio=Ribbon&type=2"
 			],
 			"symbol": ["['rɪbən]"],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		}
 	],
 
@@ -1082,7 +1105,8 @@
 			"symbol": [
 				"[sænhəu'zeɪ]"
 			],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		},
 		{
 			"word": "Safari",
@@ -1108,7 +1132,8 @@
 			"symbol": [
 				"['saɪkɪt lɜːn]"
 			],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		},
 		{
 			"word": "scheme",
@@ -1174,7 +1199,8 @@
 				"https://dict.youdao.com/dictvoice?audio=suite&type=2"
 			],
 			"symbol": ["[swiːt]"],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		}
 	],
 
@@ -1291,7 +1317,8 @@
 				"http://www.howtopronounce.cc/file/28d7f64b9f424603bd1452f8c09c2598.mp3"
 			],
 			"symbol": ["['zæbɪks]"],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		},
 		{
 			"word": "Zuul",
@@ -1299,7 +1326,8 @@
 				"https://dict.youdao.com/dictvoice?audio=Zuul&type=2"
 			],
 			"symbol": ["['zaʊl]"],
-			"reference": ""
+			"reference": "",
+			"hidden": true
 		}
 	],
 

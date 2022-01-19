@@ -8,7 +8,6 @@
 | height | <audio :src="$withBase('/audio/height.mp3')" controls="controls" controlslist="nodownload"></audio> | [haɪt] |
 | hidden | <audio :src="$withBase('/audio/hidden.mp3')" controls="controls" controlslist="nodownload"></audio> | ['hɪdn] |
 | href | <audio :src="$withBase('/audio/href.mp3')" controls="controls" controlslist="nodownload"></audio> | H ref [eit∫ref] |
-| Hystrix | <audio :src="$withBase('/audio/Hystrix.mp3')" controls="controls" controlslist="nodownload"></audio> | [hɪst'rɪks] |
 
 ## Reference
 
