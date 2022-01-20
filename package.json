@@ -24,7 +24,7 @@
 	},
 	"homepage": "https://github.com/guanpengchn/awesome-pronunciation#readme",
 	"devDependencies": {
-		"vuepress": "^0.14.8"
+		"vuepress": "1.9.7"
 	},
 	"dependencies": {
 		"ali-oss": "^6.0.2"
