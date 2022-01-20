@@ -1231,9 +1231,7 @@
 		},
 		{
 			"word": "SCSS",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=SCSS&type=2"
-			],
+			"origin": [],
 			"symbol": [""],
 			"reference": ""
 		},
@@ -1487,7 +1485,7 @@
 		{
 			"word": "YAML",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=YAML&type=2"
+				"https://dict.youdao.com/dictvoice?audio=YAML&type=1"
 			],
 			"symbol": ["[ˈjæməl]"],
 			"reference": ""

@@ -3,7 +3,7 @@
 
 | Word  | Pronunciation | Symbol |
 | :-- | :-- | :-- |
-| Multithreading | <audio :src="$withBase('/audio/Multithreading.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| multithreading | <audio :src="$withBase('/audio/multithreading.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | main | <audio :src="$withBase('/audio/main.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | margin | <audio :src="$withBase('/audio/margin.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | matrix | <audio :src="$withBase('/audio/matrix.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
