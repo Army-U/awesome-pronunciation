@@ -989,6 +989,14 @@
 	],
 	"N": [
 		{
+			"word": "Nexus",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Nexus&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
 			"word": "Nodemon",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Nodemon&type=2"
