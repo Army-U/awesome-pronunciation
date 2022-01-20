@@ -108,7 +108,11 @@ function getRow(word) {
 		}
 	}
 
-	const content = `| ${word.word} | ${pron} | ${symbol} |\n`;
+	const content = `| ${
+		word.word
+	} | ${pron} | ${
+		false ? symbol : ''
+	} |\n`;
 	return content;
 }
 

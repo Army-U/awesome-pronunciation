@@ -4,13 +4,13 @@
 | Word  | Pronunciation | Symbol |
 | :-- | :-- | :-- |
 | Chalk | <audio :src="$withBase('/audio/Chalk.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
-| C# | <audio :src="$withBase('/audio/C%23.mp3')" controls="controls" controlslist="nodownload"></audio> | C sharp [si ʃɑ:p] |
-| cache | <audio :src="$withBase('/audio/cache.mp3')" controls="controls" controlslist="nodownload"></audio> | [kæʃ] |
-| CentOS | <audio :src="$withBase('/audio/CentOS.mp3')" controls="controls" controlslist="nodownload"></audio> | [sent 'əʊ 'es] |
-| char | <audio :src="$withBase('/audio/char.mp3')" controls="controls" controlslist="nodownload"></audio> | [tʃɑː] |
-| console | <audio :src="$withBase('/audio/console.mp3')" controls="controls" controlslist="nodownload"></audio> | [kən'səʊl] |
-| cURL | <audio :src="$withBase('/audio/cURL.mp3')" controls="controls" controlslist="nodownload"></audio> | [kɜːl] |
-| ctrl | <audio :src="$withBase('/audio/ctrl.mp3')" controls="controls" controlslist="nodownload"></audio> | [kən'trəʊl] |
+| C# | <audio :src="$withBase('/audio/C%23.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| cache | <audio :src="$withBase('/audio/cache.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| CentOS | <audio :src="$withBase('/audio/CentOS.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| char | <audio :src="$withBase('/audio/char.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| console | <audio :src="$withBase('/audio/console.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| cURL | <audio :src="$withBase('/audio/cURL.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| ctrl | <audio :src="$withBase('/audio/ctrl.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 
 ## Reference
 
