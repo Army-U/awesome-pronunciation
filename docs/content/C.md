@@ -3,7 +3,7 @@
 
 | Word  | Pronunciation | Symbol |
 | :-- | :-- | :-- |
-| Chalk | <audio :src="$withBase('/audio/Chalk.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| chalk | <audio :src="$withBase('/audio/chalk.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | C# | <audio :src="$withBase('/audio/C%23.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | cache | <audio :src="$withBase('/audio/cache.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | CentOS | <audio :src="$withBase('/audio/CentOS.mp3')" controls="controls" controlslist="nodownload"></audio> |  |

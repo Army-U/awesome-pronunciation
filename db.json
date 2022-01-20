@@ -1,7 +1,7 @@
 {
 	"A": [
 		{
-			"word": "Asynchronous",
+			"word": "asynchronous",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Asynchronous&type=2"
 			],
@@ -106,7 +106,7 @@
 			"reference": ""
 		},
 		{
-			"word": "android",
+			"word": "Android",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=android&type=2"
 			],
@@ -197,7 +197,6 @@
 			"reference": ""
 		}
 	],
-
 	"B": [
 		{
 			"word": "Bootstrap",
@@ -248,10 +247,9 @@
 			"reference": ""
 		}
 	],
-
 	"C": [
 		{
-			"word": "Chalk",
+			"word": "chalk",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Chalk&type=2"
 			],
@@ -332,7 +330,6 @@
 			"reference": ""
 		}
 	],
-
 	"D": [
 		{
 			"word": "Daemon",
@@ -396,12 +393,11 @@
 			"hidden": true
 		}
 	],
-
 	"E": [
 		{
 			"word": "ECMAScript",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=ECMAScript&type=2"
+				"https://audio12.forvo.com/audios/mp3/7/h/7h_9606073_39_2166731.mp3"
 			],
 			"symbol": [""],
 			"reference": ""
@@ -433,12 +429,11 @@
 			"reference": ""
 		}
 	],
-
 	"F": [
 		{
-			"word": "Favicon",
+			"word": "favicon",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Favicon&type=2"
+				"https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fav/favic/favicon__gb_3.mp3"
 			],
 			"symbol": [""],
 			"reference": ""
@@ -513,7 +508,6 @@
 			"reference": ""
 		}
 	],
-
 	"G": [
 		{
 			"word": "Git",
@@ -574,7 +568,6 @@
 			"reference": ""
 		}
 	],
-
 	"H": [
 		{
 			"word": "Haskell",
@@ -630,7 +623,6 @@
 			"hidden": true
 		}
 	],
-
 	"I": [
 		{
 			"word": "Immutable.js",
@@ -722,7 +714,6 @@
 			"reference": ""
 		}
 	],
-
 	"J": [
 		{
 			"word": "Java",
@@ -784,7 +775,6 @@
 			"reference": "[How-do-you-pronounce-JSON](https://www.quora.com/How-do-you-pronounce-JSON)"
 		}
 	],
-
 	"K": [
 		{
 			"word": "Kotlin",
@@ -807,7 +797,6 @@
 			"reference": "[What is the correct pronunciation of Kubernetes in English?](https://github.com/kubernetes/kubernetes/issues/44308)"
 		}
 	],
-
 	"L": [
 		{
 			"word": "LESS",
@@ -898,10 +887,9 @@
 			"hidden": true
 		}
 	],
-
 	"M": [
 		{
-			"word": "Multithreading",
+			"word": "multithreading",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Multithreading&type=2"
 			],
@@ -999,7 +987,6 @@
 			"reference": ""
 		}
 	],
-
 	"N": [
 		{
 			"word": "Nodemon",
@@ -1057,7 +1044,6 @@
 			"reference": ""
 		}
 	],
-
 	"O": [
 		{
 			"word": "OAuth",
@@ -1078,7 +1064,6 @@
 			"reference": ""
 		}
 	],
-
 	"P": [
 		{
 			"word": "P2P",
@@ -1126,7 +1111,6 @@
 			"reference": ""
 		}
 	],
-
 	"Q": [
 		{
 			"word": "Qt",
@@ -1138,7 +1122,6 @@
 			"hidden": true
 		}
 	],
-
 	"R": [
 		{
 			"word": "Redux",
@@ -1237,7 +1220,6 @@
 			"hidden": true
 		}
 	],
-
 	"S": [
 		{
 			"word": "Scrum",
@@ -1395,7 +1377,6 @@
 			"hidden": true
 		}
 	],
-
 	"T": [
 		{
 			"word": "turbo",
@@ -1406,7 +1387,6 @@
 			"reference": ""
 		}
 	],
-
 	"U": [
 		{
 			"word": "Ubuntu",
@@ -1417,7 +1397,6 @@
 			"reference": ""
 		}
 	],
-
 	"V": [
 		{
 			"word": "Vanilla",
@@ -1454,7 +1433,6 @@
 			"reference": ""
 		}
 	],
-
 	"W": [
 		{
 			"word": "width",
@@ -1475,7 +1453,6 @@
 			"reference": ""
 		}
 	],
-
 	"X": [
 		{
 			"word": "XML",
@@ -1488,7 +1465,6 @@
 			"reference": ""
 		}
 	],
-
 	"Y": [
 		{
 			"word": "Yargs",
@@ -1517,7 +1493,6 @@
 			"reference": ""
 		}
 	],
-
 	"Z": [
 		{
 			"word": "Zabbix",
@@ -1538,7 +1513,6 @@
 			"hidden": true
 		}
 	],
-
 	"_": [
 		{
 			"word": ".net",

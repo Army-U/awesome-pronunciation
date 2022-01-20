@@ -3,7 +3,7 @@
 
 | 单词  | 发音 | 音标 |
 | :-- | :-- | :-- |
-| Asynchronous | <audio :src="$withBase('/audio/Asynchronous.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| asynchronous | <audio :src="$withBase('/audio/asynchronous.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | Axios | <audio :src="$withBase('/audio/Axios.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | access | <audio :src="$withBase('/audio/access.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | admin | <audio :src="$withBase('/audio/admin.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
@@ -14,7 +14,7 @@
 | AirBnB | <audio :src="$withBase('/audio/AirBnB.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | AJAX | <audio :src="$withBase('/audio/AJAX.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | alias | <audio :src="$withBase('/audio/alias.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
-| android | <audio :src="$withBase('/audio/android.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| Android | <audio :src="$withBase('/audio/Android.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | Apache | <audio :src="$withBase('/audio/Apache.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | app | <audio :src="$withBase('/audio/app.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | archive | <audio :src="$withBase('/audio/archive.mp3')" controls="controls" controlslist="nodownload"></audio> |  |

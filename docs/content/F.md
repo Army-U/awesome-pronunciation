@@ -3,7 +3,7 @@
 
 | Word  | Pronunciation | Symbol |
 | :-- | :-- | :-- |
-| Favicon | <audio :src="$withBase('/audio/Favicon.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| favicon | <audio :src="$withBase('/audio/favicon.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | Flexbox | <audio :src="$withBase('/audio/Flexbox.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | Flux | <audio :src="$withBase('/audio/Flux.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | FIFO | <audio :src="$withBase('/audio/FIFO.mp3')" controls="controls" controlslist="nodownload"></audio> |  |

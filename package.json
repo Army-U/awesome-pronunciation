@@ -10,7 +10,7 @@
 		"dev": "node download.js && node generate.js && vuepress dev docs",
 		"build": "vuepress build docs",
 		"deploy": "yarn download && yarn generate && yarn build",
-		"download": "node download.js",
+		"download": "rm docs/.vuepress/public/audio/* && node download.js",
 		"generate": "node generate.js"
 	},
 	"repository": {
