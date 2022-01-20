@@ -3,6 +3,9 @@
 
 | Word  | Pronunciation | Symbol |
 | :-- | :-- | :-- |
+| Agile | <audio :src="$withBase('/audio/Agile.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| Asynchronous | <audio :src="$withBase('/audio/Asynchronous.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| Axios | <audio :src="$withBase('/audio/Axios.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | access | <audio :src="$withBase('/audio/access.mp3')" controls="controls" controlslist="nodownload"></audio> | ['ækses] |
 | admin | <audio :src="$withBase('/audio/admin.mp3')" controls="controls" controlslist="nodownload"></audio> | ['ædmɪn] |
 | adobe | <audio :src="$withBase('/audio/adobe.mp3')" controls="controls" controlslist="nodownload"></audio> | [ə'dəʊbɪ; ə'dəʊb] |

@@ -3,6 +3,7 @@
 
 | 单词  | 发音 | 音标 |
 | :-- | :-- | :-- |
+| Immutable.js | <audio :src="$withBase('/audio/Immutabledot-js.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | icon | <audio :src="$withBase('/audio/icon.mp3')" controls="controls" controlslist="nodownload"></audio> | ['aɪkɑn] |
 | IEEE | <audio :src="$withBase('/audio/IEEE.mp3')" controls="controls" controlslist="nodownload"></audio> | [aɪ trɪpl i:] |
 | IntelliJ | <audio :src="$withBase('/audio/IntelliJ.mp3')" controls="controls" controlslist="nodownload"></audio> | [ɪntelɪ dʒeɪ] |

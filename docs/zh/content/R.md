@@ -3,6 +3,10 @@
 
 | 单词  | 发音 | 音标 |
 | :-- | :-- | :-- |
+| Redux | <audio :src="$withBase('/audio/Redux.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| Relay | <audio :src="$withBase('/audio/Relay.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| Robust | <audio :src="$withBase('/audio/Robust.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| Rollup | <audio :src="$withBase('/audio/Rollup.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | Redis | <audio :src="$withBase('/audio/Redis.mp3')" controls="controls" controlslist="nodownload"></audio> | [re'dɪs] |
 | replicas | <audio :src="$withBase('/audio/replicas.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈreplɪkə] |
 | resolved | <audio :src="$withBase('/audio/resolved.mp3')" controls="controls" controlslist="nodownload"></audio> | [rɪ'zɒlvd] |

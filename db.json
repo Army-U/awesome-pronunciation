@@ -1,6 +1,30 @@
 {
 	"A": [
 		{
+			"word": "Agile",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Agile&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "Asynchronous",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Asynchronous&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "Axios",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Axios&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
 			"word": "access",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=access&type=2"
@@ -184,6 +208,22 @@
 
 	"B": [
 		{
+			"word": "Bootstrap",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Bootstrap&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "Browserify",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Browserify&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
 			"word": "babel",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=babel&type=2"
@@ -218,6 +258,14 @@
 	],
 
 	"C": [
+		{
+			"word": "Chalk",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Chalk&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
 		{
 			"word": "C#",
 			"origin": [
@@ -359,6 +407,14 @@
 
 	"E": [
 		{
+			"word": "ECMAScript",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=ECMAScript&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
 			"word": "eureka",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=eureka&type=2"
@@ -387,6 +443,30 @@
 	],
 
 	"F": [
+		{
+			"word": "Favicon",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Favicon&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "Flexbox",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Flexbox&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "Flux",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Flux&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
 		{
 			"word": "facade",
 			"origin": [
@@ -561,6 +641,14 @@
 
 	"I": [
 		{
+			"word": "Immutable.js",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Immutable.js&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
 			"word": "IaaS",
 			"origin": [
 				"http://www.howtopronounce.cc/file/ffa48ceac4bc472fb8834f324b671f40.mp3"
@@ -730,6 +818,30 @@
 
 	"L": [
 		{
+			"word": "LESS",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=LESS&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "Linaria",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Linaria&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "Lodash",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Lodash&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
 			"word": "lambda",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=lambda&type=2"
@@ -796,6 +908,14 @@
 	],
 
 	"M": [
+		{
+			"word": "Multithreading",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Multithreading&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
 		{
 			"word": "main",
 			"origin": [
@@ -889,6 +1009,14 @@
 	],
 
 	"N": [
+		{
+			"word": "Nodemon",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Nodemon&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
 		{
 			"word": "nginx",
 			"origin": [
@@ -1021,6 +1149,38 @@
 
 	"R": [
 		{
+			"word": "Redux",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Redux&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "Relay",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Relay&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "Robust",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Robust&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "Rollup",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Rollup&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
 			"word": "Realm",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Realm&type=2"
@@ -1087,6 +1247,46 @@
 	],
 
 	"S": [
+		{
+			"word": "Scrum",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Scrum&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "SCSS",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=SCSS&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "Skeleton",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Skeleton&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "Swagger",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Swagger&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "Scalability",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Scalability&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
 		{
 			"word": "Samsung",
 			"origin": [
@@ -1228,6 +1428,14 @@
 
 	"V": [
 		{
+			"word": "Vanilla",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Vanilla&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
 			"word": "variable",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=variable&type=2"
@@ -1290,6 +1498,14 @@
 	],
 
 	"Y": [
+		{
+			"word": "Yargs",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Yargs&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
 		{
 			"word": "YouTube",
 			"origin": [

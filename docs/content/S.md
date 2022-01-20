@@ -3,6 +3,11 @@
 
 | Word  | Pronunciation | Symbol |
 | :-- | :-- | :-- |
+| Scrum | <audio :src="$withBase('/audio/Scrum.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| SCSS | <audio :src="$withBase('/audio/SCSS.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| Skeleton | <audio :src="$withBase('/audio/Skeleton.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| Swagger | <audio :src="$withBase('/audio/Swagger.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| Scalability | <audio :src="$withBase('/audio/Scalability.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | Samsung | <audio :src="$withBase('/audio/Samsung.mp3')" controls="controls" controlslist="nodownload"></audio> | ['sæmsɔ:ŋ] |
 | Safari | <audio :src="$withBase('/audio/Safari.mp3')" controls="controls" controlslist="nodownload"></audio> | [sə'fɑrɪ] |
 | scala | <audio :src="$withBase('/audio/scala.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈskɑːlə] |

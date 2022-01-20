@@ -3,6 +3,7 @@
 
 | 单词  | 发音 | 音标 |
 | :-- | :-- | :-- |
+| Chalk | <audio :src="$withBase('/audio/Chalk.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | C# | <audio :src="$withBase('/audio/C%23.mp3')" controls="controls" controlslist="nodownload"></audio> | C sharp [si ʃɑ:p] |
 | cache | <audio :src="$withBase('/audio/cache.mp3')" controls="controls" controlslist="nodownload"></audio> | [kæʃ] |
 | CentOS | <audio :src="$withBase('/audio/CentOS.mp3')" controls="controls" controlslist="nodownload"></audio> | [sent 'əʊ 'es] |
