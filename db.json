@@ -1,6 +1,22 @@
 {
 	"A": [
 		{
+			"word": "Anonymous",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Anonymous&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "Aliases",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Aliases&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
 			"word": "asynchronous",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Asynchronous&type=2"
@@ -249,6 +265,22 @@
 	],
 	"C": [
 		{
+			"word": "Complex",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Complex&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "Colon",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Colon&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
 			"word": "chalk",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Chalk&type=2"
@@ -395,6 +427,22 @@
 	],
 	"E": [
 		{
+			"word": "Explicit",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Explicit&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "exclamation",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=exclamation&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
 			"word": "ECMAScript",
 			"origin": [
 				"https://audio12.forvo.com/audios/mp3/7/h/7h_9606073_39_2166731.mp3"
@@ -430,6 +478,14 @@
 		}
 	],
 	"F": [
+		{
+			"word": "Failure",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Failure&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
 		{
 			"word": "favicon",
 			"origin": [
@@ -570,6 +626,14 @@
 	],
 	"H": [
 		{
+			"word": "Hyphen",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Hyphen&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
 			"word": "Haskell",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Haskell&type=2"
@@ -624,6 +688,22 @@
 		}
 	],
 	"I": [
+		{
+			"word": "Interact",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Interact&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "Intermediate",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Intermediate&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
 		{
 			"word": "Immutable.js",
 			"origin": [
@@ -889,6 +969,14 @@
 	],
 	"M": [
 		{
+			"word": "maintenance",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=maintenance&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
 			"word": "multithreading",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Multithreading&type=2"
@@ -988,6 +1076,14 @@
 		}
 	],
 	"N": [
+		{
+			"word": "Nexus",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Nexus&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
 		{
 			"word": "Nexus",
 			"origin": [
@@ -1230,6 +1326,38 @@
 	],
 	"S": [
 		{
+			"word": "Shallow",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Shallow&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "Status",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Status&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "Scenario",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Scenario&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "Scratch",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Scratch&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
 			"word": "Scrum",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Scrum&type=2"
@@ -1385,6 +1513,30 @@
 	],
 	"T": [
 		{
+			"word": "Typecast",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Typecast&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "Toggle",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Toggle&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "Tuple",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Tuple&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
 			"word": "turbo",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=turbo&type=2"
@@ -1440,6 +1592,14 @@
 		}
 	],
 	"W": [
+		{
+			"word": "Wobbler",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Wobbler&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
 		{
 			"word": "width",
 			"origin": [

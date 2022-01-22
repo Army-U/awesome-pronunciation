@@ -27,6 +27,7 @@
 		"vuepress": "1.9.7"
 	},
 	"dependencies": {
-		"ali-oss": "^6.0.2"
+		"ali-oss": "^6.0.2",
+		"prettier": "2.5.1"
 	}
 }
