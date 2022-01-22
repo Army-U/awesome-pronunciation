@@ -913,6 +913,24 @@
 	],
 	"M": [
 		{
+			"word": "macro",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=macro&type=2"
+			],
+			"symbol": ["[ˈmækroʊ]"],
+			"reference": ""
+		},
+		{
+			"word": "micro",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=micro&type=2"
+			],
+			"symbol": [
+				"['maɪkrəʊ]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "maintainer",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=maintainer&type=2"
