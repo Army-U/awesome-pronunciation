@@ -549,33 +549,13 @@
 			"reference": ""
 		},
 		{
-			"word": "GNOME",
-			"origin": [
-				"http://www.howtopronounce.cc/file/5c51db051bb3472586d067e2f40036af.mp3",
-				"http://www.howtopronounce.cc/file/247ae70095444dd4b66a403472e9b507.mp3"
-			],
-			"symbol": [
-				"['nəʊm]",
-				"[ɡ'nəʊm]"
-			],
-			"reference": "",
-			"hidden": true
-		},
-		{
-			"word": "GNU",
-			"origin": [
-				"http://www.howtopronounce.cc/file/118cec210b284899988aa018fb673211.mp3"
-			],
-			"symbol": ["[gnu:]"],
-			"reference": "[wikipedia GNU](https://en.wikipedia.org/wiki/GNU)",
-			"hidden": true
-		},
-		{
 			"word": "Google",
 			"origin": [
 				"http://www.howtopronounce.cc/file/83d17c9316ff4f6fa4a96205a7ecdf9f.mp3"
 			],
-			"symbol": ["['ɡuɡl]"],
+			"symbol": [
+				"[ˈɡʊɡ(ə)l] "
+			],
 			"reference": ""
 		},
 		{
@@ -589,19 +569,11 @@
 	],
 	"H": [
 		{
-			"word": "Hyphen",
+			"word": "hyphen",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Hyphen&type=2"
+				"https://dict.youdao.com/dictvoice?audio=hyphen&type=2"
 			],
-			"symbol": [""],
-			"reference": ""
-		},
-		{
-			"word": "Haskell",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Haskell&type=2"
-			],
-			"symbol": ["[ˈhæskəl]"],
+			"symbol": ["[ˈhaɪfən]"],
 			"reference": ""
 		},
 		{
@@ -637,26 +609,15 @@
 				"H ref [eit∫ref]"
 			],
 			"reference": ""
-		},
-		{
-			"word": "Hystrix",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Hystrix&type=2"
-			],
-			"symbol": [
-				"[hɪst'rɪks]"
-			],
-			"reference": "",
-			"hidden": true
 		}
 	],
 	"I": [
 		{
-			"word": "Increase",
+			"word": "increase",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Increase&type=2"
+				"https://dict.youdao.com/dictvoice?audio=increase&type=2"
 			],
-			"symbol": [""],
+			"symbol": ["[ɪnˈkris]"],
 			"reference": ""
 		},
 		{
