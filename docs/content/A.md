@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | Symbol |
 | :-- | :-- | :-- |
+| assert | <audio :src="$withBase('/audio/assert.mp3')" controls="controls" controlslist="nodownload"></audio> | [əˈsɜrt] |
+| assets | <audio :src="$withBase('/audio/assets.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈæset] |
 | authorization | <audio :src="$withBase('/audio/authorization.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˌɔːθərəˈzeɪʃn] |
 | authorize | <audio :src="$withBase('/audio/authorize.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈɔθəˌraɪz] |
 | anonymous | <audio :src="$withBase('/audio/anonymous.mp3')" controls="controls" controlslist="nodownload"></audio> | [əˈnɑːnɪməs] |

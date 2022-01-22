@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | Symbol |
 | :-- | :-- | :-- |
+| macro | <audio :src="$withBase('/audio/macro.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈmækroʊ] |
+| micro | <audio :src="$withBase('/audio/micro.mp3')" controls="controls" controlslist="nodownload"></audio> | ['maɪkrəʊ] |
 | maintainer | <audio :src="$withBase('/audio/maintainer.mp3')" controls="controls" controlslist="nodownload"></audio> | [menˈteɪnər] |
 | maintainable | <audio :src="$withBase('/audio/maintainable.mp3')" controls="controls" controlslist="nodownload"></audio> | [meɪnˈteɪnəbl] |
 | maintenance | <audio :src="$withBase('/audio/maintenance.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈmeɪntənəns] |

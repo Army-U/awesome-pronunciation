@@ -1,6 +1,22 @@
 {
 	"A": [
 		{
+			"word": "assert",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=assert&type=2"
+			],
+			"symbol": ["[əˈsɜrt]"],
+			"reference": ""
+		},
+		{
+			"word": "assets",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=assets&type=2"
+			],
+			"symbol": ["[ˈæset]"],
+			"reference": ""
+		},
+		{
 			"word": "authorization",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=authorization&type=2"

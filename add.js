@@ -2,8 +2,8 @@ const fs = require('fs');
 const prettier = require('prettier');
 
 const newWords = [
-	'micro',
-	'macro',
+	'assets',
+	'assert',
 ];
 
 const db = JSON.parse(
