@@ -1245,6 +1245,14 @@
 	],
 	"S": [
 		{
+			"word": "stringify",
+			"origin": [
+				"https://audio12.forvo.com/audios/mp3/i/8/i8_9320779_39_3086064.mp3"
+			],
+			"symbol": [""],
+			"reference": "https://www.youtube.com/watch?v=yXrqtLZmk_k"
+		},
+		{
 			"word": "shallow",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=shallow&type=2"

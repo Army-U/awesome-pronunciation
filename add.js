@@ -2,8 +2,7 @@ const fs = require('fs');
 const prettier = require('prettier');
 
 const newWords = [
-	'authorize',
-	'authorization',
+	'stringify',
 ];
 
 const db = JSON.parse(
