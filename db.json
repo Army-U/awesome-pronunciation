@@ -621,19 +621,23 @@
 			"reference": ""
 		},
 		{
-			"word": "Interact",
+			"word": "interact",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Interact&type=2"
+				"https://dict.youdao.com/dictvoice?audio=interact&type=2"
 			],
-			"symbol": [""],
+			"symbol": [
+				"[ˌɪntərˈækt]"
+			],
 			"reference": ""
 		},
 		{
-			"word": "Intermediate",
+			"word": "intermediate",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Intermediate&type=2"
+				"https://dict.youdao.com/dictvoice?audio=intermediate&type=2"
 			],
-			"symbol": [""],
+			"symbol": [
+				"[ˌɪntərˈmidiət] "
+			],
 			"reference": ""
 		},
 		{
@@ -641,24 +645,17 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Immutable.js&type=2"
 			],
-			"symbol": [""],
-			"reference": ""
-		},
-		{
-			"word": "IaaS",
-			"origin": [
-				"http://www.howtopronounce.cc/file/ffa48ceac4bc472fb8834f324b671f40.mp3"
+			"symbol": [
+				"[ɪˈmjuːtəbl]"
 			],
-			"symbol": ["[aɪs]"],
-			"reference": "",
-			"hidden": true
+			"reference": ""
 		},
 		{
 			"word": "icon",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=icon&type=2"
 			],
-			"symbol": ["['aɪkɑn]"],
+			"symbol": ["[ˈaɪˌkɑn]"],
 			"reference": ""
 		},
 		{
@@ -668,16 +665,6 @@
 			],
 			"symbol": [
 				"[aɪ trɪpl i:]"
-			],
-			"reference": ""
-		},
-		{
-			"word": "IntelliJ",
-			"origin": [
-				"http://www.howtopronounce.cc/file/5bebfeaf2d9b4bfb95ed2a0399516ce5.mp3"
-			],
-			"symbol": [
-				"[ɪntelɪ dʒeɪ]"
 			],
 			"reference": ""
 		},
@@ -695,7 +682,7 @@
 				"https://dict.youdao.com/dictvoice?audio=implement&type=2"
 			],
 			"symbol": [
-				"['ɪmplɪm(ə)nt]"
+				"[ˈɪmpləmənt]"
 			],
 			"reference": ""
 		},
@@ -705,7 +692,7 @@
 				"https://dict.youdao.com/dictvoice?audio=integer&type=2"
 			],
 			"symbol": [
-				"['ɪntɪdʒə]"
+				"[ˈɪntədʒər]"
 			],
 			"reference": ""
 		},
@@ -722,7 +709,7 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=issue&type=2"
 			],
-			"symbol": ["['ɪʃuː]"],
+			"symbol": ["[ˈɪʃu]"],
 			"reference": ""
 		}
 	],
@@ -732,7 +719,7 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Java&type=2"
 			],
-			"symbol": ["['dʒɑːvə]"],
+			"symbol": ["[ˈdʒɑvə]"],
 			"reference": ""
 		},
 		{
@@ -751,18 +738,9 @@
 				"https://dict.youdao.com/dictvoice?audio=Jekyll&type=2"
 			],
 			"symbol": [
-				"['dʒekil; 'dʒi:kil]"
+				"[ˈdʒi:kil]"
 			],
 			"reference": ""
-		},
-		{
-			"word": "Jersey",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Jersey&type=2"
-			],
-			"symbol": ["['dʒɜːzɪ]"],
-			"reference": "",
-			"hidden": true
 		},
 		{
 			"word": "jpg(jpeg)",
@@ -851,19 +829,6 @@
 			"reference": "[Thorough IoC In Laravel 4 With Unit Tests](https://www.youtube.com/watch?v=F1VyHfoUuLU&feature=youtu.be)"
 		},
 		{
-			"word": "LaTeX",
-			"origin": [
-				"http://www.howtopronounce.cc/file/62b22d08d3f345da817a3590343ebeb8.mp3",
-				"http://www.howtopronounce.cc/file/698012d7d394493a84a95e459b601000.mp3"
-			],
-			"symbol": [
-				"[ˈlɑːtɛk]",
-				"[ˈleɪtɛk]"
-			],
-			"reference": "[What is the correct pronunciation of TeX and LaTeX?](https://tex.stackexchange.com/questions/17502/what-is-the-correct-pronunciation-of-tex-and-latex)",
-			"hidden": true
-		},
-		{
 			"word": "linear",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=linear&type=2"
@@ -888,15 +853,6 @@
 				"[ləʊ'kɑːl]"
 			],
 			"reference": ""
-		},
-		{
-			"word": "Lucene",
-			"origin": [
-				"http://www.howtopronounce.cc/file/459c115769eb4c2f8e409ca3191a736c.mp3"
-			],
-			"symbol": ["[ˈlu:sɪn]"],
-			"reference": "",
-			"hidden": true
 		}
 	],
 	"M": [
@@ -951,17 +907,6 @@
 			"reference": ""
 		},
 		{
-			"word": "MariaDB",
-			"origin": [
-				"http://www.howtopronounce.cc/file/67692e355e5b4f4f8328e9ee850961dc.mp3"
-			],
-			"symbol": [
-				"['mɛərɪr diː bi:]"
-			],
-			"reference": "",
-			"hidden": true
-		},
-		{
 			"word": "matrix",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=matrix&type=2"
@@ -1007,8 +952,7 @@
 			"symbol": [
 				"[maɪ'baɪtɪs]"
 			],
-			"reference": "",
-			"hidden": true
+			"reference": ""
 		},
 		{
 			"word": "MySQL",
@@ -1077,15 +1021,6 @@
 			"reference": ""
 		},
 		{
-			"word": "Numpy",
-			"origin": [
-				"http://www.howtopronounce.cc/file/ceadc221e2b54b43a413f2c55a7ca04f.mp3"
-			],
-			"symbol": ["[nʌm'paɪ]"],
-			"reference": "",
-			"hidden": true
-		},
-		{
 			"word": "NVIDIA",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=NVIDIA&type=2"
@@ -1146,15 +1081,6 @@
 			"reference": ""
 		},
 		{
-			"word": "putty",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=putty&type=2"
-			],
-			"symbol": ["[ˈpʌtɪ]"],
-			"reference": "",
-			"hidden": true
-		},
-		{
 			"word": "query",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=query&type=2"
@@ -1171,17 +1097,7 @@
 			"reference": ""
 		}
 	],
-	"Q": [
-		{
-			"word": "Qt",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=cute&type=2"
-			],
-			"symbol": ["[kjuːt]"],
-			"reference": "",
-			"hidden": true
-		}
-	],
+	"Q": [],
 	"R": [
 		{
 			"word": "RegExp",
@@ -1245,8 +1161,7 @@
 				"https://dict.youdao.com/dictvoice?audio=Realm&type=2"
 			],
 			"symbol": ["[relm]"],
-			"reference": "",
-			"hidden": true
+			"reference": ""
 		},
 		{
 			"word": "Redis",
@@ -1293,15 +1208,6 @@
 				"[ɑː ef aɪ diː]"
 			],
 			"reference": ""
-		},
-		{
-			"word": "Ribbon",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Ribbon&type=2"
-			],
-			"symbol": ["['rɪbən]"],
-			"reference": "",
-			"hidden": true
 		}
 	],
 	"S": [
@@ -1386,17 +1292,6 @@
 			"reference": ""
 		},
 		{
-			"word": "san jose",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=san%20jose&type=2"
-			],
-			"symbol": [
-				"[sænhəu'zeɪ]"
-			],
-			"reference": "",
-			"hidden": true
-		},
-		{
 			"word": "Safari",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Safari&type=2"
@@ -1411,17 +1306,6 @@
 			],
 			"symbol": ["[ˈskɑːlə]"],
 			"reference": ""
-		},
-		{
-			"word": "scikit-learn",
-			"origin": [
-				"http://www.howtopronounce.cc/file/f561ff2bf3e6456b9d53a738c2821403.mp3"
-			],
-			"symbol": [
-				"['saɪkɪt lɜːn]"
-			],
-			"reference": "",
-			"hidden": true
 		},
 		{
 			"word": "scheme",
@@ -1480,15 +1364,6 @@
 				"[ˈsuːdoʊ]"
 			],
 			"reference": "[sudo from wikipedia](https://en.wikipedia.org/wiki/Sudo)"
-		},
-		{
-			"word": "suite",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=suite&type=2"
-			],
-			"symbol": ["[swiːt]"],
-			"reference": "",
-			"hidden": true
 		}
 	],
 	"T": [
@@ -1647,26 +1522,7 @@
 			"reference": ""
 		}
 	],
-	"Z": [
-		{
-			"word": "Zabbix",
-			"origin": [
-				"http://www.howtopronounce.cc/file/28d7f64b9f424603bd1452f8c09c2598.mp3"
-			],
-			"symbol": ["['zæbɪks]"],
-			"reference": "",
-			"hidden": true
-		},
-		{
-			"word": "Zuul",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Zuul&type=2"
-			],
-			"symbol": ["['zaʊl]"],
-			"reference": "",
-			"hidden": true
-		}
-	],
+	"Z": [],
 	"_": [
 		{
 			"word": ".net",

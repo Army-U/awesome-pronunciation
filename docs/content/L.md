@@ -15,4 +15,3 @@
 ## Reference
 
 - [Thorough IoC In Laravel 4 With Unit Tests](https://www.youtube.com/watch?v=F1VyHfoUuLU&feature=youtu.be)
-- [What is the correct pronunciation of TeX and LaTeX?](https://tex.stackexchange.com/questions/17502/what-is-the-correct-pronunciation-of-tex-and-latex)
