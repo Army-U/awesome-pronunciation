@@ -26,3 +26,4 @@
 | ASUS | <audio :src="$withBase('/audio/ASUS.mp3')" controls="controls" controlslist="nodownload"></audio> | [eɪ'su:s] |
 | avatar | <audio :src="$withBase('/audio/avatar.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈævətɑːr] |
 | Azure | <audio :src="$withBase('/audio/Azure.mp3')" controls="controls" controlslist="nodownload"></audio> | ['æʒə] |
+| algorithm | <audio :src="$withBase('/audio/algorithm.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈælɡərɪðəm] |
