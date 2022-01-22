@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | Symbol |
 | :-- | :-- | :-- |
+| cubic | <audio :src="$withBase('/audio/cubic.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈkjubɪk] |
+| constant | <audio :src="$withBase('/audio/constant.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈkɑnstənt] |
 | complex | <audio :src="$withBase('/audio/complex.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈkɑmˌpleks] |
 | colon | <audio :src="$withBase('/audio/colon.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈkoʊlɑn] |
 | chalk | <audio :src="$withBase('/audio/chalk.mp3')" controls="controls" controlslist="nodownload"></audio> | [tʃɔːk] |

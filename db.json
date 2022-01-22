@@ -273,6 +273,24 @@
 	],
 	"C": [
 		{
+			"word": "cubic",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=cubic&type=2"
+			],
+			"symbol": ["[ˈkjubɪk]"],
+			"reference": ""
+		},
+		{
+			"word": "constant",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=constant&type=2"
+			],
+			"symbol": [
+				"[ˈkɑnstənt]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "complex",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Complex&type=2"
@@ -799,6 +817,24 @@
 	],
 	"L": [
 		{
+			"word": "linear",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=linear&type=2"
+			],
+			"symbol": ["['lɪnɪə]"],
+			"reference": ""
+		},
+		{
+			"word": "logarithmic",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=logarithmic&type=2"
+			],
+			"symbol": [
+				"[ˌlɔːɡəˈrɪðmɪk]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "LESS",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=LESS&type=2"
@@ -837,14 +873,6 @@
 			],
 			"symbol": ["[ˈlæəwaʊ]"],
 			"reference": "[Thorough IoC In Laravel 4 With Unit Tests](https://www.youtube.com/watch?v=F1VyHfoUuLU&feature=youtu.be)"
-		},
-		{
-			"word": "linear",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=linear&type=2"
-			],
-			"symbol": ["['lɪnɪə]"],
-			"reference": ""
 		},
 		{
 			"word": "Linux",
@@ -1091,7 +1119,18 @@
 			"reference": ""
 		}
 	],
-	"Q": [],
+	"Q": [
+		{
+			"word": "quadratic",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=quadratic&type=2"
+			],
+			"symbol": [
+				"[kwɑːˈdrætɪk]"
+			],
+			"reference": ""
+		}
+	],
 	"R": [
 		{
 			"word": "RegExp",
