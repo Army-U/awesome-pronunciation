@@ -3,6 +3,9 @@
 
 | Word  | Pronunciation | Symbol |
 | :-- | :-- | :-- |
+| maintainer | <audio :src="$withBase('/audio/maintainer.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| maintainable | <audio :src="$withBase('/audio/maintainable.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| maintenance | <audio :src="$withBase('/audio/maintenance.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | multithreading | <audio :src="$withBase('/audio/multithreading.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | main | <audio :src="$withBase('/audio/main.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | margin | <audio :src="$withBase('/audio/margin.mp3')" controls="controls" controlslist="nodownload"></audio> |  |

@@ -3,6 +3,9 @@
 
 | Word  | Pronunciation | Symbol |
 | :-- | :-- | :-- |
+| Increase | <audio :src="$withBase('/audio/Increase.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| Interact | <audio :src="$withBase('/audio/Interact.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| Intermediate | <audio :src="$withBase('/audio/Intermediate.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | Immutable.js | <audio :src="$withBase('/audio/Immutabledot-js.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | icon | <audio :src="$withBase('/audio/icon.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | IEEE | <audio :src="$withBase('/audio/IEEE.mp3')" controls="controls" controlslist="nodownload"></audio> |  |

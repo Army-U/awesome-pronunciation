@@ -3,6 +3,9 @@
 
 | 单词  | 发音 | 音标 |
 | :-- | :-- | :-- |
+| RegExp | <audio :src="$withBase('/audio/RegExp.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| Relay | <audio :src="$withBase('/audio/Relay.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| Robust | <audio :src="$withBase('/audio/Robust.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | Redux | <audio :src="$withBase('/audio/Redux.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | Relay | <audio :src="$withBase('/audio/Relay.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | Robust | <audio :src="$withBase('/audio/Robust.mp3')" controls="controls" controlslist="nodownload"></audio> |  |

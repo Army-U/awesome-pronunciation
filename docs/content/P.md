@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | Symbol |
 | :-- | :-- | :-- |
+| Parameter | <audio :src="$withBase('/audio/Parameter.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | P2P | <audio :src="$withBase('/audio/P2P.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | parameter | <audio :src="$withBase('/audio/parameter.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | query | <audio :src="$withBase('/audio/query.mp3')" controls="controls" controlslist="nodownload"></audio> |  |

@@ -3,6 +3,8 @@
 
 | 单词  | 发音 | 音标 |
 | :-- | :-- | :-- |
+| Anonymous | <audio :src="$withBase('/audio/Anonymous.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| Aliases | <audio :src="$withBase('/audio/Aliases.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | asynchronous | <audio :src="$withBase('/audio/asynchronous.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | Axios | <audio :src="$withBase('/audio/Axios.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | access | <audio :src="$withBase('/audio/access.mp3')" controls="controls" controlslist="nodownload"></audio> |  |

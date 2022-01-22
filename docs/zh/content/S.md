@@ -3,6 +3,10 @@
 
 | 单词  | 发音 | 音标 |
 | :-- | :-- | :-- |
+| Shallow | <audio :src="$withBase('/audio/Shallow.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| Status | <audio :src="$withBase('/audio/Status.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| Scenario | <audio :src="$withBase('/audio/Scenario.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| Scratch | <audio :src="$withBase('/audio/Scratch.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | Scrum | <audio :src="$withBase('/audio/Scrum.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | SCSS | <audio :src="$withBase('/audio/SCSS.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | Skeleton | <audio :src="$withBase('/audio/Skeleton.mp3')" controls="controls" controlslist="nodownload"></audio> |  |

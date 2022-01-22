@@ -3,6 +3,8 @@
 
 | 单词  | 发音 | 音标 |
 | :-- | :-- | :-- |
+| Complex | <audio :src="$withBase('/audio/Complex.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| Colon | <audio :src="$withBase('/audio/Colon.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | chalk | <audio :src="$withBase('/audio/chalk.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | C# | <audio :src="$withBase('/audio/C%23.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | cache | <audio :src="$withBase('/audio/cache.mp3')" controls="controls" controlslist="nodownload"></audio> |  |

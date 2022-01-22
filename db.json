@@ -364,6 +364,22 @@
 	],
 	"D": [
 		{
+			"word": "Div",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Div&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "Definition",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Definition&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
 			"word": "Daemon",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Daemon&type=2"
@@ -426,6 +442,14 @@
 		}
 	],
 	"E": [
+		{
+			"word": "Enums",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Enums&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
 		{
 			"word": "Explicit",
 			"origin": [
@@ -688,6 +712,14 @@
 		}
 	],
 	"I": [
+		{
+			"word": "Increase",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Increase&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
 		{
 			"word": "Interact",
 			"origin": [
@@ -969,6 +1001,22 @@
 	],
 	"M": [
 		{
+			"word": "maintainer",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=maintainer&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "maintainable",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=maintainable&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
 			"word": "maintenance",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=maintenance&type=2"
@@ -1170,6 +1218,14 @@
 	],
 	"P": [
 		{
+			"word": "Parameter",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Parameter&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
 			"word": "P2P",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=P2P&type=2"
@@ -1227,6 +1283,30 @@
 		}
 	],
 	"R": [
+		{
+			"word": "RegExp",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=RegExp&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "Relay",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Relay&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "Robust",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Robust&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
 		{
 			"word": "Redux",
 			"origin": [
@@ -1512,6 +1592,14 @@
 		}
 	],
 	"T": [
+		{
+			"word": "Terminate",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Terminate&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
 		{
 			"word": "Typecast",
 			"origin": [

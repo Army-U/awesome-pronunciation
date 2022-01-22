@@ -3,6 +3,7 @@
 
 | 单词  | 发音 | 音标 |
 | :-- | :-- | :-- |
+| Failure | <audio :src="$withBase('/audio/Failure.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | favicon | <audio :src="$withBase('/audio/favicon.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | Flexbox | <audio :src="$withBase('/audio/Flexbox.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | Flux | <audio :src="$withBase('/audio/Flux.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
