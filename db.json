@@ -213,7 +213,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Bootstrap&type=2"
 			],
-			"symbol": [""],
+			"symbol": [
+				"[ˈbuːtstræp]"
+			],
 			"reference": ""
 		},
 		{
@@ -229,7 +231,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=babel&type=2"
 			],
-			"symbol": ["['bebl]"],
+			"symbol": [
+				"[ˈbæb(ə)l]"
+			],
 			"reference": ""
 		},
 		{
@@ -259,19 +263,21 @@
 	],
 	"C": [
 		{
-			"word": "Complex",
+			"word": "complex",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Complex&type=2"
 			],
-			"symbol": [""],
+			"symbol": [
+				"[ˈkɑmˌpleks]"
+			],
 			"reference": ""
 		},
 		{
-			"word": "Colon",
+			"word": "colon",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Colon&type=2"
 			],
-			"symbol": [""],
+			"symbol": ["[ˈkoʊlɑn]"],
 			"reference": ""
 		},
 		{
@@ -279,7 +285,7 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Chalk&type=2"
 			],
-			"symbol": [""],
+			"symbol": ["[tʃɔːk]"],
 			"reference": ""
 		},
 		{
@@ -311,15 +317,6 @@
 			"reference": ""
 		},
 		{
-			"word": "Ceph",
-			"origin": [
-				"http://www.howtopronounce.cc/file/ed0f4dc328ea4ce49ce3c2de545948f9.mp3"
-			],
-			"symbol": ["['sef]"],
-			"reference": "",
-			"hidden": true
-		},
-		{
 			"word": "char",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=char&type=2"
@@ -333,7 +330,7 @@
 				"https://dict.youdao.com/dictvoice?audio=console&type=2"
 			],
 			"symbol": [
-				"[kən'səʊl]"
+				"[ˈkɑnˌsoʊl]"
 			],
 			"reference": ""
 		},
@@ -362,7 +359,7 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Div&type=2"
 			],
-			"symbol": [""],
+			"symbol": ["[dɪv]"],
 			"reference": ""
 		},
 		{
@@ -370,7 +367,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Definition&type=2"
 			],
-			"symbol": [""],
+			"symbol": [
+				"[ˌdefɪˈnɪʃn]"
+			],
 			"reference": ""
 		},
 		{
@@ -398,41 +397,12 @@
 			"reference": ""
 		},
 		{
-			"word": "deque",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=deque&type=2"
-			],
-			"symbol": ["['dek]"],
-			"reference": "",
-			"hidden": true
-		},
-		{
-			"word": "Django",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Django&type=2"
-			],
-			"symbol": [
-				"[ˈdʒæŋɡoʊ]"
-			],
-			"reference": "",
-			"hidden": true
-		},
-		{
 			"word": "doc",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=doc&type=2"
 			],
-			"symbol": ["[dɒk]"],
+			"symbol": ["[dɑk]"],
 			"reference": ""
-		},
-		{
-			"word": "Dubbo",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Dubbo&type=2"
-			],
-			"symbol": ["['dʌbəu]"],
-			"reference": "",
-			"hidden": true
 		}
 	],
 	"E": [
