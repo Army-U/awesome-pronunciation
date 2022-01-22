@@ -1,9 +1,9 @@
 {
 	"A": [
 		{
-			"word": "Anonymous",
+			"word": "anonymous",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Anonymous&type=2"
+				"https://dict.youdao.com/dictvoice?audio=anonymous&type=2"
 			],
 			"symbol": [
 				"[əˈnɑːnɪməs]"
@@ -11,9 +11,9 @@
 			"reference": ""
 		},
 		{
-			"word": "Aliases",
+			"word": "aliases",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Aliases&type=2"
+				"https://dict.youdao.com/dictvoice?audio=aliases&type=2"
 			],
 			"symbol": ["[ˈeɪliəs]"],
 			"reference": ""
@@ -355,17 +355,17 @@
 	],
 	"D": [
 		{
-			"word": "Div",
+			"word": "div",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Div&type=2"
+				"https://dict.youdao.com/dictvoice?audio=div&type=2"
 			],
 			"symbol": ["[dɪv]"],
 			"reference": ""
 		},
 		{
-			"word": "Definition",
+			"word": "definition",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Definition&type=2"
+				"https://dict.youdao.com/dictvoice?audio=definition&type=2"
 			],
 			"symbol": [
 				"[ˌdefɪˈnɪʃn]"
@@ -411,15 +411,17 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Enums&type=2"
 			],
-			"symbol": [""],
+			"symbol": ["[ɪˌnjuːm]"],
 			"reference": ""
 		},
 		{
-			"word": "Explicit",
+			"word": "explicit",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Explicit&type=2"
+				"https://dict.youdao.com/dictvoice?audio=explicit&type=2"
 			],
-			"symbol": [""],
+			"symbol": [
+				"[ɪkˈsplɪsɪt]"
+			],
 			"reference": ""
 		},
 		{
@@ -427,7 +429,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=exclamation&type=2"
 			],
-			"symbol": [""],
+			"symbol": [
+				"[ˌekskləˈmeɪʃn]"
+			],
 			"reference": ""
 		},
 		{
@@ -443,9 +447,7 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=eureka&type=2"
 			],
-			"symbol": [
-				"[,jʊ(ə)'riːkə]"
-			],
+			"symbol": ["[jʊˈrikə]"],
 			"reference": ""
 		},
 		{
@@ -467,11 +469,13 @@
 	],
 	"F": [
 		{
-			"word": "Failure",
+			"word": "failure",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Failure&type=2"
+				"https://dict.youdao.com/dictvoice?audio=failure&type=2"
 			],
-			"symbol": [""],
+			"symbol": [
+				"[ˈfeɪljər]"
+			],
 			"reference": ""
 		},
 		{
@@ -483,9 +487,9 @@
 			"reference": ""
 		},
 		{
-			"word": "Flexbox",
+			"word": "flexbox",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Flexbox&type=2"
+				"https://dict.youdao.com/dictvoice?audio=flexbox&type=2"
 			],
 			"symbol": [""],
 			"reference": ""
@@ -495,37 +499,8 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Flux&type=2"
 			],
-			"symbol": [""],
+			"symbol": ["[flʌks]"],
 			"reference": ""
-		},
-		{
-			"word": "facade",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=facade&type=2"
-			],
-			"symbol": ["[fə'sɑːd]"],
-			"reference": "",
-			"hidden": true
-		},
-		{
-			"word": "fedora",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=fedora&type=2"
-			],
-			"symbol": [
-				"[fɪ'dɔːrə]"
-			],
-			"reference": "",
-			"hidden": true
-		},
-		{
-			"word": "Feign",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Feign&type=2"
-			],
-			"symbol": ["[feɪn]"],
-			"reference": "",
-			"hidden": true
 		},
 		{
 			"word": "FIFO",

@@ -3,8 +3,8 @@
 
 | Word  | Pronunciation | Symbol |
 | :-- | :-- | :-- |
-| Anonymous | <audio :src="$withBase('/audio/Anonymous.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
-| Aliases | <audio :src="$withBase('/audio/Aliases.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| anonymous | <audio :src="$withBase('/audio/anonymous.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| aliases | <audio :src="$withBase('/audio/aliases.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | asynchronous | <audio :src="$withBase('/audio/asynchronous.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | Axios | <audio :src="$withBase('/audio/Axios.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | access | <audio :src="$withBase('/audio/access.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
