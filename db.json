@@ -861,7 +861,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=maintainer&type=2"
 			],
-			"symbol": [""],
+			"symbol": [
+				"[menˈteɪnər]"
+			],
 			"reference": ""
 		},
 		{
@@ -869,7 +871,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=maintainable&type=2"
 			],
-			"symbol": [""],
+			"symbol": [
+				"[meɪnˈteɪnəbl]"
+			],
 			"reference": ""
 		},
 		{
@@ -877,7 +881,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=maintenance&type=2"
 			],
-			"symbol": [""],
+			"symbol": [
+				"[ˈmeɪntənəns]"
+			],
 			"reference": ""
 		},
 		{
@@ -885,7 +891,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Multithreading&type=2"
 			],
-			"symbol": [""],
+			"symbol": [
+				"[ˌmʌltiˈθredɪŋ]"
+			],
 			"reference": ""
 		},
 		{
@@ -973,15 +981,7 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Nexus&type=2"
 			],
-			"symbol": [""],
-			"reference": ""
-		},
-		{
-			"word": "Nexus",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Nexus&type=2"
-			],
-			"symbol": [""],
+			"symbol": ["[ˈneksəs]"],
 			"reference": ""
 		},
 		{
@@ -1053,30 +1053,12 @@
 	],
 	"P": [
 		{
-			"word": "Parameter",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Parameter&type=2"
-			],
-			"symbol": [""],
-			"reference": ""
-		},
-		{
-			"word": "P2P",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=P2P&type=2"
-			],
-			"symbol": [
-				"[pi: tuː pi:]"
-			],
-			"reference": ""
-		},
-		{
 			"word": "parameter",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=parameter&type=2"
 			],
 			"symbol": [
-				"[pə'ræmɪtə]"
+				"[pəˈræmɪtər]"
 			],
 			"reference": ""
 		},
@@ -1085,7 +1067,7 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=query&type=2"
 			],
-			"symbol": ["['kwɪərɪ]"],
+			"symbol": ["[ˈkwɪri]"],
 			"reference": ""
 		},
 		{
@@ -1093,7 +1075,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=python&type=2"
 			],
-			"symbol": ["['paɪθɑn]"],
+			"symbol": [
+				"[ˈpaɪθɑːn]"
+			],
 			"reference": ""
 		}
 	],
@@ -1108,19 +1092,23 @@
 			"reference": ""
 		},
 		{
-			"word": "Relay",
+			"word": "relay",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Relay&type=2"
+				"https://dict.youdao.com/dictvoice?audio=relay&type=2"
 			],
-			"symbol": [""],
+			"symbol": [
+				"[ˈriːleɪ; rɪˈleɪ]"
+			],
 			"reference": ""
 		},
 		{
-			"word": "Robust",
+			"word": "robust",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Robust&type=2"
+				"https://dict.youdao.com/dictvoice?audio=robust&type=2"
 			],
-			"symbol": [""],
+			"symbol": [
+				"[roʊˈbʌst]"
+			],
 			"reference": ""
 		},
 		{
@@ -1128,23 +1116,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Redux&type=2"
 			],
-			"symbol": [""],
-			"reference": ""
-		},
-		{
-			"word": "Relay",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Relay&type=2"
+			"symbol": [
+				"[ˈriːdʌks]"
 			],
-			"symbol": [""],
-			"reference": ""
-		},
-		{
-			"word": "Robust",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Robust&type=2"
-			],
-			"symbol": [""],
 			"reference": ""
 		},
 		{
@@ -1187,7 +1161,7 @@
 				"https://dict.youdao.com/dictvoice?audio=resolved&type=2"
 			],
 			"symbol": [
-				"[rɪ'zɒlvd]"
+				"[rɪˈzɑːlvd]"
 			],
 			"reference": ""
 		},
@@ -1198,57 +1172,51 @@
 			],
 			"symbol": ["['retɪnə]"],
 			"reference": ""
-		},
-		{
-			"word": "RFID",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=RFID&type=2"
-			],
-			"symbol": [
-				"[ɑː ef aɪ diː]"
-			],
-			"reference": ""
 		}
 	],
 	"S": [
 		{
-			"word": "Shallow",
+			"word": "shallow",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Shallow&type=2"
+				"https://dict.youdao.com/dictvoice?audio=shallow&type=2"
 			],
-			"symbol": [""],
+			"symbol": ["[ˈʃæloʊ]"],
 			"reference": ""
 		},
 		{
-			"word": "Status",
+			"word": "status",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Status&type=2"
+				"https://dict.youdao.com/dictvoice?audio=status&type=2"
 			],
-			"symbol": [""],
+			"symbol": [
+				"[ˈsteɪtəs]"
+			],
 			"reference": ""
 		},
 		{
-			"word": "Scenario",
+			"word": "scenario",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Scenario&type=2"
+				"https://dict.youdao.com/dictvoice?audio=scenario&type=2"
 			],
-			"symbol": [""],
+			"symbol": [
+				"[səˈnærioʊ]"
+			],
 			"reference": ""
 		},
 		{
-			"word": "Scratch",
+			"word": "scratch",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Scratch&type=2"
+				"https://dict.youdao.com/dictvoice?audio=scratch&type=2"
 			],
-			"symbol": [""],
+			"symbol": ["[skrætʃ]"],
 			"reference": ""
 		},
 		{
-			"word": "Scrum",
+			"word": "scrum",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Scrum&type=2"
+				"https://dict.youdao.com/dictvoice?audio=scrum&type=2"
 			],
-			"symbol": [""],
+			"symbol": ["[skrʌm]"],
 			"reference": ""
 		},
 		{
@@ -1258,11 +1226,13 @@
 			"reference": ""
 		},
 		{
-			"word": "Skeleton",
+			"word": "skeleton",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Skeleton&type=2"
+				"https://dict.youdao.com/dictvoice?audio=skeleton&type=2"
 			],
-			"symbol": [""],
+			"symbol": [
+				"[ˈskelɪtn]"
+			],
 			"reference": ""
 		},
 		{
@@ -1274,20 +1244,20 @@
 			"reference": ""
 		},
 		{
-			"word": "Scalability",
+			"word": "scale",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Scalability&type=2"
+				"https://dict.youdao.com/dictvoice?audio=scale&type=2"
 			],
-			"symbol": [""],
+			"symbol": ["[skeɪl]"],
 			"reference": ""
 		},
 		{
-			"word": "Samsung",
+			"word": "scalability",
 			"origin": [
-				"http://www.howtopronounce.cc/file/e47ab1863e8c49419226b85116cfe959.mp3"
+				"https://dict.youdao.com/dictvoice?audio=scalability&type=2"
 			],
 			"symbol": [
-				"['sæmsɔ:ŋ]"
+				"[ˌskeɪləˈbɪləti]"
 			],
 			"reference": ""
 		},
@@ -1296,15 +1266,7 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Safari&type=2"
 			],
-			"symbol": ["[sə'fɑrɪ]"],
-			"reference": ""
-		},
-		{
-			"word": "scala",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=scala&type=2"
-			],
-			"symbol": ["[ˈskɑːlə]"],
+			"symbol": ["[səˈfɑri]"],
 			"reference": ""
 		},
 		{
@@ -1313,14 +1275,6 @@
 				"https://dict.youdao.com/dictvoice?audio=scheme&type=2"
 			],
 			"symbol": ["[skiːm]"],
-			"reference": ""
-		},
-		{
-			"word": "script",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=script&type=2"
-			],
-			"symbol": ["[skrɪpt]"],
 			"reference": ""
 		},
 		{
@@ -1338,7 +1292,7 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=shell&type=2"
 			],
-			"symbol": ["[ʃɛl]"],
+			"symbol": ["[ʃel]"],
 			"reference": ""
 		},
 		{
@@ -1368,35 +1322,39 @@
 	],
 	"T": [
 		{
-			"word": "Terminate",
+			"word": "terminate",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Terminate&type=2"
+				"https://dict.youdao.com/dictvoice?audio=terminate&type=2"
 			],
-			"symbol": [""],
+			"symbol": [
+				"[ˈtɜːrmɪneɪt]"
+			],
 			"reference": ""
 		},
 		{
-			"word": "Typecast",
+			"word": "typecast",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Typecast&type=2"
+				"https://dict.youdao.com/dictvoice?audio=typecast&type=2"
 			],
-			"symbol": [""],
+			"symbol": [
+				"[ˈtaɪpkæst]"
+			],
 			"reference": ""
 		},
 		{
-			"word": "Toggle",
+			"word": "toggle",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Toggle&type=2"
+				"https://dict.youdao.com/dictvoice?audio=toggle&type=2"
 			],
-			"symbol": [""],
+			"symbol": ["[ˈtɑːɡl]"],
 			"reference": ""
 		},
 		{
-			"word": "Tuple",
+			"word": "tuple",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Tuple&type=2"
+				"https://dict.youdao.com/dictvoice?audio=tuple&type=2"
 			],
-			"symbol": [""],
+			"symbol": ["[ˈtjʊpəl]"],
 			"reference": ""
 		},
 		{
@@ -1404,7 +1362,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=turbo&type=2"
 			],
-			"symbol": ["['tɝbo]"],
+			"symbol": [
+				"[ˈtɜːrboʊ]"
+			],
 			"reference": ""
 		}
 	],
@@ -1420,11 +1380,11 @@
 	],
 	"V": [
 		{
-			"word": "Vanilla",
+			"word": "vanilla",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Vanilla&type=2"
+				"https://dict.youdao.com/dictvoice?audio=vanilla&type=2"
 			],
-			"symbol": [""],
+			"symbol": ["[vəˈnɪlə]"],
 			"reference": ""
 		},
 		{
@@ -1433,7 +1393,7 @@
 				"https://dict.youdao.com/dictvoice?audio=variable&type=2"
 			],
 			"symbol": [
-				"['veərɪəbl]"
+				"[ˈveriəblˌˈværiəbl]"
 			],
 			"reference": ""
 		},
@@ -1444,23 +1404,17 @@
 			],
 			"symbol": ["[vɪm]"],
 			"reference": ""
-		},
-		{
-			"word": "vue",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=vue&type=2"
-			],
-			"symbol": ["[v'ju:]"],
-			"reference": ""
 		}
 	],
 	"W": [
 		{
-			"word": "Wobbler",
+			"word": "wobbler",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Wobbler&type=2"
+				"https://dict.youdao.com/dictvoice?audio=wobbler&type=2"
 			],
-			"symbol": [""],
+			"symbol": [
+				"[ˈwɑːblər]"
+			],
 			"reference": ""
 		},
 		{
@@ -1509,7 +1463,7 @@
 				"https://dict.youdao.com/dictvoice?audio=YouTube&type=2"
 			],
 			"symbol": [
-				"['juː'tjuːb]"
+				"['ju:tju:b]"
 			],
 			"reference": ""
 		},

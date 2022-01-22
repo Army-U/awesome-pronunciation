@@ -3,7 +3,7 @@
 
 | Word  | Pronunciation | Symbol |
 | :-- | :-- | :-- |
-| LESS | <audio :src="$withBase('/audio/LESS.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| LESS | <audio :src="$withBase('/audio/LESS.mp3')" controls="controls" controlslist="nodownload"></audio> | [les] |
 | Linaria | <audio :src="$withBase('/audio/Linaria.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | Lodash | <audio :src="$withBase('/audio/Lodash.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | lambda | <audio :src="$withBase('/audio/lambda.mp3')" controls="controls" controlslist="nodownload"></audio> | ['læmdə] |

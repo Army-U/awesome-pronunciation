@@ -3,8 +3,8 @@
 
 | 单词  | 发音 | 音标 |
 | :-- | :-- | :-- |
-| Terminate | <audio :src="$withBase('/audio/Terminate.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
-| Typecast | <audio :src="$withBase('/audio/Typecast.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
-| Toggle | <audio :src="$withBase('/audio/Toggle.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
-| Tuple | <audio :src="$withBase('/audio/Tuple.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
-| turbo | <audio :src="$withBase('/audio/turbo.mp3')" controls="controls" controlslist="nodownload"></audio> | ['tɝbo] |
+| terminate | <audio :src="$withBase('/audio/terminate.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈtɜːrmɪneɪt] |
+| typecast | <audio :src="$withBase('/audio/typecast.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈtaɪpkæst] |
+| toggle | <audio :src="$withBase('/audio/toggle.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈtɑːɡl] |
+| tuple | <audio :src="$withBase('/audio/tuple.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈtjʊpəl] |
+| turbo | <audio :src="$withBase('/audio/turbo.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈtɜːrboʊ] |

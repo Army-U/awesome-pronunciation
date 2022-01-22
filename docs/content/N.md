@@ -3,8 +3,7 @@
 
 | Word  | Pronunciation | Symbol |
 | :-- | :-- | :-- |
-| Nexus | <audio :src="$withBase('/audio/Nexus.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
-| Nexus | <audio :src="$withBase('/audio/Nexus.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| Nexus | <audio :src="$withBase('/audio/Nexus.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈneksəs] |
 | Nodemon | <audio :src="$withBase('/audio/Nodemon.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | nginx | <audio :src="$withBase('/audio/nginx.mp3')" controls="controls" controlslist="nodownload"></audio> | Engine-X ['endʒɪn eks] |
 | Netflix | <audio :src="$withBase('/audio/Netflix.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈnetfliːks] |

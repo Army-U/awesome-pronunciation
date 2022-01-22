@@ -3,10 +3,10 @@
 
 | Word  | Pronunciation | Symbol |
 | :-- | :-- | :-- |
-| maintainer | <audio :src="$withBase('/audio/maintainer.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
-| maintainable | <audio :src="$withBase('/audio/maintainable.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
-| maintenance | <audio :src="$withBase('/audio/maintenance.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
-| multithreading | <audio :src="$withBase('/audio/multithreading.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| maintainer | <audio :src="$withBase('/audio/maintainer.mp3')" controls="controls" controlslist="nodownload"></audio> | [menˈteɪnər] |
+| maintainable | <audio :src="$withBase('/audio/maintainable.mp3')" controls="controls" controlslist="nodownload"></audio> | [meɪnˈteɪnəbl] |
+| maintenance | <audio :src="$withBase('/audio/maintenance.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈmeɪntənəns] |
+| multithreading | <audio :src="$withBase('/audio/multithreading.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˌmʌltiˈθredɪŋ] |
 | main | <audio :src="$withBase('/audio/main.mp3')" controls="controls" controlslist="nodownload"></audio> | [meɪn] |
 | margin | <audio :src="$withBase('/audio/margin.mp3')" controls="controls" controlslist="nodownload"></audio> | ['mɑːdʒɪn] |
 | matrix | <audio :src="$withBase('/audio/matrix.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈmeɪtrɪks] |
