@@ -3,6 +3,8 @@
 
 | 单词  | 发音 | 音标 |
 | :-- | :-- | :-- |
+| authorization | <audio :src="$withBase('/audio/authorization.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˌɔːθərəˈzeɪʃn] |
+| authorize | <audio :src="$withBase('/audio/authorize.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈɔθəˌraɪz] |
 | anonymous | <audio :src="$withBase('/audio/anonymous.mp3')" controls="controls" controlslist="nodownload"></audio> | [əˈnɑːnɪməs] |
 | aliases | <audio :src="$withBase('/audio/aliases.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈeɪliəs] |
 | asynchronous | <audio :src="$withBase('/audio/asynchronous.mp3')" controls="controls" controlslist="nodownload"></audio> | [eɪˈsɪŋkrənəs] |

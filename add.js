@@ -2,11 +2,8 @@ const fs = require('fs');
 const prettier = require('prettier');
 
 const newWords = [
-	'constant',
-	'logarithmic',
-	'linear',
-	// 'quadratic',  [kwɑːˈdrætɪk]
-	'cubic',
+	'authorize',
+	'authorization',
 ];
 
 const db = JSON.parse(

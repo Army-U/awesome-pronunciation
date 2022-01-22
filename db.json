@@ -1,6 +1,26 @@
 {
 	"A": [
 		{
+			"word": "authorization",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=authorization&type=2"
+			],
+			"symbol": [
+				"[ˌɔːθərəˈzeɪʃn]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "authorize",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=authorize&type=2"
+			],
+			"symbol": [
+				"[ˈɔθəˌraɪz]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "anonymous",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=anonymous&type=2"
