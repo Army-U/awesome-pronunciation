@@ -3,7 +3,7 @@
 
 | Word  | Pronunciation | Symbol |
 | :-- | :-- | :-- |
-| RegExp | <audio :src="$withBase('/audio/RegExp.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| RegExp | <audio :src="$withBase('/audio/RegExp.mp3')" controls="controls" controlslist="nodownload"></audio> | /ˈɹɛɡˌɛks/ |
 | relay | <audio :src="$withBase('/audio/relay.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈriːleɪ; rɪˈleɪ] |
 | robust | <audio :src="$withBase('/audio/robust.mp3')" controls="controls" controlslist="nodownload"></audio> | [roʊˈbʌst] |
 | Redux | <audio :src="$withBase('/audio/Redux.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈriːdʌks] |
