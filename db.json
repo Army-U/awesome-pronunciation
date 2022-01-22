@@ -5,7 +5,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Anonymous&type=2"
 			],
-			"symbol": [""],
+			"symbol": [
+				"[əˈnɑːnɪməs]"
+			],
 			"reference": ""
 		},
 		{
@@ -13,7 +15,7 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Aliases&type=2"
 			],
-			"symbol": [""],
+			"symbol": ["[ˈeɪliəs]"],
 			"reference": ""
 		},
 		{
@@ -21,7 +23,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Asynchronous&type=2"
 			],
-			"symbol": [""],
+			"symbol": [
+				"[eɪˈsɪŋkrənəs]"
+			],
 			"reference": ""
 		},
 		{
@@ -63,7 +67,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=agile&type=2"
 			],
-			"symbol": ["['ædʒaɪl]"],
+			"symbol": [
+				"[ˈædʒ(ə)l]"
+			],
 			"reference": ""
 		},
 		{
@@ -71,7 +77,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=amazon&type=2"
 			],
-			"symbol": ["['æməzən]"],
+			"symbol": [
+				"[ˈæməzɑːn]"
+			],
 			"reference": ""
 		},
 		{
@@ -80,7 +88,7 @@
 				"https://dict.youdao.com/dictvoice?audio=Angular&type=2"
 			],
 			"symbol": [
-				"['æŋgjʊlə]"
+				"[ˈæŋɡjələr]"
 			],
 			"reference": ""
 		},
@@ -93,15 +101,6 @@
 				"[eə bi: en bi:]"
 			],
 			"reference": ""
-		},
-		{
-			"word": "Akka",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Akka&type=2"
-			],
-			"symbol": ["[ˈʌkɑː]"],
-			"reference": "",
-			"hidden": true
 		},
 		{
 			"word": "AJAX",
@@ -127,7 +126,7 @@
 				"https://dict.youdao.com/dictvoice?audio=android&type=2"
 			],
 			"symbol": [
-				"['ændrɒid]"
+				"[ˈænˌdrɔɪd]"
 			],
 			"reference": ""
 		},
@@ -136,7 +135,7 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Apache&type=2"
 			],
-			"symbol": ["[ə'pætʃɪ]"],
+			"symbol": ["[ə'pætʃi]"],
 			"reference": ""
 		},
 		{
@@ -152,7 +151,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=archive&type=2"
 			],
-			"symbol": ["['ɑːkaɪv]"],
+			"symbol": [
+				"[ˈɑːrkaɪv]"
+			],
 			"reference": ""
 		},
 		{
@@ -192,17 +193,10 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=avatar&type=2"
 			],
-			"symbol": ["['ævətɑː]"],
-			"reference": ""
-		},
-		{
-			"word": "Axure",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=Axure&type=2"
+			"symbol": [
+				"[ˈævətɑːr]"
 			],
-			"symbol": ["[`æk∫ur]"],
-			"reference": "",
-			"hidden": true
+			"reference": ""
 		},
 		{
 			"word": "Azure",
