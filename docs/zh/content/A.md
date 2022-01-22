@@ -13,7 +13,7 @@
 | admin | <audio :src="$withBase('/audio/admin.mp3')" controls="controls" controlslist="nodownload"></audio> | ['ædmɪn] |
 | adobe | <audio :src="$withBase('/audio/adobe.mp3')" controls="controls" controlslist="nodownload"></audio> | [ə'dəʊbɪ; ə'dəʊb] |
 | agile | <audio :src="$withBase('/audio/agile.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈædʒ(ə)l] |
-| amazon | <audio :src="$withBase('/audio/amazon.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈæməzɑːn] |
+| Amazon | <audio :src="$withBase('/audio/Amazon.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈæməzɑːn] |
 | Angular | <audio :src="$withBase('/audio/Angular.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈæŋɡjələr] |
 | AirBnB | <audio :src="$withBase('/audio/AirBnB.mp3')" controls="controls" controlslist="nodownload"></audio> | [eə bi: en bi:] |
 | AJAX | <audio :src="$withBase('/audio/AJAX.mp3')" controls="controls" controlslist="nodownload"></audio> | ['eidʒæks] |
