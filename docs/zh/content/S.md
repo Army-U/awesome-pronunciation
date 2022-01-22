@@ -3,6 +3,7 @@
 
 | 单词  | 发音 | 音标 |
 | :-- | :-- | :-- |
+| stringify | <audio :src="$withBase('/audio/stringify.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | shallow | <audio :src="$withBase('/audio/shallow.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈʃæloʊ] |
 | status | <audio :src="$withBase('/audio/status.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈsteɪtəs] |
 | scenario | <audio :src="$withBase('/audio/scenario.mp3')" controls="controls" controlslist="nodownload"></audio> | [səˈnærioʊ] |
@@ -22,5 +23,6 @@
 
 ## 参考资料
 
+- https://www.youtube.com/watch?v=yXrqtLZmk_k
 - [Pronouncing SQL: S-Q-L or Sequel?](http://patorjk.com/blog/2012/01/26/pronouncing-sql-s-q-l-or-sequel/)
 - [sudo from wikipedia](https://en.wikipedia.org/wiki/Sudo)
