@@ -929,6 +929,24 @@
 	],
 	"M": [
 		{
+			"word": "modal",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=modal&type=2"
+			],
+			"symbol": ["[ˈmoʊdl]"],
+			"reference": ""
+		},
+		{
+			"word": "model",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=model&type=2"
+			],
+			"symbol": [
+				"[ˈmɑd(ə)l]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "macro",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=macro&type=2"

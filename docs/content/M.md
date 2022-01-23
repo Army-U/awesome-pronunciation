@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | Symbol |
 | :-- | :-- | :-- |
+| modal | <audio :src="$withBase('/audio/modal.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈmoʊdl] |
+| model | <audio :src="$withBase('/audio/model.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈmɑd(ə)l] |
 | macro | <audio :src="$withBase('/audio/macro.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈmækroʊ] |
 | micro | <audio :src="$withBase('/audio/micro.mp3')" controls="controls" controlslist="nodownload"></audio> | ['maɪkrəʊ] |
 | maintainer | <audio :src="$withBase('/audio/maintainer.mp3')" controls="controls" controlslist="nodownload"></audio> | [menˈteɪnər] |
