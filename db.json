@@ -1798,7 +1798,7 @@
 			"reference": ""
 		},
 		{
-			"word": "period `.`",
+			"word": "period (.(",
 			"key": "period",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=period&type=2"
@@ -1809,7 +1809,7 @@
 			"reference": ""
 		},
 		{
-			"word": "comma `,`",
+			"word": "comma (,(",
 			"key": "comma",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=comma&type=2"
@@ -1820,7 +1820,7 @@
 			"reference": ""
 		},
 		{
-			"word": "colon `:`",
+			"word": "colon (:(",
 			"key": "colon",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=colon&type=2"
@@ -1831,7 +1831,7 @@
 			"reference": ""
 		},
 		{
-			"word": "semicolon `;`",
+			"word": "semicolon (;(",
 			"key": "semicolon",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=semicolon&type=2"
@@ -1842,7 +1842,7 @@
 			"reference": ""
 		},
 		{
-			"word": "apostrophe `'`",
+			"word": "apostrophe ('(",
 			"key": "apostrophe",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=apostrophe&type=2"
@@ -1853,7 +1853,7 @@
 			"reference": ""
 		},
 		{
-			"word": "hyphen `-`",
+			"word": "hyphen (-(",
 			"key": "",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=hyphen&type=2"
@@ -1864,7 +1864,7 @@
 			"reference": ""
 		},
 		{
-			"word": "ellipses `...`",
+			"word": "ellipses (...(",
 			"key": "ellipses",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=ellipses&type=2"
@@ -1875,7 +1875,7 @@
 			"reference": ""
 		},
 		{
-			"word": "ampersand `&`",
+			"word": "ampersand (&(",
 			"key": "ampersand",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=ampersand&type=2"
@@ -1886,7 +1886,7 @@
 			"reference": ""
 		},
 		{
-			"word": "asterisk `*`",
+			"word": "asterisk (*(",
 			"key": "asterisk",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=asterisk&type=2"
@@ -1897,7 +1897,7 @@
 			"reference": ""
 		},
 		{
-			"word": "round brackets / parentheses `()`",
+			"word": "round brackets / parentheses (()(",
 			"key": "parentheses",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=parentheses&type=2"
@@ -1908,7 +1908,7 @@
 			"reference": ""
 		},
 		{
-			"word": "braces `{}`",
+			"word": "braces ({}(",
 			"key": "braces",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=braces&type=2"
@@ -1919,70 +1919,70 @@
 			"reference": ""
 		},
 		{
-			"word": "quotation mark `\"`",
+			"word": "quotation mark (\"(",
 			"key": "quotation-mark",
 			"origin": [],
 			"phonetic": [],
 			"reference": ""
 		},
 		{
-			"word": "forward slash `/`",
+			"word": "forward slash (/(",
 			"key": "forward-slash",
 			"origin": [],
 			"phonetic": [],
 			"reference": ""
 		},
 		{
-			"word": "backslash `\\`",
+			"word": "backslash (\\(",
 			"key": "backslash",
 			"origin": [],
 			"phonetic": [],
 			"reference": ""
 		},
 		{
-			"word": "less than sign `<`",
+			"word": "less than sign (<(",
 			"key": "less-then-sign",
 			"origin": [],
 			"phonetic": [],
 			"reference": ""
 		},
 		{
-			"word": "greater than sign `>`",
+			"word": "greater than sign (>(",
 			"key": "greater-than-sign",
 			"origin": [],
 			"phonetic": [],
 			"reference": ""
 		},
 		{
-			"word": "pound sign / hashtag `#`",
+			"word": "pound sign / hashtag (#(",
 			"key": "pound-sign",
 			"origin": [],
 			"phonetic": [],
 			"reference": ""
 		},
 		{
-			"word": "percent sign `%`",
+			"word": "percent sign (%(",
 			"key": "percent-sign",
 			"origin": [],
 			"phonetic": [],
 			"reference": ""
 		},
 		{
-			"word": "question mark `?`",
+			"word": "question mark (?(",
 			"key": "question-mark",
 			"origin": [],
 			"phonetic": [],
 			"reference": ""
 		},
 		{
-			"word": "exclamation mark `!`",
+			"word": "exclamation mark (!(",
 			"key": "exclamation-mark",
 			"origin": [],
 			"phonetic": [],
 			"reference": ""
 		},
 		{
-			"word": "square brackets `[]`",
+			"word": "square brackets ([](",
 			"key": "square-brackets",
 			"origin": [],
 			"phonetic": [],
