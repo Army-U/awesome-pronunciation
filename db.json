@@ -1247,6 +1247,16 @@
 	],
 	"R": [
 		{
+			"word": "repository",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=repository&type=2"
+			],
+			"symbol": [
+				"[rɪˈpɑːzətɔːri]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "represent",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=represent&type=2"
@@ -1561,11 +1571,23 @@
 	],
 	"V": [
 		{
+			"word": "vulnerability",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=vulnerability&type=2"
+			],
+			"symbol": [
+				"[ˌvʌlnərəˈbɪləti"
+			],
+			"reference": ""
+		},
+		{
 			"word": "via",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=via&type=2"
 			],
-			"symbol": [""],
+			"symbol": [
+				"[ˈvaɪə; ˈviːə]"
+			],
 			"reference": ""
 		},
 		{

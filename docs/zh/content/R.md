@@ -3,6 +3,7 @@
 
 | 单词  | 发音 | 音标 |
 | :-- | :-- | :-- |
+| repository | <audio :src="$withBase('/audio/repository.mp3')" controls="controls" controlslist="nodownload"></audio> | [rɪˈpɑːzətɔːri] |
 | represent | <audio :src="$withBase('/audio/represent.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | RegExp | <audio :src="$withBase('/audio/RegExp.mp3')" controls="controls" controlslist="nodownload"></audio> | /ˈɹɛɡˌɛks/ |
 | relay | <audio :src="$withBase('/audio/relay.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈriːleɪ; rɪˈleɪ] |

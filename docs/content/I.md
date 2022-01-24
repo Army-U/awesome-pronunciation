@@ -3,7 +3,7 @@
 
 | Word  | Pronunciation | Symbol |
 | :-- | :-- | :-- |
-| integrity | <audio :src="$withBase('/audio/integrity.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
+| integrity | <audio :src="$withBase('/audio/integrity.mp3')" controls="controls" controlslist="nodownload"></audio> | [ɪnˈteɡrəti] |
 | increase | <audio :src="$withBase('/audio/increase.mp3')" controls="controls" controlslist="nodownload"></audio> | [ɪnˈkris] |
 | interact | <audio :src="$withBase('/audio/interact.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˌɪntərˈækt] |
 | intermediate | <audio :src="$withBase('/audio/intermediate.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˌɪntərˈmidiət]  |
