@@ -8,8 +8,7 @@
 	},
 	"scripts": {
 		"dev": "static-server docs",
-		"build": "vuepress build docs",
-		"deploy": "yarn download && yarn generate && yarn build",
+		"build": "yarn download && yarn generate",
 		"download": "rm docs2/public/audio/* && node download.js",
 		"generate": "node generate.js"
 	},
@@ -23,9 +22,7 @@
 		"url": "https://github.com/Army-U/awesome-pronunciation/issues"
 	},
 	"homepage": "https://github.com/Army-U/awesome-pronunciation#readme",
-	"devDependencies": {
-		"vuepress": "1.9.7"
-	},
+	"devDependencies": {},
 	"dependencies": {
 		"prettier": "2.5.1",
 		"static-server": "2.2.1"

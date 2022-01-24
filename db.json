@@ -1921,8 +1921,21 @@
 		{
 			"word": "quotation mark _\"_",
 			"key": "quotation-mark",
-			"origin": [],
-			"phonetic": [],
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=quotation&type=2"
+			],
+			"phonetic": [
+				"[kwoʊˈteɪʃ(ə)n]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "pound sign / hashtag _#_",
+			"key": "pound-sign",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=pound&type=2"
+			],
+			"phonetic": ["[paʊnd]"],
 			"reference": ""
 		},
 		{
@@ -1949,13 +1962,6 @@
 		{
 			"word": "greater than sign _>_",
 			"key": "greater-than-sign",
-			"origin": [],
-			"phonetic": [],
-			"reference": ""
-		},
-		{
-			"word": "pound sign / hashtag _#_",
-			"key": "pound-sign",
 			"origin": [],
 			"phonetic": [],
 			"reference": ""
