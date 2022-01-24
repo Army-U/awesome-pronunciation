@@ -1,7 +1,7 @@
 
 # J
 
-| Word  | Pronunciation | Symbol |
+| Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | Java | <audio :src="$withBase('/audio/Java.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈdʒɑvə] |
 | Jenkins | <audio :src="$withBase('/audio/Jenkins.mp3')" controls="controls" controlslist="nodownload"></audio> | ['dʒeŋkinz] |

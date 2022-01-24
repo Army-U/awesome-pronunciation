@@ -1,7 +1,7 @@
 
 # H
 
-| Word  | Pronunciation | Symbol |
+| Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | hyphen | <audio :src="$withBase('/audio/hyphen.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈhaɪfən] |
 | Hadoop | <audio :src="$withBase('/audio/Hadoop.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈhʌduːp] |

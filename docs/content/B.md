@@ -1,7 +1,7 @@
 
 # B
 
-| Word  | Pronunciation | Symbol |
+| Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | Bootstrap | <audio :src="$withBase('/audio/Bootstrap.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈbuːtstræp] |
 | Browserify | <audio :src="$withBase('/audio/Browserify.mp3')" controls="controls" controlslist="nodownload"></audio> |  |

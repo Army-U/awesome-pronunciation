@@ -1,7 +1,7 @@
 
 # G
 
-| Word  | Pronunciation | Symbol |
+| Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | Git | <audio :src="$withBase('/audio/Git.mp3')" controls="controls" controlslist="nodownload"></audio> | [ɡɪt] |
 | GIF | <audio :src="$withBase('/audio/GIF-0.mp3')" controls="controls" controlslist="nodownload"></audio><br/><audio :src="$withBase('/audio/GIF-1.mp3')" controls="controls" controlslist="nodownload"></audio> | [ɡɪf]<br/>[dʒɪf] |

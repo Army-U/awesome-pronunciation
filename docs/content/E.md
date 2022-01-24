@@ -1,7 +1,7 @@
 
 # E
 
-| Word  | Pronunciation | Symbol |
+| Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | Enums | <audio :src="$withBase('/audio/Enums.mp3')" controls="controls" controlslist="nodownload"></audio> | [ɪˌnjuːm] |
 | explicit | <audio :src="$withBase('/audio/explicit.mp3')" controls="controls" controlslist="nodownload"></audio> | [ɪkˈsplɪsɪt] |

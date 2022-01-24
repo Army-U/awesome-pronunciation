@@ -1,7 +1,7 @@
 
 # L
 
-| Word  | Pronunciation | Symbol |
+| Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | linear | <audio :src="$withBase('/audio/linear.mp3')" controls="controls" controlslist="nodownload"></audio> | ['lɪnɪə] |
 | logarithmic | <audio :src="$withBase('/audio/logarithmic.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˌlɔːɡəˈrɪðmɪk] |

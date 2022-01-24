@@ -1,7 +1,7 @@
 
 # P
 
-| Word  | Pronunciation | Symbol |
+| Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | parameter | <audio :src="$withBase('/audio/parameter.mp3')" controls="controls" controlslist="nodownload"></audio> | [pəˈræmɪtər] |
 | query | <audio :src="$withBase('/audio/query.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈkwɪri] |

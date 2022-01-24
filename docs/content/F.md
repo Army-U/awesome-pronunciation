@@ -1,7 +1,7 @@
 
 # F
 
-| Word  | Pronunciation | Symbol |
+| Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | failure | <audio :src="$withBase('/audio/failure.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈfeɪljər] |
 | favicon | <audio :src="$withBase('/audio/favicon.mp3')" controls="controls" controlslist="nodownload"></audio> |  |

@@ -1,7 +1,7 @@
 
 # Y
 
-| Word  | Pronunciation | Symbol |
+| Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | Yargs | <audio :src="$withBase('/audio/Yargs.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | YouTube | <audio :src="$withBase('/audio/YouTube.mp3')" controls="controls" controlslist="nodownload"></audio> | ['ju:tju:b] |

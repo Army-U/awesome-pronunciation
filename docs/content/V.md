@@ -1,7 +1,7 @@
 
 # V
 
-| Word  | Pronunciation | Symbol |
+| Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | vulnerability | <audio :src="$withBase('/audio/vulnerability.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˌvʌlnərəˈbɪləti |
 | via | <audio :src="$withBase('/audio/via.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈvaɪə; ˈviːə] |

@@ -1,7 +1,7 @@
 
 # S
 
-| Word  | Pronunciation | Symbol |
+| Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | stringify | <audio :src="$withBase('/audio/stringify.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | shallow | <audio :src="$withBase('/audio/shallow.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈʃæloʊ] |

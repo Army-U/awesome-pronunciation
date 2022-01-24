@@ -29,22 +29,32 @@ function downloadLetter(
 	wordList,
 ) {
 	for (const j of wordList) {
+		if (
+			!j.origin ||
+			j.origin.length === 0 ||
+			j.explanation
+		) {
+			continue;
+		}
 		for (const index in j.origin) {
 			let filepath = '';
 			if (
 				j.origin.length === 1
 			) {
-				filepath = `./docs/.vuepress/public/audio/${j.word.replace(
+				filepath = `./docs/.vuepress/public/audio/${(
+					j.key || j.word
+				).replace(
 					'.',
 					'dot-',
 				)}.mp3`;
 			} else {
-				filepath = `./docs/.vuepress/public/audio/${j.word.replace(
+				filepath = `./docs/.vuepress/public/audio/${(
+					j.key || j.word
+				).replace(
 					'.',
 					'dot-',
 				)}-${index}.mp3`;
 			}
-
 			if (
 				!isFileExist(filepath)
 			) {

@@ -1,7 +1,7 @@
 
 # T
 
-| Word  | Pronunciation | Symbol |
+| Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | terminate | <audio :src="$withBase('/audio/terminate.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈtɜːrmɪneɪt] |
 | typecast | <audio :src="$withBase('/audio/typecast.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈtaɪpkæst] |

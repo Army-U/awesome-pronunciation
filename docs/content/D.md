@@ -1,7 +1,7 @@
 
 # D
 
-| Word  | Pronunciation | Symbol |
+| Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | delimiter | <audio :src="$withBase('/audio/delimiter.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | declaration | <audio :src="$withBase('/audio/declaration.mp3')" controls="controls" controlslist="nodownload"></audio> |  |

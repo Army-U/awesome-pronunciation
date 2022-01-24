@@ -1,7 +1,7 @@
 
 # M
 
-| Word  | Pronunciation | Symbol |
+| Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | manipulate | <audio :src="$withBase('/audio/manipulate.mp3')" controls="controls" controlslist="nodownload"></audio> | [məˈnɪpjuleɪt] |
 | modal | <audio :src="$withBase('/audio/modal.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈmoʊdl] |

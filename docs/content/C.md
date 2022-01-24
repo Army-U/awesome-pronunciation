@@ -1,7 +1,7 @@
 
 # C
 
-| Word  | Pronunciation | Symbol |
+| Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | custom | <audio :src="$withBase('/audio/custom.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
 | cubic | <audio :src="$withBase('/audio/cubic.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈkjubɪk] |

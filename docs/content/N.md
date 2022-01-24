@@ -1,7 +1,7 @@
 
 # N
 
-| Word  | Pronunciation | Symbol |
+| Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | Nexus | <audio :src="$withBase('/audio/Nexus.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈneksəs] |
 | Nodemon | <audio :src="$withBase('/audio/Nodemon.mp3')" controls="controls" controlslist="nodownload"></audio> |  |

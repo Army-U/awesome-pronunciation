@@ -1,7 +1,7 @@
 
 # I
 
-| Word  | Pronunciation | Symbol |
+| Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | integrity | <audio :src="$withBase('/audio/integrity.mp3')" controls="controls" controlslist="nodownload"></audio> | [ɪnˈteɡrəti] |
 | increase | <audio :src="$withBase('/audio/increase.mp3')" controls="controls" controlslist="nodownload"></audio> | [ɪnˈkris] |

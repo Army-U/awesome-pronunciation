@@ -1,7 +1,7 @@
 
 # A
 
-| Word  | Pronunciation | Symbol |
+| Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | assert | <audio :src="$withBase('/audio/assert.mp3')" controls="controls" controlslist="nodownload"></audio> | [əˈsɜrt] |
 | assets | <audio :src="$withBase('/audio/assets.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈæset] |

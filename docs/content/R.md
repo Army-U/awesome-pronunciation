@@ -1,7 +1,7 @@
 
 # R
 
-| Word  | Pronunciation | Symbol |
+| Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | repository | <audio :src="$withBase('/audio/repository.mp3')" controls="controls" controlslist="nodownload"></audio> | [rɪˈpɑːzətɔːri] |
 | represent | <audio :src="$withBase('/audio/represent.mp3')" controls="controls" controlslist="nodownload"></audio> |  |

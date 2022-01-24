@@ -20,7 +20,7 @@ function getHead(
 		head = `
 # ${letter}
 
-| Word  | Pronunciation | Symbol |
+| Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 `;
 	} else if (lang === ZH) {
@@ -66,18 +66,21 @@ function getReference(
 
 function getRow(word) {
 	let pron = '';
-	let symbol = '';
+	let phonetic = '';
 	let url = '';
-	for (const index in word.symbol) {
+	for (const index in word.phonetic) {
 		if (index === '0') {
 			if (
-				word.symbol.length ===
-				1
+				word.phonetic
+					.length === 1
 			) {
 				url =
 					'/audio/' +
 					encodeURIComponent(
-						`${word.word.replace(
+						`${(
+							word.key ||
+							word.word
+						).replace(
 							'.',
 							'dot-',
 						)}.mp3`,
@@ -86,25 +89,31 @@ function getRow(word) {
 				url =
 					'/audio/' +
 					encodeURIComponent(
-						`${word.word.replace(
+						`${(
+							word.key ||
+							word.word
+						).replace(
 							'.',
 							'dot-',
 						)}-${index}.mp3`,
 					);
 			}
 			pron = `<audio :src="$withBase('${url}')" controls="controls" controlslist="nodownload"></audio>`;
-			symbol = `${word.symbol[index]}`;
+			phonetic = `${word.phonetic[index]}`;
 		} else {
 			url =
 				'/audio/' +
 				encodeURIComponent(
-					`${word.word.replace(
+					`${(
+						word.key ||
+						word.word
+					).replace(
 						'.',
 						'dot-',
 					)}-${index}.mp3`,
 				);
 			pron += `<br/><audio :src="$withBase('${url}')" controls="controls" controlslist="nodownload"></audio>`;
-			symbol += `<br/>${word.symbol[index]}`;
+			phonetic += `<br/>${word.phonetic[index]}`;
 		}
 	}
 
@@ -112,7 +121,7 @@ function getRow(word) {
 		pron = word.explanation;
 	}
 
-	const content = `| ${word.word} | ${pron} | ${symbol} |\n`;
+	const content = `| ${word.word} | ${pron} | ${phonetic} |\n`;
 	return content;
 }
 
