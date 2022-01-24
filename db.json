@@ -331,7 +331,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=custom&type=2"
 			],
-			"phonetic": [""],
+			"phonetic": [
+				"[ˈkʌstəm]"
+			],
 			"reference": ""
 		},
 		{
