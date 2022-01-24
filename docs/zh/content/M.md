@@ -3,6 +3,7 @@
 
 | 单词  | 发音 | 音标 |
 | :-- | :-- | :-- |
+| manipulate | <audio :src="$withBase('/audio/manipulate.mp3')" controls="controls" controlslist="nodownload"></audio> | [məˈnɪpjuleɪt] |
 | modal | <audio :src="$withBase('/audio/modal.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈmoʊdl] |
 | model | <audio :src="$withBase('/audio/model.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈmɑd(ə)l] |
 | macro | <audio :src="$withBase('/audio/macro.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈmækroʊ] |
