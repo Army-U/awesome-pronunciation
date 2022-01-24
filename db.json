@@ -307,6 +307,14 @@
 	],
 	"C": [
 		{
+			"word": "custom",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=custom&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
 			"word": "cubic",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=cubic&type=2"
@@ -416,6 +424,22 @@
 		}
 	],
 	"D": [
+		{
+			"word": "delimiter",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=delimiter&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "declaration",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=declaration&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
 		{
 			"word": "div",
 			"origin": [
@@ -1213,6 +1237,14 @@
 	],
 	"R": [
 		{
+			"word": "represent",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=represent&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
 			"word": "RegExp",
 			"origin": [
 				"http://www.howtopronounce.cc/file/1f9a8d13503d4885a970d51c4b83eb96.mp3"
@@ -1518,6 +1550,14 @@
 		}
 	],
 	"V": [
+		{
+			"word": "via",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=via&type=2"
+			],
+			"symbol": [""],
+			"reference": ""
+		},
 		{
 			"word": "vanilla",
 			"origin": [
