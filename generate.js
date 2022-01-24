@@ -150,9 +150,6 @@ function write() {
 	const enDir =
 		'./docs/content/';
 	writeAll(data, enDir, EN);
-	const zhDir =
-		'./docs/zh/content/';
-	writeAll(data, zhDir, ZH);
 }
 
 function writeAll(
