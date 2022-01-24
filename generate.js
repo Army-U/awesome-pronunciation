@@ -75,7 +75,7 @@ function getRow(word) {
 					.length === 1
 			) {
 				url =
-					'/public/audio/' +
+					'/awesome-pronunciation/public/audio/' +
 					encodeURIComponent(
 						`${(
 							word.key ||
@@ -87,7 +87,7 @@ function getRow(word) {
 					);
 			} else {
 				url =
-					'/public/audio/' +
+					'/awesome-pronunciation/public/audio/' +
 					encodeURIComponent(
 						`${(
 							word.key ||
