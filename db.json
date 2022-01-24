@@ -1698,6 +1698,217 @@
 				"dot net [dɒtnet]"
 			],
 			"reference": ""
+		},
+		{
+			"word": "period (.)",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=period&type=2"
+			],
+			"symbol": ["[ˈpɪriəd]"],
+			"reference": ""
+		},
+		{
+			"word": "comma (,)",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=comma&type=2"
+			],
+			"symbol": ["[ˈkɑːmə]"],
+			"reference": ""
+		},
+		{
+			"word": "colon (:)",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=colon&type=2"
+			],
+			"symbol": ["[ˈkoʊlɑn]"],
+			"reference": ""
+		},
+		{
+			"word": "semicolon (;)",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=semicolon&type=2"
+			],
+			"symbol": [
+				"[ˈsemikoʊlən]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "apostrophe (')",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=apostrophe&type=2"
+			],
+			"symbol": [
+				"[əˈpɑːstrəfi]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "hyphen (-)",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=hyphen&type=2"
+			],
+			"symbol": ["[ˈhaɪfn]"],
+			"reference": ""
+		},
+		{
+			"word": "ellipses (...)",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=ellipses&type=2"
+			],
+			"symbol": [
+				"[ɪˈlɪpsiz]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "forward slash (/)",
+			"origin": [],
+			"symbol": [],
+			"reference": ""
+		},
+		{
+			"word": "backslash (\\)",
+			"origin": [],
+			"symbol": [],
+			"reference": ""
+		},
+		{
+			"word": "less than sign (<)",
+			"origin": [],
+			"symbol": [],
+			"reference": ""
+		},
+		{
+			"word": "greater than sign (>)",
+			"origin": [],
+			"symbol": [],
+			"reference": ""
+		},
+		{
+			"word": "pound sign / hashtag (#)",
+			"origin": [],
+			"symbol": [],
+			"reference": ""
+		},
+		{
+			"word": "percent sign (%)",
+			"origin": [],
+			"symbol": [],
+			"reference": ""
+		},
+		{
+			"word": "ampersand (&)",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=ampersand&type=2"
+			],
+			"symbol": [
+				"[ˈæmpərsænd]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "asterisk",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=asterisk&type=2"
+			],
+			"symbol": [
+				"[/ˈæs.tɚ.ɪsk/]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "quotation mark (\")",
+			"origin": [],
+			"symbol": [],
+			"reference": ""
+		},
+
+		{
+			"word": "question mark (?)",
+			"origin": [],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "exclamation mark (!)",
+			"origin": [],
+			"symbol": [""],
+			"reference": ""
+		},
+		{
+			"word": "round brackets / parentheses (())",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=parentheses&type=2"
+			],
+			"symbol": [
+				"[pəˈrenθəsiːz]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "braces ({})",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=braces&type=2"
+			],
+			"symbol": [
+				"/ˈbreɪ·sɪz/"
+			],
+			"reference": ""
+		},
+		{
+			"word": "square brackets ([])",
+			"origin": [],
+			"symbol": [],
+			"reference": ""
+		},
+		{
+			"word": "2 + 1",
+			"explanation": "two plus one / add two to one"
+		},
+		{
+			"word": "2 - 1",
+			"explanation": "two minus one / subtract 2 from 1"
+		},
+		{
+			"word": "2 * 1",
+			"explanation": "two times one"
+		},
+		{
+			"word": "4 / 2",
+			"explanation": "four divided by two"
+		},
+		{
+			"word": "O(n)",
+			"explanation": "O of n"
+		},
+		{
+			"word": "O(n * sqrt(n))",
+			"explanation": "O of n (times) square root of n"
+		},
+		{
+			"word": "O(n * lg(n))",
+			"explanation": "O of n (times) log n"
+		},
+		{
+			"word": "O(lg(n))",
+			"explanation": "O of log n"
+		},
+		{
+			"word": "O(ln(n))",
+			"explanation": "O of natural log of n"
+		},
+		{
+			"word": "O(1/n)",
+			"explanation": "O of 1 over n"
+		},
+		{
+			"word": "O(n^2)",
+			"explanation": "O of n squared"
+		},
+		{
+			"word": "O(n^3)",
+			"explanation": "O of n cubed"
 		}
 	]
 }

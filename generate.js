@@ -108,6 +108,10 @@ function getRow(word) {
 		}
 	}
 
+	if (word.explanation) {
+		pron = word.explanation;
+	}
+
 	const content = `| ${word.word} | ${pron} | ${symbol} |\n`;
 	return content;
 }
