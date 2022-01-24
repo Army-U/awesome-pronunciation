@@ -20,9 +20,8 @@ jobs:
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
-
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
           branch: gh-pages # The branch the action should deploy to.
-          folder: docs2 # The folder the action should deploy.
+          folder: docs2/ # The folder the action should deploy.
