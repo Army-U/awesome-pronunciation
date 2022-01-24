@@ -9,7 +9,7 @@
 	"scripts": {
 		"dev": "static-server docs",
 		"build": "yarn download && yarn generate",
-		"download": "rm docs2/public/audio/* && node download.js",
+		"download": "rm docs/public/audio/* && node download.js",
 		"generate": "node generate.js"
 	},
 	"repository": {
