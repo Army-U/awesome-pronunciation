@@ -1,16 +1,37 @@
----
-home: true
-# heroImage: /home.png
-heroText: Awesome Pronunciation
-tagline: How to pronunce it?
-actionText: Get Started →
-actionLink: /content/
-features:
-- title: Correct pronunciation
-  details: There are many computer-related words which are easy to pronounce wrong. This repo can help you to correct it.
-- title: Evidence
-  details: Words which are more controversial in pronunciation will give the author's own pronunciation, or an authoritative answer reference link.
-- title: Questionnaire
-  details: If you want to quickly understand your pronunciation, you can help fill out a test questionnaire and give back to the community.
-footer: MIT Licensed | Copyright © 2018-present Aaron Guan
----
+English | [简体中文](./README-ZH.md)
+
+## Introduction
+
+[awesome-pronunciation](https://guanpengchn.github.io/awesome-pronunciation/) is a repository which clarifies programming word pronunciation and promotes developers communication.
+You can [preview](https://guanpengchn.github.io/awesome-pronunciation/) it here.
+
+## Why not make an test?
+
+There is a [small test](https://guanpengchn.github.io/pronunciation-survey/?lang=en) here. It can quickly help to find programming words which you pronunce incorrectly. At the same time, you will contribute to calculate the error rate for this project. 
+
+## How to add new word for this repo?
+
+Add new words in `db.json`
+
+1. Add `Feature request` into `Issues`
+2. Edit `db.json` in this repo and add new words. Click `Propose file change` and `Pull Request`.
+
+## Word Attributes
+
+- word: [String] Word spelling 
+- origin: [Array] Audio link, corresponding to the number of symbols
+- symbol: [Array] Phonetic symbol
+- reference: [String] Reference link 
+
+## Reference
+
+- [Youdao dict](https://dict.youdao.com/)
+- [HowToPronounce](http://www.howtopronounce.cc/)
+- [DJ Phonetic Symbol](https://zh.wikipedia.org/wiki/DJ%E9%9F%B3%E6%A8%99)
+- [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
+
+## License
+
+[MIT](./LICENSE)
+
+Copyright (c) 2019-present Aaron Guan

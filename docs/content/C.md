@@ -3,19 +3,19 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
-| custom | <audio :src="$withBase('/audio/custom.mp3')" controls="controls" controlslist="nodownload"></audio> |  |
-| cubic | <audio :src="$withBase('/audio/cubic.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈkjubɪk] |
-| constant | <audio :src="$withBase('/audio/constant.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈkɑnstənt] |
-| complex | <audio :src="$withBase('/audio/complex.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈkɑmˌpleks] |
-| colon | <audio :src="$withBase('/audio/colon.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈkoʊlɑn] |
-| chalk | <audio :src="$withBase('/audio/chalk.mp3')" controls="controls" controlslist="nodownload"></audio> | [tʃɔːk] |
-| C# | <audio :src="$withBase('/audio/C%23.mp3')" controls="controls" controlslist="nodownload"></audio> | C sharp [si ʃɑ:p] |
-| cache | <audio :src="$withBase('/audio/cache.mp3')" controls="controls" controlslist="nodownload"></audio> | [kæʃ] |
-| CentOS | <audio :src="$withBase('/audio/CentOS.mp3')" controls="controls" controlslist="nodownload"></audio> | [sent 'əʊ 'es] |
-| char | <audio :src="$withBase('/audio/char.mp3')" controls="controls" controlslist="nodownload"></audio> | [tʃɑː] |
-| console | <audio :src="$withBase('/audio/console.mp3')" controls="controls" controlslist="nodownload"></audio> | [ˈkɑnˌsoʊl] |
-| cURL | <audio :src="$withBase('/audio/cURL.mp3')" controls="controls" controlslist="nodownload"></audio> | [kɜːl] |
-| ctrl | <audio :src="$withBase('/audio/ctrl.mp3')" controls="controls" controlslist="nodownload"></audio> | [kən'trəʊl] |
+| custom | <audio src="/public/audio/custom.mp3" controls="controls" controlslist="nodownload"></audio> |  |
+| cubic | <audio src="/public/audio/cubic.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkjubɪk] |
+| constant | <audio src="/public/audio/constant.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkɑnstənt] |
+| complex | <audio src="/public/audio/complex.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkɑmˌpleks] |
+| colon | <audio src="/public/audio/colon.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkoʊlɑn] |
+| chalk | <audio src="/public/audio/chalk.mp3" controls="controls" controlslist="nodownload"></audio> | [tʃɔːk] |
+| C# | <audio src="/public/audio/C%23.mp3" controls="controls" controlslist="nodownload"></audio> | C sharp [si ʃɑ:p] |
+| cache | <audio src="/public/audio/cache.mp3" controls="controls" controlslist="nodownload"></audio> | [kæʃ] |
+| CentOS | <audio src="/public/audio/CentOS.mp3" controls="controls" controlslist="nodownload"></audio> | [sent 'əʊ 'es] |
+| char | <audio src="/public/audio/char.mp3" controls="controls" controlslist="nodownload"></audio> | [tʃɑː] |
+| console | <audio src="/public/audio/console.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkɑnˌsoʊl] |
+| cURL | <audio src="/public/audio/cURL.mp3" controls="controls" controlslist="nodownload"></audio> | [kɜːl] |
+| ctrl | <audio src="/public/audio/ctrl.mp3" controls="controls" controlslist="nodownload"></audio> | [kən'trəʊl] |
 
 ## Reference
 

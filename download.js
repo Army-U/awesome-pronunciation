@@ -41,14 +41,14 @@ function downloadLetter(
 			if (
 				j.origin.length === 1
 			) {
-				filepath = `./docs2/public/audio/${(
+				filepath = `./docs/public/audio/${(
 					j.key || j.word
 				).replace(
 					'.',
 					'dot-',
 				)}.mp3`;
 			} else {
-				filepath = `./docs2/public/audio/${(
+				filepath = `./docs/public/audio/${(
 					j.key || j.word
 				).replace(
 					'.',

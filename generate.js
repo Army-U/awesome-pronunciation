@@ -148,10 +148,10 @@ function write() {
 		fs.readFileSync(DB_NAME),
 	);
 	const enDir =
-		'./docs2/content/';
+		'./docs/content/';
 	writeAll(data, enDir, EN);
 	const zhDir =
-		'./docs2/zh/content/';
+		'./docs/zh/content/';
 	writeAll(data, zhDir, ZH);
 }
 

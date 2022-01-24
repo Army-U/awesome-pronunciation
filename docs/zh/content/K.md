@@ -3,8 +3,8 @@
 
 | 单词  | 发音 | 音标 |
 | :-- | :-- | :-- |
-| Kotlin | <audio :src="$withBase('/audio/Kotlin.mp3')" controls="controls" controlslist="nodownload"></audio> | ['kɒtlin] |
-| kubernetes | <audio :src="$withBase('/audio/kubernetes-0.mp3')" controls="controls" controlslist="nodownload"></audio><br/><audio :src="$withBase('/audio/kubernetes-1.mp3')" controls="controls" controlslist="nodownload"></audio> | [kʊbə'netɪs]<br/>[kʊbə'neɪteɪs] |
+| Kotlin | <audio src="/public/audio/Kotlin.mp3" controls="controls" controlslist="nodownload"></audio> | ['kɒtlin] |
+| kubernetes | <audio src="/public/audio/kubernetes-0.mp3" controls="controls" controlslist="nodownload"></audio><br/><audio src="/audio/kubernetes-1.mp3" controls="controls" controlslist="nodownload"></audio> | [kʊbə'netɪs]<br/>[kʊbə'neɪteɪs] |
 
 ## 参考资料
 

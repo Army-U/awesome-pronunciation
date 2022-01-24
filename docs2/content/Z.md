@@ -1,5 +1,0 @@
-
-# Z
-
-| Word  | Pronunciation | phonetic |
-| :-- | :-- | :-- |
