@@ -75,7 +75,7 @@ function getRow(word) {
 					.length === 1
 			) {
 				url =
-					'/audio/' +
+					'/public/audio/' +
 					encodeURIComponent(
 						`${(
 							word.key ||
@@ -87,7 +87,7 @@ function getRow(word) {
 					);
 			} else {
 				url =
-					'/audio/' +
+					'/public/audio/' +
 					encodeURIComponent(
 						`${(
 							word.key ||
@@ -98,7 +98,7 @@ function getRow(word) {
 						)}-${index}.mp3`,
 					);
 			}
-			pron = `<audio :src="$withBase('${url}')" controls="controls" controlslist="nodownload"></audio>`;
+			pron = `<audio src="${url}" controls="controls" controlslist="nodownload"></audio>`;
 			phonetic = `${word.phonetic[index]}`;
 		} else {
 			url =
@@ -112,7 +112,7 @@ function getRow(word) {
 						'dot-',
 					)}-${index}.mp3`,
 				);
-			pron += `<br/><audio :src="$withBase('${url}')" controls="controls" controlslist="nodownload"></audio>`;
+			pron += `<br/><audio src="${url}" controls="controls" controlslist="nodownload"></audio>`;
 			phonetic += `<br/>${word.phonetic[index]}`;
 		}
 	}
@@ -148,10 +148,10 @@ function write() {
 		fs.readFileSync(DB_NAME),
 	);
 	const enDir =
-		'./docs/content/';
+		'./docs2/content/';
 	writeAll(data, enDir, EN);
 	const zhDir =
-		'./docs/zh/content/';
+		'./docs2/zh/content/';
 	writeAll(data, zhDir, ZH);
 }
 

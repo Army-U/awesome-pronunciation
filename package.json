@@ -10,24 +10,23 @@
 		"dev": "node download.js && node generate.js && vuepress dev docs",
 		"build": "vuepress build docs",
 		"deploy": "yarn download && yarn generate && yarn build",
-		"download": "rm docs/.vuepress/public/audio/* && node download.js",
+		"download": "rm docs2/public/audio/* && node download.js",
 		"generate": "node generate.js"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/guanpengchn/awesome-pronunciation.git"
+		"url": "git+https://github.com/Army-U/awesome-pronunciation.git"
 	},
 	"author": "Aaron Guan",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/guanpengchn/awesome-pronunciation/issues"
+		"url": "https://github.com/Army-U/awesome-pronunciation/issues"
 	},
-	"homepage": "https://github.com/guanpengchn/awesome-pronunciation#readme",
+	"homepage": "https://github.com/Army-U/awesome-pronunciation#readme",
 	"devDependencies": {
 		"vuepress": "1.9.7"
 	},
 	"dependencies": {
-		"ali-oss": "^6.0.2",
 		"prettier": "2.5.1"
 	}
 }
