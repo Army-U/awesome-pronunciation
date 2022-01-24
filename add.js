@@ -2,7 +2,7 @@ const fs = require('fs');
 const prettier = require('prettier');
 
 const newWords = [
-	'represent',
+	'integrity',
 ];
 
 const db = JSON.parse(
