@@ -3,8 +3,8 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
-| Kotlin | <audio src="/public/audio/Kotlin.mp3" controls="controls" controlslist="nodownload"></audio> | ['kɒtlin] |
-| kubernetes | <audio src="/public/audio/kubernetes-0.mp3" controls="controls" controlslist="nodownload"></audio><br/><audio src="/audio/kubernetes-1.mp3" controls="controls" controlslist="nodownload"></audio> | [kʊbə'netɪs]<br/>[kʊbə'neɪteɪs] |
+| Kotlin | <audio src="/awesome-pronunciation/public/audio/Kotlin.mp3" controls="controls" controlslist="nodownload"></audio> | ['kɒtlin] |
+| kubernetes | <audio src="/awesome-pronunciation/public/audio/kubernetes-0.mp3" controls="controls" controlslist="nodownload"></audio><br/><audio src="/audio/kubernetes-1.mp3" controls="controls" controlslist="nodownload"></audio> | [kʊbə'netɪs]<br/>[kʊbə'neɪteɪs] |
 
 ## Reference
 

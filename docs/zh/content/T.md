@@ -3,8 +3,8 @@
 
 | 单词  | 发音 | 音标 |
 | :-- | :-- | :-- |
-| terminate | <audio src="/public/audio/terminate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈtɜːrmɪneɪt] |
-| typecast | <audio src="/public/audio/typecast.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈtaɪpkæst] |
-| toggle | <audio src="/public/audio/toggle.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈtɑːɡl] |
-| tuple | <audio src="/public/audio/tuple.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈtjʊpəl] |
-| turbo | <audio src="/public/audio/turbo.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈtɜːrboʊ] |
+| terminate | <audio src="/awesome-pronunciation/public/audio/terminate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈtɜːrmɪneɪt] |
+| typecast | <audio src="/awesome-pronunciation/public/audio/typecast.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈtaɪpkæst] |
+| toggle | <audio src="/awesome-pronunciation/public/audio/toggle.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈtɑːɡl] |
+| tuple | <audio src="/awesome-pronunciation/public/audio/tuple.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈtjʊpəl] |
+| turbo | <audio src="/awesome-pronunciation/public/audio/turbo.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈtɜːrboʊ] |
