@@ -455,7 +455,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=delimiter&type=2"
 			],
-			"phonetic": [""],
+			"phonetic": [
+				"[dɪˈlɪmɪtər]"
+			],
 			"reference": ""
 		},
 		{
@@ -463,7 +465,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=declaration&type=2"
 			],
-			"phonetic": [""],
+			"phonetic": [
+				"[ˌdekləˈreɪʃn]"
+			],
 			"reference": ""
 		},
 		{
@@ -1341,7 +1345,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=represent&type=2"
 			],
-			"phonetic": [""],
+			"phonetic": [
+				"[ˌreprɪˈzent]"
+			],
 			"reference": ""
 		},
 		{
@@ -1672,7 +1678,7 @@
 				"https://dict.youdao.com/dictvoice?audio=vulnerability&type=2"
 			],
 			"phonetic": [
-				"[ˌvʌlnərəˈbɪləti"
+				"[ˌvʌlnərəˈbɪləti]"
 			],
 			"reference": ""
 		},

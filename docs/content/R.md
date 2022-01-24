@@ -4,7 +4,7 @@
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | repository | <audio src="/awesome-pronunciation/public/audio/repository.mp3" controls="controls" controlslist="nodownload"></audio> | [rɪˈpɑːzətɔːri] |
-| represent | <audio src="/awesome-pronunciation/public/audio/represent.mp3" controls="controls" controlslist="nodownload"></audio> |  |
+| represent | <audio src="/awesome-pronunciation/public/audio/represent.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌreprɪˈzent] |
 | RegExp | <audio src="/awesome-pronunciation/public/audio/RegExp.mp3" controls="controls" controlslist="nodownload"></audio> | /ˈɹɛɡˌɛks/ |
 | relay | <audio src="/awesome-pronunciation/public/audio/relay.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈriːleɪ; rɪˈleɪ] |
 | robust | <audio src="/awesome-pronunciation/public/audio/robust.mp3" controls="controls" controlslist="nodownload"></audio> | [roʊˈbʌst] |
