@@ -3,15 +3,15 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
-| linear | <audio src="/awesome-pronunciation/public/audio/linear.mp3" controls="controls" controlslist="nodownload"></audio> | ['lɪnɪə] |
-| logarithmic | <audio src="/awesome-pronunciation/public/audio/logarithmic.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌlɔːɡəˈrɪðmɪk] |
-| LESS | <audio src="/awesome-pronunciation/public/audio/LESS.mp3" controls="controls" controlslist="nodownload"></audio> | [les] |
-| Linaria | <audio src="/awesome-pronunciation/public/audio/Linaria.mp3" controls="controls" controlslist="nodownload"></audio> |  |
-| Lodash | <audio src="/awesome-pronunciation/public/audio/Lodash.mp3" controls="controls" controlslist="nodownload"></audio> |  |
-| lambda | <audio src="/awesome-pronunciation/public/audio/lambda.mp3" controls="controls" controlslist="nodownload"></audio> | ['læmdə] |
-| Laravel | <audio src="/awesome-pronunciation/public/audio/Laravel.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈlæəwaʊ] |
-| Linux | <audio src="/awesome-pronunciation/public/audio/Linux.mp3" controls="controls" controlslist="nodownload"></audio> | ['lɪnəks] |
-| locale | <audio src="/awesome-pronunciation/public/audio/locale.mp3" controls="controls" controlslist="nodownload"></audio> | [ləʊ'kɑːl] |
+| linear | <audio src="/public/audio/linear.mp3" controls="controls" controlslist="nodownload"></audio> | ['lɪnɪə] |
+| logarithmic | <audio src="/public/audio/logarithmic.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌlɔːɡəˈrɪðmɪk] |
+| LESS | <audio src="/public/audio/LESS.mp3" controls="controls" controlslist="nodownload"></audio> | [les] |
+| Linaria | <audio src="/public/audio/Linaria.mp3" controls="controls" controlslist="nodownload"></audio> |  |
+| Lodash | <audio src="/public/audio/Lodash.mp3" controls="controls" controlslist="nodownload"></audio> |  |
+| lambda | <audio src="/public/audio/lambda.mp3" controls="controls" controlslist="nodownload"></audio> | ['læmdə] |
+| Laravel | <audio src="/public/audio/Laravel.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈlæəwaʊ] |
+| Linux | <audio src="/public/audio/Linux.mp3" controls="controls" controlslist="nodownload"></audio> | ['lɪnəks] |
+| locale | <audio src="/public/audio/locale.mp3" controls="controls" controlslist="nodownload"></audio> | [ləʊ'kɑːl] |
 
 ## Reference
 

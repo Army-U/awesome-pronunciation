@@ -7,7 +7,7 @@
 		"doc": "docs"
 	},
 	"scripts": {
-		"dev": "node download.js && node generate.js && vuepress dev docs",
+		"dev": "static-server docs",
 		"build": "vuepress build docs",
 		"deploy": "yarn download && yarn generate && yarn build",
 		"download": "rm docs2/public/audio/* && node download.js",
