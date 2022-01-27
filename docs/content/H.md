@@ -3,7 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
-| hierarchy |  |  |
+| hierarchy | <audio src="/awesome-pronunciation/public/audio/hierarchy.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈhaɪərɑːrki] |
 | hyphen | <audio src="/awesome-pronunciation/public/audio/hyphen.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈhaɪfən] |
 | Hadoop | <audio src="/awesome-pronunciation/public/audio/Hadoop.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈhʌduːp] |
 | height | <audio src="/awesome-pronunciation/public/audio/height.mp3" controls="controls" controlslist="nodownload"></audio> | [haɪt] |

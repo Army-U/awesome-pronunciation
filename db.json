@@ -5,7 +5,7 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=authenticate&type=2"
 			],
-			"symbol": [
+			"phonetic": [
 				"[ɔːˈθentɪkeɪt]"
 			],
 			"reference": ""
@@ -341,7 +341,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=column&type=2"
 			],
-			"symbol": ["[ˈkɑːləm]"],
+			"phonetic": [
+				"[ˈkɑːləm]"
+			],
 			"reference": ""
 		},
 		{
@@ -473,7 +475,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=declare&type=2"
 			],
-			"symbol": ["[dɪˈkler]"],
+			"phonetic": [
+				"[dɪˈkler]"
+			],
 			"reference": ""
 		},
 		{
@@ -733,7 +737,7 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=hierarchy&type=2"
 			],
-			"symbol": [
+			"phonetic": [
 				"[ˈhaɪərɑːrki]"
 			],
 			"reference": ""
@@ -1371,7 +1375,7 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=relevant&type=2"
 			],
-			"symbol": [
+			"phonetic": [
 				"[ˈreləvənt]"
 			],
 			"reference": ""
@@ -1773,7 +1777,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=wrapper&type=2"
 			],
-			"symbol": ["[ˈræpər]"],
+			"phonetic": [
+				"[ˈræpər]"
+			],
 			"reference": ""
 		},
 		{

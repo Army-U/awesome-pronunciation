@@ -17,7 +17,7 @@ newWords.forEach((word) => {
 		origin: [
 			`https://dict.youdao.com/dictvoice?audio=${word}&type=2`,
 		],
-		symbol: [''],
+		phonetic: [''],
 		reference: '',
 	});
 });

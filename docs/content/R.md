@@ -3,7 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
-| relevant |  |  |
+| relevant | <audio src="/awesome-pronunciation/public/audio/relevant.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈreləvənt] |
 | repository | <audio src="/awesome-pronunciation/public/audio/repository.mp3" controls="controls" controlslist="nodownload"></audio> | [rɪˈpɑːzətɔːri] |
 | represent | <audio src="/awesome-pronunciation/public/audio/represent.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌreprɪˈzent] |
 | RegExp | <audio src="/awesome-pronunciation/public/audio/RegExp.mp3" controls="controls" controlslist="nodownload"></audio> | /ˈɹɛɡˌɛks/ |
