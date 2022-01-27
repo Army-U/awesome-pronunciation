@@ -1,4 +1,4 @@
-- [\](/content/\_.md)
+- [MISC](/content/MISC.md)
 - [A](/content/A.md)
 - [B](/content/B.md)
 - [C](/content/C.md)
