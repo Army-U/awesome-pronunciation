@@ -1367,6 +1367,16 @@
 	],
 	"R": [
 		{
+			"word": "relevant",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=relevant&type=2"
+			],
+			"symbol": [
+				"[ˈreləvənt]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "repository",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=repository&type=2"
