@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| column |  |  |
 | custom | <audio src="/awesome-pronunciation/public/audio/custom.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkʌstəm] |
 | cubic | <audio src="/awesome-pronunciation/public/audio/cubic.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkjubɪk] |
 | constant | <audio src="/awesome-pronunciation/public/audio/constant.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkɑnstənt] |

@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| declare |  |  |
 | delimiter | <audio src="/awesome-pronunciation/public/audio/delimiter.mp3" controls="controls" controlslist="nodownload"></audio> | [dɪˈlɪmɪtər] |
 | declaration | <audio src="/awesome-pronunciation/public/audio/declaration.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌdekləˈreɪʃn] |
 | div | <audio src="/awesome-pronunciation/public/audio/div.mp3" controls="controls" controlslist="nodownload"></audio> | [dɪv] |
