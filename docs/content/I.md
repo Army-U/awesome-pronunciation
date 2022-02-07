@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| interpolation | <audio src="/awesome-pronunciation/public/audio/interpolation.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪnˌtɜːrpəˈleɪʃn] |
 | integrity | <audio src="/awesome-pronunciation/public/audio/integrity.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪnˈteɡrəti] |
 | increase | <audio src="/awesome-pronunciation/public/audio/increase.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪnˈkris] |
 | interact | <audio src="/awesome-pronunciation/public/audio/interact.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌɪntərˈækt] |

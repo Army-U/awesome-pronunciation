@@ -3,6 +3,9 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| reset | <audio src="/awesome-pronunciation/public/audio/reset.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌriːˈset] |
+| restful | <audio src="/awesome-pronunciation/public/audio/restful.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈrestfl] |
+| reject | <audio src="/awesome-pronunciation/public/audio/reject.mp3" controls="controls" controlslist="nodownload"></audio> | [rɪˈdʒekt] |
 | relevant | <audio src="/awesome-pronunciation/public/audio/relevant.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈreləvənt] |
 | repository | <audio src="/awesome-pronunciation/public/audio/repository.mp3" controls="controls" controlslist="nodownload"></audio> | [rɪˈpɑːzətɔːri] |
 | represent | <audio src="/awesome-pronunciation/public/audio/represent.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌreprɪˈzent] |

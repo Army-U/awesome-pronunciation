@@ -337,6 +337,16 @@
 	],
 	"C": [
 		{
+			"word": "commit",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=commit&type=2"
+			],
+			"phonetic": [
+				"[kəˈmɪt]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "column",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=column&type=2"
@@ -790,6 +800,16 @@
 		}
 	],
 	"I": [
+		{
+			"word": "interpolation",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=interpolation&type=2"
+			],
+			"phonetic": [
+				"[ɪnˌtɜːrpəˈleɪʃn]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "integrity",
 			"origin": [
@@ -1327,6 +1347,26 @@
 	],
 	"P": [
 		{
+			"word": "precedence",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=precedence&type=2"
+			],
+			"phonetic": [
+				"[ˈpresɪdəns]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "prioritize",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=prioritize&type=2"
+			],
+			"phonetic": [
+				"[praɪˈɔːrətaɪz]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "parameter",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=parameter&type=2"
@@ -1370,6 +1410,36 @@
 		}
 	],
 	"R": [
+		{
+			"word": "reset",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=reset&type=2"
+			],
+			"phonetic": [
+				"[ˌriːˈset]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "restful",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=restful&type=2"
+			],
+			"phonetic": [
+				"[ˈrestfl]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "reject",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=reject&type=2"
+			],
+			"phonetic": [
+				"[rɪˈdʒekt]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "relevant",
 			"origin": [
@@ -1498,6 +1568,16 @@
 		}
 	],
 	"S": [
+		{
+			"word": "squash",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=squash&type=2"
+			],
+			"phonetic": [
+				"[skwɑːʃ]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "stringify",
 			"origin": [

@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| squash | <audio src="/awesome-pronunciation/public/audio/squash.mp3" controls="controls" controlslist="nodownload"></audio> | [skwɑːʃ] |
 | stringify | <audio src="/awesome-pronunciation/public/audio/stringify.mp3" controls="controls" controlslist="nodownload"></audio> |  |
 | shallow | <audio src="/awesome-pronunciation/public/audio/shallow.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈʃæloʊ] |
 | status | <audio src="/awesome-pronunciation/public/audio/status.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsteɪtəs] |
