@@ -1347,6 +1347,14 @@
 	],
 	"P": [
 		{
+			"word": "plural",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=plural&type=2"
+			],
+			"phonetic": [""],
+			"reference": ""
+		},
+		{
 			"word": "precedence",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=precedence&type=2"
