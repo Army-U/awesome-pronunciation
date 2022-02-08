@@ -3,7 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
-| modularize | <audio src="/awesome-pronunciation/public/audio/modularize.mp3" controls="controls" controlslist="nodownload"></audio> |  |
+| modularize | <audio src="/awesome-pronunciation/public/audio/modularize.mp3" controls="controls" controlslist="nodownload"></audio> | ['mɔdjuləraiz, -dʒu-] |
 | manipulate | <audio src="/awesome-pronunciation/public/audio/manipulate.mp3" controls="controls" controlslist="nodownload"></audio> | [məˈnɪpjuleɪt] |
 | modal | <audio src="/awesome-pronunciation/public/audio/modal.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈmoʊdl] |
 | model | <audio src="/awesome-pronunciation/public/audio/model.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈmɑd(ə)l] |
