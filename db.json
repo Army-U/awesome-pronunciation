@@ -637,6 +637,14 @@
 	],
 	"F": [
 		{
+			"word": "frozen",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=frozen&type=2"
+			],
+			"phonetic": [""],
+			"reference": ""
+		},
+		{
 			"word": "failure",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=failure&type=2"

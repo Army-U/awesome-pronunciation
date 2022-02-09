@@ -2,7 +2,7 @@ const fs = require('fs');
 const prettier = require('prettier');
 
 const newWords = [
-	'modularize',
+	'frozen',
 ];
 
 const db = JSON.parse(
