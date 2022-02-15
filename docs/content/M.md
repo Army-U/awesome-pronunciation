@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| mortem | <audio src="/awesome-pronunciation/public/audio/mortem.mp3" controls="controls" controlslist="nodownload"></audio> |  |
 | modularize | <audio src="/awesome-pronunciation/public/audio/modularize.mp3" controls="controls" controlslist="nodownload"></audio> | ['mɔdjuləraiz, -dʒu-] |
 | manipulate | <audio src="/awesome-pronunciation/public/audio/manipulate.mp3" controls="controls" controlslist="nodownload"></audio> | [məˈnɪpjuleɪt] |
 | modal | <audio src="/awesome-pronunciation/public/audio/modal.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈmoʊdl] |

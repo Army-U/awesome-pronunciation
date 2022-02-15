@@ -1103,11 +1103,21 @@
 	],
 	"M": [
 		{
+			"word": "mortem",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=mortem&type=2"
+			],
+			"phonetic": [""],
+			"reference": ""
+		},
+		{
 			"word": "modularize",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=modularize&type=2"
 			],
-			"phonetic": ["['mɔdjuləraiz, -dʒu-]"],
+			"phonetic": [
+				"['mɔdjuləraiz, -dʒu-]"
+			],
 			"reference": ""
 		},
 		{
@@ -1367,7 +1377,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=plural&type=2"
 			],
-			"phonetic": ["[ˈplʊrəl]"],
+			"phonetic": [
+				"[ˈplʊrəl]"
+			],
 			"reference": ""
 		},
 		{
@@ -1592,6 +1604,14 @@
 		}
 	],
 	"S": [
+		{
+			"word": "stats",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=stats&type=2"
+			],
+			"phonetic": [""],
+			"reference": ""
+		},
 		{
 			"word": "squash",
 			"origin": [
