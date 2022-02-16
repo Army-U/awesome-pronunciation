@@ -863,6 +863,16 @@
 	],
 	"I": [
 		{
+			"word": "isolate",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=isolate&type=2"
+			],
+			"phonetic": [
+				"[ˈaɪsəleɪt]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "interpolation",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=interpolation&type=2"
@@ -1404,6 +1414,16 @@
 		}
 	],
 	"O": [
+		{
+			"word": "obsolete",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=obsolete&type=2"
+			],
+			"phonetic": [
+				"[ˌɑːbsəˈliːt]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "OAuth",
 			"origin": [
@@ -1998,6 +2018,16 @@
 		}
 	],
 	"W": [
+		{
+			"word": "widget",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=widget&type=2"
+			],
+			"phonetic": [
+				"[ˈwɪdʒɪt]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "wrapper",
 			"origin": [

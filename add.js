@@ -2,17 +2,9 @@ const fs = require('fs');
 const prettier = require('prettier');
 
 const newWords = [
-	'affix',
-	'breadcrumb',
-	'cascader',
-	'radio',
-	'textarea',
-	'badge',
-	'skeleton',
-	'swiper',
-	'drawer',
-	'accordion',
-	'transitions',
+	'widget',
+	'isolate',
+	'obsolete',
 ];
 
 const db = JSON.parse(
