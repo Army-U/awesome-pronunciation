@@ -1872,7 +1872,7 @@
 		},
 		{
 			"word": "SCSS",
-			"origin": [],
+			"origin": ["https://dictionary.cambridge.org/us/media/english/us_pron/u/uss/ussan/ussange026.mp3"],
 			"phonetic": [""],
 			"reference": ""
 		},
@@ -1977,7 +1977,7 @@
 		{
 			"word": "typography",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=typography&type=2"
+				"https://dictionary.cambridge.org/us/media/english/us_pron/e/eus/eus74/eus74676.mp3"
 			],
 			"phonetic": [
 				"[taɪˈpɑːɡrəfi]"
