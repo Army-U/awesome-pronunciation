@@ -379,7 +379,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=compress&type=2"
 			],
-			"phonetic": [""],
+			"phonetic": [
+				"[kəmˈpres]"
+			],
 			"reference": ""
 		},
 		{
@@ -635,7 +637,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=embed&type=2"
 			],
-			"phonetic": [""],
+			"phonetic": [
+				"[ɪmˈbed]"
+			],
 			"reference": ""
 		},
 		{
@@ -711,7 +715,7 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=fuzzy&type=2"
 			],
-			"phonetic": [""],
+			"phonetic": ["[ˈfʌzi]"],
 			"reference": ""
 		},
 		{
@@ -719,7 +723,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=frozen&type=2"
 			],
-			"phonetic": [""],
+			"phonetic": [
+				"[ˈfroʊzn]"
+			],
 			"reference": ""
 		},
 		{
@@ -1195,7 +1201,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=minify&type=2"
 			],
-			"phonetic": [""],
+			"phonetic": [
+				"[mɪnɪˌfaɪ]"
+			],
 			"reference": ""
 		},
 		{
@@ -1393,7 +1401,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=nano&type=2"
 			],
-			"phonetic": [""],
+			"phonetic": [
+				"[ˈnænoʊ]"
+			],
 			"reference": ""
 		},
 		{
@@ -2013,7 +2023,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=variant&type=2"
 			],
-			"phonetic": [""],
+			"phonetic": [
+				"[ˈveriənt]"
+			],
 			"reference": ""
 		},
 		{

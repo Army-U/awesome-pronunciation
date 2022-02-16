@@ -3,7 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
-| minify | <audio src="/awesome-pronunciation/public/audio/minify.mp3" controls="controls" controlslist="nodownload"></audio> |  |
+| minify | <audio src="/awesome-pronunciation/public/audio/minify.mp3" controls="controls" controlslist="nodownload"></audio> | [mɪnɪˌfaɪ] |
 | mortem | <audio src="/awesome-pronunciation/public/audio/mortem.mp3" controls="controls" controlslist="nodownload"></audio> |  |
 | modularize | <audio src="/awesome-pronunciation/public/audio/modularize.mp3" controls="controls" controlslist="nodownload"></audio> | ['mɔdjuləraiz, -dʒu-] |
 | manipulate | <audio src="/awesome-pronunciation/public/audio/manipulate.mp3" controls="controls" controlslist="nodownload"></audio> | [məˈnɪpjuleɪt] |
