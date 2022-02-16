@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| fuzzy | <audio src="/awesome-pronunciation/public/audio/fuzzy.mp3" controls="controls" controlslist="nodownload"></audio> |  |
 | frozen | <audio src="/awesome-pronunciation/public/audio/frozen.mp3" controls="controls" controlslist="nodownload"></audio> |  |
 | failure | <audio src="/awesome-pronunciation/public/audio/failure.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈfeɪljər] |
 | favicon | <audio src="/awesome-pronunciation/public/audio/favicon.mp3" controls="controls" controlslist="nodownload"></audio> |  |

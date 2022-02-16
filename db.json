@@ -375,6 +375,14 @@
 	],
 	"C": [
 		{
+			"word": "compress",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=compress&type=2"
+			],
+			"phonetic": [""],
+			"reference": ""
+		},
+		{
 			"word": "cascader",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=cascader&type=2"
@@ -623,6 +631,14 @@
 	],
 	"E": [
 		{
+			"word": "embed",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=embed&type=2"
+			],
+			"phonetic": [""],
+			"reference": ""
+		},
+		{
 			"word": "Enums",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Enums&type=2"
@@ -690,6 +706,14 @@
 		}
 	],
 	"F": [
+		{
+			"word": "fuzzy",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=fuzzy&type=2"
+			],
+			"phonetic": [""],
+			"reference": ""
+		},
 		{
 			"word": "frozen",
 			"origin": [
@@ -1167,6 +1191,14 @@
 	],
 	"M": [
 		{
+			"word": "minify",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=minify&type=2"
+			],
+			"phonetic": [""],
+			"reference": ""
+		},
+		{
 			"word": "mortem",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=mortem&type=2"
@@ -1356,6 +1388,14 @@
 		}
 	],
 	"N": [
+		{
+			"word": "nano",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=nano&type=2"
+			],
+			"phonetic": [""],
+			"reference": ""
+		},
 		{
 			"word": "Nexus",
 			"origin": [
@@ -1968,6 +2008,14 @@
 		}
 	],
 	"V": [
+		{
+			"word": "variant",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=variant&type=2"
+			],
+			"phonetic": [""],
+			"reference": ""
+		},
 		{
 			"word": "vulnerability",
 			"origin": [

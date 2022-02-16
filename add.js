@@ -2,9 +2,12 @@ const fs = require('fs');
 const prettier = require('prettier');
 
 const newWords = [
-	'widget',
-	'isolate',
-	'obsolete',
+	'fuzzy',
+	'variant',
+	'nano',
+	'minify',
+	'compress',
+	'embed',
 ];
 
 const db = JSON.parse(
