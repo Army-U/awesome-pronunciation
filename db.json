@@ -1,6 +1,26 @@
 {
 	"A": [
 		{
+			"word": "accordion",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=accordion&type=2"
+			],
+			"phonetic": [
+				"[əˈkɔːrdiən]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "affix",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=affix&type=2"
+			],
+			"phonetic": [
+				"[ˈæˌfɪks]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "authenticate",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=authenticate&type=2"
@@ -281,6 +301,24 @@
 	],
 	"B": [
 		{
+			"word": "badge",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=badge&type=2"
+			],
+			"phonetic": ["[bædʒ]"],
+			"reference": ""
+		},
+		{
+			"word": "breadcrumb",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=breadcrumb&type=2"
+			],
+			"phonetic": [
+				"['bredkrʌm]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "Bootstrap",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Bootstrap&type=2"
@@ -336,6 +374,14 @@
 		}
 	],
 	"C": [
+		{
+			"word": "cascader",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=cascader&type=2"
+			],
+			"phonetic": [""],
+			"reference": ""
+		},
 		{
 			"word": "commit",
 			"origin": [
@@ -480,6 +526,14 @@
 		}
 	],
 	"D": [
+		{
+			"word": "drawer",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=drawer&type=2"
+			],
+			"phonetic": ["[drɔːr]"],
+			"reference": ""
+		},
 		{
 			"word": "declare",
 			"origin": [
@@ -1447,6 +1501,16 @@
 	],
 	"R": [
 		{
+			"word": "radio",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=radio&type=2"
+			],
+			"phonetic": [
+				"[ˈreɪdioʊ]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "reset",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=reset&type=2"
@@ -1604,6 +1668,26 @@
 		}
 	],
 	"S": [
+		{
+			"word": "swiper",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=swiper&type=2"
+			],
+			"phonetic": [
+				"['swaipə]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "skeleton",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=skeleton&type=2"
+			],
+			"phonetic": [
+				"[ˈskelɪtn]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "stats",
 			"origin": [
@@ -1782,6 +1866,24 @@
 		}
 	],
 	"T": [
+		{
+			"word": "transitions",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=transitions&type=2"
+			],
+			"phonetic": [
+				"[trænˈzɪʃnz]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "textarea",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=textarea&type=2"
+			],
+			"phonetic": [""],
+			"reference": ""
+		},
 		{
 			"word": "terminate",
 			"origin": [

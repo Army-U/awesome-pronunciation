@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| swiper | <audio src="/awesome-pronunciation/public/audio/swiper.mp3" controls="controls" controlslist="nodownload"></audio> | ['swaipə] |
+| skeleton | <audio src="/awesome-pronunciation/public/audio/skeleton.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈskelɪtn] |
 | stats | <audio src="/awesome-pronunciation/public/audio/stats.mp3" controls="controls" controlslist="nodownload"></audio> | [stæts] |
 | squash | <audio src="/awesome-pronunciation/public/audio/squash.mp3" controls="controls" controlslist="nodownload"></audio> | [skwɑːʃ] |
 | stringify | <audio src="/awesome-pronunciation/public/audio/stringify.mp3" controls="controls" controlslist="nodownload"></audio> |  |

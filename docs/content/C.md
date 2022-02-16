@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| cascader | <audio src="/awesome-pronunciation/public/audio/cascader.mp3" controls="controls" controlslist="nodownload"></audio> |  |
 | commit | <audio src="/awesome-pronunciation/public/audio/commit.mp3" controls="controls" controlslist="nodownload"></audio> | [kəˈmɪt] |
 | column | <audio src="/awesome-pronunciation/public/audio/column.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkɑːləm] |
 | custom | <audio src="/awesome-pronunciation/public/audio/custom.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkʌstəm] |

@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| radio | <audio src="/awesome-pronunciation/public/audio/radio.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈreɪdioʊ] |
 | reset | <audio src="/awesome-pronunciation/public/audio/reset.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌriːˈset] |
 | restful | <audio src="/awesome-pronunciation/public/audio/restful.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈrestfl] |
 | reject | <audio src="/awesome-pronunciation/public/audio/reject.mp3" controls="controls" controlslist="nodownload"></audio> | [rɪˈdʒekt] |

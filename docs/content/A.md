@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| accordion | <audio src="/awesome-pronunciation/public/audio/accordion.mp3" controls="controls" controlslist="nodownload"></audio> | [əˈkɔːrdiən] |
+| affix | <audio src="/awesome-pronunciation/public/audio/affix.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈæˌfɪks] |
 | authenticate | <audio src="/awesome-pronunciation/public/audio/authenticate.mp3" controls="controls" controlslist="nodownload"></audio> | [ɔːˈθentɪkeɪt] |
 | assert | <audio src="/awesome-pronunciation/public/audio/assert.mp3" controls="controls" controlslist="nodownload"></audio> | [əˈsɜrt] |
 | assets | <audio src="/awesome-pronunciation/public/audio/assets.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈæset] |

@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| transitions | <audio src="/awesome-pronunciation/public/audio/transitions.mp3" controls="controls" controlslist="nodownload"></audio> | [trænˈzɪʃnz] |
+| textarea | <audio src="/awesome-pronunciation/public/audio/textarea.mp3" controls="controls" controlslist="nodownload"></audio> |  |
 | terminate | <audio src="/awesome-pronunciation/public/audio/terminate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈtɜːrmɪneɪt] |
 | typecast | <audio src="/awesome-pronunciation/public/audio/typecast.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈtaɪpkæst] |
 | toggle | <audio src="/awesome-pronunciation/public/audio/toggle.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈtɑːɡl] |
