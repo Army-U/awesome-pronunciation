@@ -2,12 +2,11 @@ const fs = require('fs');
 const prettier = require('prettier');
 
 const newWords = [
-	'fuzzy',
-	'variant',
-	'nano',
-	'minify',
-	'compress',
-	'embed',
+	'orientation',
+	'indeterminate',
+	'horizontal',
+	'typography',
+	'emit',
 ];
 
 const db = JSON.parse(

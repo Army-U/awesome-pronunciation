@@ -633,6 +633,14 @@
 	],
 	"E": [
 		{
+			"word": "emit",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=emit&type=2"
+			],
+			"phonetic": [""],
+			"reference": ""
+		},
+		{
 			"word": "embed",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=embed&type=2"
@@ -835,6 +843,14 @@
 	],
 	"H": [
 		{
+			"word": "horizontal",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=horizontal&type=2"
+			],
+			"phonetic": [""],
+			"reference": ""
+		},
+		{
 			"word": "hierarchy",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=hierarchy&type=2"
@@ -892,6 +908,14 @@
 		}
 	],
 	"I": [
+		{
+			"word": "indeterminate",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=indeterminate&type=2"
+			],
+			"phonetic": [""],
+			"reference": ""
+		},
 		{
 			"word": "isolate",
 			"origin": [
@@ -1465,6 +1489,16 @@
 	],
 	"O": [
 		{
+			"word": "orientation",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=orientation&type=2"
+			],
+			"phonetic": [
+				"[ˌɔːriənˈteɪʃn]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "obsolete",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=obsolete&type=2"
@@ -1936,6 +1970,14 @@
 		}
 	],
 	"T": [
+		{
+			"word": "typography",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=typography&type=2"
+			],
+			"phonetic": [""],
+			"reference": ""
+		},
 		{
 			"word": "transitions",
 			"origin": [
