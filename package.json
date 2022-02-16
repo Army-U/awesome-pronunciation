@@ -24,6 +24,7 @@
 	"homepage": "https://github.com/Army-U/awesome-pronunciation#readme",
 	"devDependencies": {},
 	"dependencies": {
+		"node-fetch": "2",
 		"prettier": "2.5.1",
 		"static-server": "2.2.1"
 	}
