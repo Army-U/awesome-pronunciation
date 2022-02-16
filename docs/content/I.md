@@ -3,7 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
-| indeterminate | <audio src="/awesome-pronunciation/public/audio/indeterminate.mp3" controls="controls" controlslist="nodownload"></audio> |  |
+| indeterminate | <audio src="/awesome-pronunciation/public/audio/indeterminate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌɪndɪˈtɜːrmɪnət] |
 | isolate | <audio src="/awesome-pronunciation/public/audio/isolate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈaɪsəleɪt] |
 | interpolation | <audio src="/awesome-pronunciation/public/audio/interpolation.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪnˌtɜːrpəˈleɪʃn] |
 | integrity | <audio src="/awesome-pronunciation/public/audio/integrity.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪnˈteɡrəti] |

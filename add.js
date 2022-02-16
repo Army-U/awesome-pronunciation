@@ -1,13 +1,7 @@
 const fs = require('fs');
 const prettier = require('prettier');
 
-const newWords = [
-	'orientation',
-	'indeterminate',
-	'horizontal',
-	'typography',
-	'emit',
-];
+const newWords = [];
 
 const db = JSON.parse(
 	fs

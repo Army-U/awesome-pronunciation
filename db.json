@@ -637,7 +637,7 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=emit&type=2"
 			],
-			"phonetic": [""],
+			"phonetic": ["[iˈmɪt]"],
 			"reference": ""
 		},
 		{
@@ -847,7 +847,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=horizontal&type=2"
 			],
-			"phonetic": [""],
+			"phonetic": [
+				"[ˌhɔːrɪˈzɑːntl]"
+			],
 			"reference": ""
 		},
 		{
@@ -913,7 +915,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=indeterminate&type=2"
 			],
-			"phonetic": [""],
+			"phonetic": [
+				"[ˌɪndɪˈtɜːrmɪnət]"
+			],
 			"reference": ""
 		},
 		{
@@ -1975,7 +1979,9 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=typography&type=2"
 			],
-			"phonetic": [""],
+			"phonetic": [
+				"[taɪˈpɑːɡrəfi]"
+			],
 			"reference": ""
 		},
 		{
