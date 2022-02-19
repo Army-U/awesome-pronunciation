@@ -2,7 +2,12 @@ const fs = require('fs');
 const prettier = require('prettier');
 const fetch = require('node-fetch');
 
-const newWords = [];
+const newWords = [
+	'aggregate',
+	'prompt',
+	'delegation',
+	'configurable',
+];
 
 const db = JSON.parse(
 	fs
@@ -12,16 +17,18 @@ const db = JSON.parse(
 
 newWords.forEach(
 	async (word) => {
-    let IPA = ''
-    try {
-      const data = await fetch(
-        `https://dict.youdao.com/jsonapi_s?doctype=json&jsonversion=4&q=${word}&le=en&t=6&client=web&keyfrom=webdict`,
-      ).then((res) =>
-        res.json(),
-      );
-      IPA = data.ec.word.usphone
-    }
-		
+		let IPA = '';
+		try {
+			const data =
+				await fetch(
+					`https://dict.youdao.com/jsonapi_s?doctype=json&jsonversion=4&q=${word}&le=en&t=6&client=web&keyfrom=webdict`,
+				).then((res) =>
+					res.json(),
+				);
+			IPA =
+				data.ec.word.usphone;
+		} catch (e) {}
+
 		const initial =
 			word[0].toUpperCase();
 		db[initial].unshift({

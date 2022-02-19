@@ -1872,7 +1872,9 @@
 		},
 		{
 			"word": "SCSS",
-			"origin": ["https://dictionary.cambridge.org/us/media/english/us_pron/u/uss/ussan/ussange026.mp3"],
+			"origin": [
+				"https://dictionary.cambridge.org/us/media/english/us_pron/u/uss/ussan/ussange026.mp3"
+			],
 			"phonetic": [""],
 			"reference": ""
 		},
