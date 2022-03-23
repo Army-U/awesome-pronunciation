@@ -3,10 +3,34 @@ const prettier = require('prettier');
 const fetch = require('node-fetch');
 
 const newWords = [
-	'aggregate',
+	'outage',
+	'travers',
+	'optimal',
+	'amend',
+	'threshold',
+	'pseudocode',
+	'snippet',
+	'concurrent',
+	'lanes',
+	'Fiber',
+	'enumerable',
+	'configurable',
+	'yield',
+	'polyfill',
+	'garbage',
+	'JSFiddle',
+	'adjacent',
+	'float',
+	'chunk',
+	'complement',
+	'represented',
+	'comprehensive',
+	'intuitive',
+	'range',
+	'queued',
+	'arbitrary',
 	'prompt',
 	'delegation',
-	'configurable',
 ];
 
 const db = JSON.parse(
