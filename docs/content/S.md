@@ -9,7 +9,7 @@
 | squash | <audio src="/awesome-pronunciation/public/audio/squash.mp3" controls="controls" controlslist="nodownload"></audio> | [skwɑːʃ] |
 | stringify | <audio src="/awesome-pronunciation/public/audio/stringify.mp3" controls="controls" controlslist="nodownload"></audio> |  |
 | shallow | <audio src="/awesome-pronunciation/public/audio/shallow.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈʃæloʊ] |
-| status | <audio src="/awesome-pronunciation/public/audio/status.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsteɪtəs] |
+| status | <audio src="/awesome-pronunciation/public/audio/status.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈstætəs] |
 | scenario | <audio src="/awesome-pronunciation/public/audio/scenario.mp3" controls="controls" controlslist="nodownload"></audio> | [səˈnærioʊ] |
 | scratch | <audio src="/awesome-pronunciation/public/audio/scratch.mp3" controls="controls" controlslist="nodownload"></audio> | [skrætʃ] |
 | scrum | <audio src="/awesome-pronunciation/public/audio/scrum.mp3" controls="controls" controlslist="nodownload"></audio> | [skrʌm] |

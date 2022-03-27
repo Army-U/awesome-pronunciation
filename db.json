@@ -1176,8 +1176,10 @@
     },
     {
       "word": "status",
-      "origin": ["https://dict.youdao.com/dictvoice?audio=status&type=1"],
-      "phonetic": ["[ˈsteɪtəs]"],
+      "origin": [
+        "https://ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/st/status_en_us_1.mp3"
+      ],
+      "phonetic": ["[ˈstætəs]"],
       "reference": ""
     },
     {
