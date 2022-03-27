@@ -1245,6 +1245,14 @@
       "reference": ""
     },
     {
+      "word": "schema",
+      "origin": [
+        "https://ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/sc/schema_en_us_1.mp3"
+      ],
+      "phonetic": ["[ˈskiːmə]"],
+      "reference": ""
+    },
+    {
       "word": "SHA",
       "origin": ["https://dict.youdao.com/dictvoice?audio=SHA&type=2"],
       "phonetic": ["[,es etʃ 'e]"],

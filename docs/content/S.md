@@ -20,6 +20,7 @@
 | scalability | <audio src="/awesome-pronunciation/public/audio/scalability.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌskeɪləˈbɪləti] |
 | Safari | <audio src="/awesome-pronunciation/public/audio/Safari.mp3" controls="controls" controlslist="nodownload"></audio> | [səˈfɑri] |
 | scheme | <audio src="/awesome-pronunciation/public/audio/scheme.mp3" controls="controls" controlslist="nodownload"></audio> | [skiːm] |
+| schema | <audio src="/awesome-pronunciation/public/audio/schema.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈskiːmə] |
 | SHA | <audio src="/awesome-pronunciation/public/audio/SHA.mp3" controls="controls" controlslist="nodownload"></audio> | [,es etʃ 'e] |
 | shell | <audio src="/awesome-pronunciation/public/audio/shell.mp3" controls="controls" controlslist="nodownload"></audio> | [ʃel] |
 | SQL | <audio src="/awesome-pronunciation/public/audio/SQL-0.mp3" controls="controls" controlslist="nodownload"></audio><br/><audio src="/awesome-pronunciation/public/audio/SQL-1.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsiːkwəl]<br/>[ˈes ˈkjuː ˈel] |
