@@ -6,7 +6,7 @@
 | comprehensive | <audio src="/awesome-pronunciation/public/audio/comprehensive.mp3" controls="controls" controlslist="nodownload"></audio> | ˌkɑːmprɪˈhensɪv |
 | complement | <audio src="/awesome-pronunciation/public/audio/complement.mp3" controls="controls" controlslist="nodownload"></audio> | ˈkɑːmplɪment; ˈkɑːmplɪmənt |
 | concurrent | <audio src="/awesome-pronunciation/public/audio/concurrent.mp3" controls="controls" controlslist="nodownload"></audio> | kənˈkɜːrənt |
-| chunk | <audio src="/awesome-pronunciation/public/audio/chunk.mp3" controls="controls" controlslist="nodownload"></audio> |  |
+| chunk | <audio src="/awesome-pronunciation/public/audio/chunk.mp3" controls="controls" controlslist="nodownload"></audio> | [tʃʌŋk] |
 | configurable | <audio src="/awesome-pronunciation/public/audio/configurable.mp3" controls="controls" controlslist="nodownload"></audio> | kən'fɪgjərəbl |
 | compress | <audio src="/awesome-pronunciation/public/audio/compress.mp3" controls="controls" controlslist="nodownload"></audio> | [kəmˈpres] |
 | cascader | <audio src="/awesome-pronunciation/public/audio/cascader.mp3" controls="controls" controlslist="nodownload"></audio> |  |

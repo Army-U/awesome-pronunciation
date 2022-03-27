@@ -3,7 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
-| snippet | <audio src="/awesome-pronunciation/public/audio/snippet.mp3" controls="controls" controlslist="nodownload"></audio> | ˈsnɪpɪt |
+| snippet | <audio src="/awesome-pronunciation/public/audio/snippet.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsnɪpɪt] |
 | swiper | <audio src="/awesome-pronunciation/public/audio/swiper.mp3" controls="controls" controlslist="nodownload"></audio> | ['swaipə] |
 | skeleton | <audio src="/awesome-pronunciation/public/audio/skeleton.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈskelɪtn] |
 | stats | <audio src="/awesome-pronunciation/public/audio/stats.mp3" controls="controls" controlslist="nodownload"></audio> | [stæts] |

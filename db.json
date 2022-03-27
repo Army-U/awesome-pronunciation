@@ -277,7 +277,7 @@
     {
       "word": "chunk",
       "origin": ["https://dict.youdao.com/dictvoice?audio=chunk&type=2"],
-      "phonetic": [""],
+      "phonetic": ["[tʃʌŋk]"],
       "reference": ""
     },
     {
@@ -1111,7 +1111,7 @@
     {
       "word": "pseudocode",
       "origin": ["https://dict.youdao.com/dictvoice?audio=pseudocode&type=2"],
-      "phonetic": ["'sju:doˌkod"],
+      "phonetic": ["[ˈsuːdoʊ]"],
       "reference": ""
     },
     {
@@ -1155,7 +1155,7 @@
     {
       "word": "queued",
       "origin": ["https://dict.youdao.com/dictvoice?audio=queued&type=2"],
-      "phonetic": ["kjuːd"],
+      "phonetic": ["[kjuːd]"],
       "reference": ""
     },
     {
@@ -1175,7 +1175,7 @@
     {
       "word": "represented",
       "origin": ["https://dict.youdao.com/dictvoice?audio=represented&type=2"],
-      "phonetic": ["ˌreprɪˈzentɪd"],
+      "phonetic": ["[ˌreprɪˈzentɪd]"],
       "reference": ""
     },
     {
@@ -1285,7 +1285,7 @@
     {
       "word": "snippet",
       "origin": ["https://dict.youdao.com/dictvoice?audio=snippet&type=2"],
-      "phonetic": ["ˈsnɪpɪt"],
+      "phonetic": ["[ˈsnɪpɪt]"],
       "reference": ""
     },
     {

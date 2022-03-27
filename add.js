@@ -2,7 +2,7 @@ const fs = require('fs');
 const prettier = require('prettier');
 const fetch = require('node-fetch');
 
-const newWords = [];
+const newWords = ['pseudo'];
 
 const db = JSON.parse(fs.readFileSync('./db.json').toString());
 
@@ -13,7 +13,7 @@ const p = newWords.map(async (word) => {
       `https://dict.youdao.com/jsonapi_s?doctype=json&jsonversion=4&q=${word}&le=en&t=6&client=web&keyfrom=webdict`,
     ).then((res) => res.json());
     try {
-      IPA = data.ec.word.usphone;
+      IPA = `[${data.ec.word.usphone}]`;
     } catch (e) {
       console.log(`${word} not found`);
     }
