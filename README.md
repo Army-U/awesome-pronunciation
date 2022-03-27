@@ -2,12 +2,8 @@ English | [简体中文](./README-ZH.md)
 
 ## Introduction
 
-[awesome-pronunciation](https://guanpengchn.github.io/awesome-pronunciation/) is a repository which clarifies programming word pronunciation and promotes developers communication.
-You can [preview](https://guanpengchn.github.io/awesome-pronunciation/) it here.
-
-## Why not make an test?
-
-There is a [small test](https://guanpengchn.github.io/pronunciation-survey/?lang=en) here. It can quickly help to find programming words which you pronunce incorrectly. At the same time, you will contribute to calculate the error rate for this project. 
+[awesome-pronunciation](https://github.com/jeremy-ww/awesome-pronunciation) is a repository which clarifies programming word pronunciation and promotes developers communication.
+You can [preview](https://github.com/jeremy-ww/awesome-pronunciation) it here.
 
 ## How to add new word for this repo?
 
@@ -18,10 +14,10 @@ Add new words in `db.json`
 
 ## Word Attributes
 
-- word: [String] Word spelling 
+- word: [String] Word spelling
 - origin: [Array] Audio link, corresponding to the number of symbols
 - symbol: [Array] Phonetic symbol
-- reference: [String] Reference link 
+- reference: [String] Reference link
 
 ## Reference
 
