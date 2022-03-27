@@ -3,6 +3,9 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| arbitrary | <audio src="/awesome-pronunciation/public/audio/arbitrary.mp3" controls="controls" controlslist="nodownload"></audio> | ˈɑːrbɪtreri |
+| adjacent | <audio src="/awesome-pronunciation/public/audio/adjacent.mp3" controls="controls" controlslist="nodownload"></audio> | əˈdʒeɪsnt |
+| amend | <audio src="/awesome-pronunciation/public/audio/amend.mp3" controls="controls" controlslist="nodownload"></audio> | əˈmend |
 | accordion | <audio src="/awesome-pronunciation/public/audio/accordion.mp3" controls="controls" controlslist="nodownload"></audio> | [əˈkɔːrdiən] |
 | affix | <audio src="/awesome-pronunciation/public/audio/affix.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈæˌfɪks] |
 | authenticate | <audio src="/awesome-pronunciation/public/audio/authenticate.mp3" controls="controls" controlslist="nodownload"></audio> | [ɔːˈθentɪkeɪt] |

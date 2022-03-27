@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| enumerable | <audio src="/awesome-pronunciation/public/audio/enumerable.mp3" controls="controls" controlslist="nodownload"></audio> | ɪˈnjumərəbəl |
 | emit | <audio src="/awesome-pronunciation/public/audio/emit.mp3" controls="controls" controlslist="nodownload"></audio> | [iˈmɪt] |
 | embed | <audio src="/awesome-pronunciation/public/audio/embed.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪmˈbed] |
 | Enums | <audio src="/awesome-pronunciation/public/audio/Enums.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪˌnjuːm] |

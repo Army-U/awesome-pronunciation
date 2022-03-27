@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| lanes | <audio src="/awesome-pronunciation/public/audio/lanes.mp3" controls="controls" controlslist="nodownload"></audio> | leɪnz |
 | linear | <audio src="/awesome-pronunciation/public/audio/linear.mp3" controls="controls" controlslist="nodownload"></audio> | ['lɪnɪə] |
 | logarithmic | <audio src="/awesome-pronunciation/public/audio/logarithmic.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌlɔːɡəˈrɪðmɪk] |
 | LESS | <audio src="/awesome-pronunciation/public/audio/LESS.mp3" controls="controls" controlslist="nodownload"></audio> | [les] |

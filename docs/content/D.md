@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| delegation | <audio src="/awesome-pronunciation/public/audio/delegation.mp3" controls="controls" controlslist="nodownload"></audio> | ˌdelɪˈɡeɪʃn |
 | drawer | <audio src="/awesome-pronunciation/public/audio/drawer.mp3" controls="controls" controlslist="nodownload"></audio> | [drɔːr] |
 | declare | <audio src="/awesome-pronunciation/public/audio/declare.mp3" controls="controls" controlslist="nodownload"></audio> | [dɪˈkler] |
 | delimiter | <audio src="/awesome-pronunciation/public/audio/delimiter.mp3" controls="controls" controlslist="nodownload"></audio> | [dɪˈlɪmɪtər] |

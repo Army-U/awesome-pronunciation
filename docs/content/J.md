@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| JSFiddle | <audio src="/awesome-pronunciation/public/audio/JSFiddle.mp3" controls="controls" controlslist="nodownload"></audio> |  |
 | Java | <audio src="/awesome-pronunciation/public/audio/Java.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈdʒɑvə] |
 | Jenkins | <audio src="/awesome-pronunciation/public/audio/Jenkins.mp3" controls="controls" controlslist="nodownload"></audio> | ['dʒeŋkinz] |
 | Jekyll | <audio src="/awesome-pronunciation/public/audio/Jekyll.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈdʒi:kil] |

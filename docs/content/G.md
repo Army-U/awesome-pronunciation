@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| garbage | <audio src="/awesome-pronunciation/public/audio/garbage.mp3" controls="controls" controlslist="nodownload"></audio> | ˈɡɑːrbɪdʒ |
 | Git | <audio src="/awesome-pronunciation/public/audio/Git.mp3" controls="controls" controlslist="nodownload"></audio> | [ɡɪt] |
 | GIF | <audio src="/awesome-pronunciation/public/audio/GIF-0.mp3" controls="controls" controlslist="nodownload"></audio><br/><audio src="/awesome-pronunciation/public/audio/GIF-1.mp3" controls="controls" controlslist="nodownload"></audio> | [ɡɪf]<br/>[dʒɪf] |
 | Google | <audio src="/awesome-pronunciation/public/audio/Google.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈɡʊɡ(ə)l]  |

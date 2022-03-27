@@ -1,6 +1,34 @@
 {
 	"A": [
 		{
+			"word": "arbitrary",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=arbitrary&type=2"
+			],
+			"phonetic": [
+				"ˈɑːrbɪtreri"
+			],
+			"reference": ""
+		},
+		{
+			"word": "adjacent",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=adjacent&type=2"
+			],
+			"phonetic": [
+				"əˈdʒeɪsnt"
+			],
+			"reference": ""
+		},
+		{
+			"word": "amend",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=amend&type=2"
+			],
+			"phonetic": ["əˈmend"],
+			"reference": ""
+		},
+		{
 			"word": "accordion",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=accordion&type=2"
@@ -375,6 +403,54 @@
 	],
 	"C": [
 		{
+			"word": "comprehensive",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=comprehensive&type=2"
+			],
+			"phonetic": [
+				"ˌkɑːmprɪˈhensɪv"
+			],
+			"reference": ""
+		},
+		{
+			"word": "complement",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=complement&type=2"
+			],
+			"phonetic": [
+				"ˈkɑːmplɪment; ˈkɑːmplɪmənt"
+			],
+			"reference": ""
+		},
+		{
+			"word": "concurrent",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=concurrent&type=2"
+			],
+			"phonetic": [
+				"kənˈkɜːrənt"
+			],
+			"reference": ""
+		},
+		{
+			"word": "chunk",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=chunk&type=2"
+			],
+			"phonetic": [""],
+			"reference": ""
+		},
+		{
+			"word": "configurable",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=configurable&type=2"
+			],
+			"phonetic": [
+				"kən'fɪgjərəbl"
+			],
+			"reference": ""
+		},
+		{
 			"word": "compress",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=compress&type=2"
@@ -537,6 +613,16 @@
 	],
 	"D": [
 		{
+			"word": "delegation",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=delegation&type=2"
+			],
+			"phonetic": [
+				"ˌdelɪˈɡeɪʃn"
+			],
+			"reference": ""
+		},
+		{
 			"word": "drawer",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=drawer&type=2"
@@ -633,6 +719,16 @@
 	],
 	"E": [
 		{
+			"word": "enumerable",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=enumerable&type=2"
+			],
+			"phonetic": [
+				"ɪˈnjumərəbəl"
+			],
+			"reference": ""
+		},
+		{
 			"word": "emit",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=emit&type=2"
@@ -719,6 +815,22 @@
 	],
 	"F": [
 		{
+			"word": "float",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=float&type=2"
+			],
+			"phonetic": ["floʊt"],
+			"reference": ""
+		},
+		{
+			"word": "Fiber",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Fiber&type=2"
+			],
+			"phonetic": ["ˈfaɪbər"],
+			"reference": ""
+		},
+		{
 			"word": "fuzzy",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=fuzzy&type=2"
@@ -802,6 +914,16 @@
 		}
 	],
 	"G": [
+		{
+			"word": "garbage",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=garbage&type=2"
+			],
+			"phonetic": [
+				"ˈɡɑːrbɪdʒ"
+			],
+			"reference": ""
+		},
 		{
 			"word": "Git",
 			"origin": [
@@ -910,6 +1032,16 @@
 		}
 	],
 	"I": [
+		{
+			"word": "intuitive",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=intuitive&type=2"
+			],
+			"phonetic": [
+				"ɪnˈtuːɪtɪv"
+			],
+			"reference": ""
+		},
 		{
 			"word": "indeterminate",
 			"origin": [
@@ -1061,6 +1193,14 @@
 	],
 	"J": [
 		{
+			"word": "JSFiddle",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=JSFiddle&type=2"
+			],
+			"phonetic": [""],
+			"reference": ""
+		},
+		{
 			"word": "Java",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Java&type=2"
@@ -1138,6 +1278,14 @@
 		}
 	],
 	"L": [
+		{
+			"word": "lanes",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=lanes&type=2"
+			],
+			"phonetic": ["leɪnz"],
+			"reference": ""
+		},
 		{
 			"word": "linear",
 			"origin": [
@@ -1493,6 +1641,24 @@
 	],
 	"O": [
 		{
+			"word": "outage",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=outage&type=2"
+			],
+			"phonetic": ["ˈaʊtɪdʒ"],
+			"reference": ""
+		},
+		{
+			"word": "optimal",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=optimal&type=2"
+			],
+			"phonetic": [
+				"ˈɑːptɪməl"
+			],
+			"reference": ""
+		},
+		{
 			"word": "orientation",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=orientation&type=2"
@@ -1534,6 +1700,32 @@
 		}
 	],
 	"P": [
+		{
+			"word": "prompt",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=prompt&type=2"
+			],
+			"phonetic": ["prɑːmpt"],
+			"reference": ""
+		},
+		{
+			"word": "polyfill",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=polyfill&type=2"
+			],
+			"phonetic": [""],
+			"reference": ""
+		},
+		{
+			"word": "pseudocode",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=pseudocode&type=2"
+			],
+			"phonetic": [
+				"'sju:doˌkod"
+			],
+			"reference": ""
+		},
 		{
 			"word": "plural",
 			"origin": [
@@ -1597,6 +1789,14 @@
 	],
 	"Q": [
 		{
+			"word": "queued",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=queued&type=2"
+			],
+			"phonetic": ["kjuːd"],
+			"reference": ""
+		},
+		{
 			"word": "quadratic",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=quadratic&type=2"
@@ -1608,6 +1808,24 @@
 		}
 	],
 	"R": [
+		{
+			"word": "range",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=range&type=2"
+			],
+			"phonetic": ["reɪndʒ"],
+			"reference": ""
+		},
+		{
+			"word": "represented",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=represented&type=2"
+			],
+			"phonetic": [
+				"ˌreprɪˈzentɪd"
+			],
+			"reference": ""
+		},
 		{
 			"word": "radio",
 			"origin": [
@@ -1776,6 +1994,14 @@
 		}
 	],
 	"S": [
+		{
+			"word": "snippet",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=snippet&type=2"
+			],
+			"phonetic": ["ˈsnɪpɪt"],
+			"reference": ""
+		},
 		{
 			"word": "swiper",
 			"origin": [
@@ -1986,6 +2212,24 @@
 		}
 	],
 	"T": [
+		{
+			"word": "travers",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=travers&type=2"
+			],
+			"phonetic": [""],
+			"reference": ""
+		},
+		{
+			"word": "threshold",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=threshold&type=2"
+			],
+			"phonetic": [
+				"ˈθreʃhoʊld"
+			],
+			"reference": ""
+		},
 		{
 			"word": "typography",
 			"origin": [
@@ -2200,6 +2444,14 @@
 		}
 	],
 	"Y": [
+		{
+			"word": "yield",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=yield&type=2"
+			],
+			"phonetic": ["jiːld"],
+			"reference": ""
+		},
 		{
 			"word": "Yargs",
 			"origin": [

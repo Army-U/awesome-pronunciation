@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| float | <audio src="/awesome-pronunciation/public/audio/float.mp3" controls="controls" controlslist="nodownload"></audio> | floʊt |
+| Fiber | <audio src="/awesome-pronunciation/public/audio/Fiber.mp3" controls="controls" controlslist="nodownload"></audio> | ˈfaɪbər |
 | fuzzy | <audio src="/awesome-pronunciation/public/audio/fuzzy.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈfʌzi] |
 | frozen | <audio src="/awesome-pronunciation/public/audio/frozen.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈfroʊzn] |
 | failure | <audio src="/awesome-pronunciation/public/audio/failure.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈfeɪljər] |
