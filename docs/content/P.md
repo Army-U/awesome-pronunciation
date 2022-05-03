@@ -3,6 +3,10 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| pivot | <audio src="/awesome-pronunciation/public/audio/pivot.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpɪvət] |
+| peak | <audio src="/awesome-pronunciation/public/audio/peak.mp3" controls="controls" controlslist="nodownload"></audio> | [piːk] |
+| permutation | <audio src="/awesome-pronunciation/public/audio/permutation.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌpɜːrmjuˈteɪʃn] |
+| palindrome | <audio src="/awesome-pronunciation/public/audio/palindrome.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | prompt | <audio src="/awesome-pronunciation/public/audio/prompt.mp3" controls="controls" controlslist="nodownload"></audio> | prɑːmpt |
 | polyfill | <audio src="/awesome-pronunciation/public/audio/polyfill.mp3" controls="controls" controlslist="nodownload"></audio> |  |
 | pseudocode | <audio src="/awesome-pronunciation/public/audio/pseudocode.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsuːdoʊ] |

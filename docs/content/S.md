@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| shuffle | <audio src="/awesome-pronunciation/public/audio/shuffle.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈʃʌfl] |
+| symmetric | <audio src="/awesome-pronunciation/public/audio/symmetric.mp3" controls="controls" controlslist="nodownload"></audio> | [sɪˈmetrɪk] |
 | snippet | <audio src="/awesome-pronunciation/public/audio/snippet.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsnɪpɪt] |
 | swiper | <audio src="/awesome-pronunciation/public/audio/swiper.mp3" controls="controls" controlslist="nodownload"></audio> | ['swaipə] |
 | skeleton | <audio src="/awesome-pronunciation/public/audio/skeleton.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈskelɪtn] |

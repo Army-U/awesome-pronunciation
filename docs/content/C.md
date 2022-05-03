@@ -3,6 +3,9 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| complexity | <audio src="/awesome-pronunciation/public/audio/complexity.mp3" controls="controls" controlslist="nodownload"></audio> | [kəmˈpleksəti] |
+| contiguous | <audio src="/awesome-pronunciation/public/audio/contiguous.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
+| complexity | <audio src="/awesome-pronunciation/public/audio/complexity.mp3" controls="controls" controlslist="nodownload"></audio> | [kəmˈpleksəti] |
 | comprehensive | <audio src="/awesome-pronunciation/public/audio/comprehensive.mp3" controls="controls" controlslist="nodownload"></audio> | ˌkɑːmprɪˈhensɪv |
 | complement | <audio src="/awesome-pronunciation/public/audio/complement.mp3" controls="controls" controlslist="nodownload"></audio> | ˈkɑːmplɪment; ˈkɑːmplɪmənt |
 | concurrent | <audio src="/awesome-pronunciation/public/audio/concurrent.mp3" controls="controls" controlslist="nodownload"></audio> | kənˈkɜːrənt |

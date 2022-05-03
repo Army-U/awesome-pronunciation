@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| valley | <audio src="/awesome-pronunciation/public/audio/valley.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈvæli] |
 | variant | <audio src="/awesome-pronunciation/public/audio/variant.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈveriənt] |
 | vulnerability | <audio src="/awesome-pronunciation/public/audio/vulnerability.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌvʌlnərəˈbɪləti] |
 | via | <audio src="/awesome-pronunciation/public/audio/via.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈvaɪə; ˈviːə] |

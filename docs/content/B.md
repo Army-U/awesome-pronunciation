@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| backward | <audio src="/awesome-pronunciation/public/audio/backward.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈbækwərd] |
+| behavioral | <audio src="/awesome-pronunciation/public/audio/behavioral.mp3" controls="controls" controlslist="nodownload"></audio> | [bɪˈheɪvjərəl] |
 | badge | <audio src="/awesome-pronunciation/public/audio/badge.mp3" controls="controls" controlslist="nodownload"></audio> | [bædʒ] |
 | breadcrumb | <audio src="/awesome-pronunciation/public/audio/breadcrumb.mp3" controls="controls" controlslist="nodownload"></audio> | ['bredkrʌm] |
 | Bootstrap | <audio src="/awesome-pronunciation/public/audio/Bootstrap.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈbuːtstræp] |

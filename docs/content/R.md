@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| recursion | <audio src="/awesome-pronunciation/public/audio/recursion.mp3" controls="controls" controlslist="nodownload"></audio> | [rɪˈkɜːrʒn] |
 | range | <audio src="/awesome-pronunciation/public/audio/range.mp3" controls="controls" controlslist="nodownload"></audio> | reɪndʒ |
 | represented | <audio src="/awesome-pronunciation/public/audio/represented.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌreprɪˈzentɪd] |
 | radio | <audio src="/awesome-pronunciation/public/audio/radio.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈreɪdioʊ] |

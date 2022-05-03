@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| forward | <audio src="/awesome-pronunciation/public/audio/forward.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈfɔːrwərd] |
 | float | <audio src="/awesome-pronunciation/public/audio/float.mp3" controls="controls" controlslist="nodownload"></audio> | floʊt |
 | Fiber | <audio src="/awesome-pronunciation/public/audio/Fiber.mp3" controls="controls" controlslist="nodownload"></audio> | ˈfaɪbər |
 | fuzzy | <audio src="/awesome-pronunciation/public/audio/fuzzy.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈfʌzi] |

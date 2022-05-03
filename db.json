@@ -1,6 +1,26 @@
 {
 	"A": [
 		{
+			"word": "allocate",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=allocate&type=2"
+			],
+			"phonetic": [
+				"[ˈæləkeɪt]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "anagram",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=anagram&type=2"
+			],
+			"phonetic": [
+				"[ˈænəɡræm]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "arbitrary",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=arbitrary&type=2"
@@ -329,6 +349,26 @@
 	],
 	"B": [
 		{
+			"word": "backward",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=backward&type=2"
+			],
+			"phonetic": [
+				"[ˈbækwərd]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "behavioral",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=behavioral&type=2"
+			],
+			"phonetic": [
+				"[bɪˈheɪvjərəl]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "badge",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=badge&type=2"
@@ -402,6 +442,36 @@
 		}
 	],
 	"C": [
+		{
+			"word": "complexity",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=complexity&type=2"
+			],
+			"phonetic": [
+				"[kəmˈpleksəti]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "contiguous",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=contiguous&type=2"
+			],
+			"phonetic": [
+				"[undefined]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "complexity",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=complexity&type=2"
+			],
+			"phonetic": [
+				"[kəmˈpleksəti]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "comprehensive",
 			"origin": [
@@ -613,6 +683,16 @@
 	],
 	"D": [
 		{
+			"word": "denote",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=denote&type=2"
+			],
+			"phonetic": [
+				"[dɪˈnoʊt]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "delegation",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=delegation&type=2"
@@ -814,6 +894,16 @@
 		}
 	],
 	"F": [
+		{
+			"word": "forward",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=forward&type=2"
+			],
+			"phonetic": [
+				"[ˈfɔːrwərd]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "float",
 			"origin": [
@@ -1032,6 +1122,56 @@
 		}
 	],
 	"I": [
+		{
+			"word": "initialize",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=initialize&type=2"
+			],
+			"phonetic": [
+				"[ɪˈnɪʃəlaɪz]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "inward",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=inward&type=2"
+			],
+			"phonetic": [
+				"[ˈɪnwərd]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "intuition",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=intuition&type=2"
+			],
+			"phonetic": [
+				"[ˌɪntuˈɪʃn]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "indices",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=indices&type=2"
+			],
+			"phonetic": [
+				"[ˈɪndɪsiːz]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "instantiated",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=instantiated&type=2"
+			],
+			"phonetic": [
+				"[undefined]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "iterate",
 			"origin": [
@@ -1583,6 +1723,16 @@
 	],
 	"N": [
 		{
+			"word": "n-ary",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=n-ary&type=2"
+			],
+			"phonetic": [
+				"[undefined]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "nano",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=nano&type=2"
@@ -1651,6 +1801,16 @@
 	],
 	"O": [
 		{
+			"word": "outward",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=outward&type=2"
+			],
+			"phonetic": [
+				"[ˈaʊtwərd]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "outage",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=outage&type=2"
@@ -1710,6 +1870,44 @@
 		}
 	],
 	"P": [
+		{
+			"word": "pivot",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=pivot&type=2"
+			],
+			"phonetic": [
+				"[ˈpɪvət]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "peak",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=peak&type=2"
+			],
+			"phonetic": ["[piːk]"],
+			"reference": ""
+		},
+		{
+			"word": "permutation",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=permutation&type=2"
+			],
+			"phonetic": [
+				"[ˌpɜːrmjuˈteɪʃn]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "palindrome",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=palindrome&type=2"
+			],
+			"phonetic": [
+				"[undefined]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "prompt",
 			"origin": [
@@ -1818,6 +2016,16 @@
 		}
 	],
 	"R": [
+		{
+			"word": "recursion",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=recursion&type=2"
+			],
+			"phonetic": [
+				"[rɪˈkɜːrʒn]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "range",
 			"origin": [
@@ -2004,6 +2212,24 @@
 		}
 	],
 	"S": [
+		{
+			"word": "shuffle",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=shuffle&type=2"
+			],
+			"phonetic": ["[ˈʃʌfl]"],
+			"reference": ""
+		},
+		{
+			"word": "symmetric",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=symmetric&type=2"
+			],
+			"phonetic": [
+				"[sɪˈmetrɪk]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "snippet",
 			"origin": [
@@ -2225,6 +2451,16 @@
 	],
 	"T": [
 		{
+			"word": "traversal",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=traversal&type=2"
+			],
+			"phonetic": [
+				"[trəˈvərs(ə)l]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "traverse",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=traverse&type=2"
@@ -2346,6 +2582,14 @@
 		}
 	],
 	"V": [
+		{
+			"word": "valley",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=valley&type=2"
+			],
+			"phonetic": ["[ˈvæli]"],
+			"reference": ""
+		},
 		{
 			"word": "variant",
 			"origin": [

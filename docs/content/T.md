@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| traversal | <audio src="/awesome-pronunciation/public/audio/traversal.mp3" controls="controls" controlslist="nodownload"></audio> | [trəˈvərs(ə)l] |
 | traverse | <audio src="/awesome-pronunciation/public/audio/traverse.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈtrævɜːrs; trəˈvɜːrs] |
 | ternary | <audio src="/awesome-pronunciation/public/audio/ternary.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈtɜːrnəri] |
 | threshold | <audio src="/awesome-pronunciation/public/audio/threshold.mp3" controls="controls" controlslist="nodownload"></audio> | ˈθreʃhoʊld |

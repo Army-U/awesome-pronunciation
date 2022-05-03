@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| allocate | <audio src="/awesome-pronunciation/public/audio/allocate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈæləkeɪt] |
+| anagram | <audio src="/awesome-pronunciation/public/audio/anagram.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈænəɡræm] |
 | arbitrary | <audio src="/awesome-pronunciation/public/audio/arbitrary.mp3" controls="controls" controlslist="nodownload"></audio> | ˈɑːrbɪtreri |
 | adjacent | <audio src="/awesome-pronunciation/public/audio/adjacent.mp3" controls="controls" controlslist="nodownload"></audio> | əˈdʒeɪsnt |
 | amend | <audio src="/awesome-pronunciation/public/audio/amend.mp3" controls="controls" controlslist="nodownload"></audio> | əˈmend |

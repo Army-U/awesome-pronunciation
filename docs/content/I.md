@@ -3,6 +3,11 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| initialize | <audio src="/awesome-pronunciation/public/audio/initialize.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪˈnɪʃəlaɪz] |
+| inward | <audio src="/awesome-pronunciation/public/audio/inward.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈɪnwərd] |
+| intuition | <audio src="/awesome-pronunciation/public/audio/intuition.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌɪntuˈɪʃn] |
+| indices | <audio src="/awesome-pronunciation/public/audio/indices.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈɪndɪsiːz] |
+| instantiated | <audio src="/awesome-pronunciation/public/audio/instantiated.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | iterate | <audio src="/awesome-pronunciation/public/audio/iterate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈɪtəreɪt] |
 | intuitive | <audio src="/awesome-pronunciation/public/audio/intuitive.mp3" controls="controls" controlslist="nodownload"></audio> | ɪnˈtuːɪtɪv |
 | indeterminate | <audio src="/awesome-pronunciation/public/audio/indeterminate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌɪndɪˈtɜːrmɪnət] |
