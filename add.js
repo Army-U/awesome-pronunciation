@@ -2,7 +2,48 @@ const fs = require('fs');
 const prettier = require('prettier');
 const fetch = require('node-fetch');
 
-const newWords = ['pseudo'];
+// 加减乘除
+// 和差积商
+// 余
+// 分子 分母
+// 次方
+// 个位数 十位数
+const newWords = [
+  'Integer',
+  'decimal',
+  'glitch',
+  'collaborator',
+  'division',
+  'permutation',
+  'diameter',
+  'isomorphic',
+  'n-ary',
+  'intuition',
+  'intuitive',
+  'shuffle',
+  'recursion',
+  'indices',
+  'palindrome',
+  'numeral',
+  'complexity',
+  'allocate',
+  'contiguous',
+  'denote',
+  'instantiated',
+  'traversal',
+  'symmetric',
+  'peak',
+  'valley',
+  'outwards',
+  'inwards',
+  'forwards',
+  'backwards',
+  'initializes',
+  'range',
+  'linear',
+  'pivot',
+  'behavioral',
+];
 
 const db = JSON.parse(fs.readFileSync('./db.json').toString());
 

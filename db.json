@@ -1835,6 +1835,16 @@
       "word": "O(1/n)",
       "explanation": "Big O of 1 over n",
       "reference": ""
+    },
+    {
+      "word": "4^2",
+      "explanation": "4 to the power of 2",
+      "reference": ""
+    },
+    {
+      "word": "2^5",
+      "explanation": "2 to the 5th power",
+      "reference": ""
     }
   ]
 }
