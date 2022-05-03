@@ -16,6 +16,6 @@
 | IEEE | <audio src="/awesome-pronunciation/public/audio/IEEE.mp3" controls="controls" controlslist="nodownload"></audio> | [aɪ trɪpl i:] |
 | image | <audio src="/awesome-pronunciation/public/audio/image.mp3" controls="controls" controlslist="nodownload"></audio> | ['ɪmɪdʒ] |
 | implement | <audio src="/awesome-pronunciation/public/audio/implement.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈɪmpləmənt] |
-| integer | <audio src="/awesome-pronunciation/public/audio/integer.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈɪntədʒər] |
+| integer | <audio src="/awesome-pronunciation/public/audio/integer.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈɪntɪdʒə(r)] |
 | iPhone | <audio src="/awesome-pronunciation/public/audio/iPhone.mp3" controls="controls" controlslist="nodownload"></audio> | ['aɪfon] |
 | issue | <audio src="/awesome-pronunciation/public/audio/issue.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈɪʃu] |
