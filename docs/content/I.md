@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| iterate | <audio src="/awesome-pronunciation/public/audio/iterate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈɪtəreɪt] |
 | intuitive | <audio src="/awesome-pronunciation/public/audio/intuitive.mp3" controls="controls" controlslist="nodownload"></audio> | ɪnˈtuːɪtɪv |
 | indeterminate | <audio src="/awesome-pronunciation/public/audio/indeterminate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌɪndɪˈtɜːrmɪnət] |
 | isolate | <audio src="/awesome-pronunciation/public/audio/isolate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈaɪsəleɪt] |
