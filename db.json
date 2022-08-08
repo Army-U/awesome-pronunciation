@@ -1,6 +1,14 @@
 {
 	"A": [
 		{
+			"word": "assess",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=assess&type=2"
+			],
+			"phonetic": ["[əˈses]"],
+			"reference": ""
+		},
+		{
 			"word": "animation",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=animation&type=2"
