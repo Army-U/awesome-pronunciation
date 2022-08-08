@@ -3,32 +3,7 @@ const prettier = require('prettier');
 const fetch = require('node-fetch');
 
 const newWords = [
-  'theory',
-  'solid',
-  'forth',
-  'via',
-  'vocal',
-  'collaborative',
-  'TOEIC',
-  'concat',
-  'animation',
-  'opacity',
-  'router',
-  'sacrifice',
-  'foreigner',
-  'proposed',
-  'active',
-  'compatible',
-  'text',
-  'hassle',
-  'present',
-  'hash',
-  'throttle',
-  'tedious',
-  'deferred',
-  'figure',
-  'omit',
-  'simulate'
+
 ];
 
 const db = JSON.parse(fs.readFileSync('./db.json').toString());
