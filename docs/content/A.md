@@ -3,6 +3,10 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| animation | <audio src="/awesome-pronunciation/public/audio/animation.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌænɪˈmeɪʃ(ə)n] |
+| active | <audio src="/awesome-pronunciation/public/audio/active.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈæktɪv] |
+| active | <audio src="/awesome-pronunciation/public/audio/active.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈæktɪv] |
+| animation | <audio src="/awesome-pronunciation/public/audio/animation.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌænɪˈmeɪʃ(ə)n] |
 | allocate | <audio src="/awesome-pronunciation/public/audio/allocate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈæləkeɪt] |
 | anagram | <audio src="/awesome-pronunciation/public/audio/anagram.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈænəɡræm] |
 | arbitrary | <audio src="/awesome-pronunciation/public/audio/arbitrary.mp3" controls="controls" controlslist="nodownload"></audio> | ˈɑːrbɪtreri |

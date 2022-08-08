@@ -3,6 +3,12 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| sacrifice | <audio src="/awesome-pronunciation/public/audio/sacrifice.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsækrɪfaɪs] |
+| simulate | <audio src="/awesome-pronunciation/public/audio/simulate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsɪmjuleɪt] |
+| solid | <audio src="/awesome-pronunciation/public/audio/solid.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
+| sacrifice | <audio src="/awesome-pronunciation/public/audio/sacrifice.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsækrɪfaɪs] |
+| simulate | <audio src="/awesome-pronunciation/public/audio/simulate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsɪmjuleɪt] |
+| solid | <audio src="/awesome-pronunciation/public/audio/solid.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | shuffle | <audio src="/awesome-pronunciation/public/audio/shuffle.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈʃʌfl] |
 | symmetric | <audio src="/awesome-pronunciation/public/audio/symmetric.mp3" controls="controls" controlslist="nodownload"></audio> | [sɪˈmetrɪk] |
 | snippet | <audio src="/awesome-pronunciation/public/audio/snippet.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsnɪpɪt] |

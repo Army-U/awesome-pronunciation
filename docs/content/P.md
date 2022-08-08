@@ -3,6 +3,10 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| present | <audio src="/awesome-pronunciation/public/audio/present.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈprez(ə)nt] |
+| proposed | <audio src="/awesome-pronunciation/public/audio/proposed.mp3" controls="controls" controlslist="nodownload"></audio> | [prəˈpoʊzd] |
+| present | <audio src="/awesome-pronunciation/public/audio/present.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈprez(ə)nt] |
+| proposed | <audio src="/awesome-pronunciation/public/audio/proposed.mp3" controls="controls" controlslist="nodownload"></audio> | [prəˈpoʊzd] |
 | pivot | <audio src="/awesome-pronunciation/public/audio/pivot.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpɪvət] |
 | peak | <audio src="/awesome-pronunciation/public/audio/peak.mp3" controls="controls" controlslist="nodownload"></audio> | [piːk] |
 | permutation | <audio src="/awesome-pronunciation/public/audio/permutation.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌpɜːrmjuˈteɪʃn] |

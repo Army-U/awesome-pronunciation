@@ -3,6 +3,16 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| text | <audio src="/awesome-pronunciation/public/audio/text.mp3" controls="controls" controlslist="nodownload"></audio> | [tekst] |
+| throttle | <audio src="/awesome-pronunciation/public/audio/throttle.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈθrɑːtl] |
+| theory | <audio src="/awesome-pronunciation/public/audio/theory.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈθiːəri] |
+| tedious | <audio src="/awesome-pronunciation/public/audio/tedious.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈtiːdiəs] |
+| TOEIC | <audio src="/awesome-pronunciation/public/audio/TOEIC.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈtoʊɪk] |
+| throttle | <audio src="/awesome-pronunciation/public/audio/throttle.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈθrɑːtl] |
+| text | <audio src="/awesome-pronunciation/public/audio/text.mp3" controls="controls" controlslist="nodownload"></audio> | [tekst] |
+| theory | <audio src="/awesome-pronunciation/public/audio/theory.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈθiːəri] |
+| tedious | <audio src="/awesome-pronunciation/public/audio/tedious.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈtiːdiəs] |
+| TOEIC | <audio src="/awesome-pronunciation/public/audio/TOEIC.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈtoʊɪk] |
 | traversal | <audio src="/awesome-pronunciation/public/audio/traversal.mp3" controls="controls" controlslist="nodownload"></audio> | [trəˈvərs(ə)l] |
 | traverse | <audio src="/awesome-pronunciation/public/audio/traverse.mp3" controls="controls" controlslist="nodownload"></audio> | [trəˈvɜːrs] |
 | ternary | <audio src="/awesome-pronunciation/public/audio/ternary.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈtɜːrnəri] |
