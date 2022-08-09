@@ -3,11 +3,7 @@ const prettier = require('prettier');
 const fetch = require('node-fetch');
 
 const newWords = [
-  'waterfall',
-  'resources',
-  'deprioritize',
-  'viewport',
-  'phrase'
+
 ];
 
 const db = JSON.parse(fs.readFileSync('./db.json').toString());
