@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| phrase | <audio src="/awesome-pronunciation/public/audio/phrase.mp3" controls="controls" controlslist="nodownload"></audio> | [freɪz] |
 | present | <audio src="/awesome-pronunciation/public/audio/present.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈprez(ə)nt] |
 | percentiles | <audio src="/awesome-pronunciation/public/audio/percentiles.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | present | <audio src="/awesome-pronunciation/public/audio/present.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈprez(ə)nt] |

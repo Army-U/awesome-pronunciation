@@ -841,6 +841,16 @@
 	],
 	"D": [
 		{
+			"word": "deprioritize",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=deprioritize&type=2"
+			],
+			"phonetic": [
+				"[undefined]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "deferred",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=deferred&type=2"
@@ -2177,6 +2187,14 @@
 	],
 	"P": [
 		{
+			"word": "phrase",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=phrase&type=2"
+			],
+			"phonetic": ["[freɪz]"],
+			"reference": ""
+		},
+		{
 			"word": "present",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=present&type=2"
@@ -2382,6 +2400,16 @@
 		}
 	],
 	"R": [
+		{
+			"word": "resources",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=resources&type=2"
+			],
+			"phonetic": [
+				"[ˈriːsɔːrsɪz]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "router",
 			"origin": [
@@ -3147,6 +3175,16 @@
 	],
 	"V": [
 		{
+			"word": "viewport",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=viewport&type=2"
+			],
+			"phonetic": [
+				"[ˈvjuːpɔːrt]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "via",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=via&type=2"
@@ -3250,6 +3288,16 @@
 		}
 	],
 	"W": [
+		{
+			"word": "waterfall",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=waterfall&type=2"
+			],
+			"phonetic": [
+				"[ˈwɔːtərfɔːl]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "wrapper",
 			"origin": [

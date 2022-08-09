@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| viewport | <audio src="/awesome-pronunciation/public/audio/viewport.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈvjuːpɔːrt] |
 | via | <audio src="/awesome-pronunciation/public/audio/via.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈvaɪə] |
 | vocal | <audio src="/awesome-pronunciation/public/audio/vocal.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈvoʊkl] |
 | vocal | <audio src="/awesome-pronunciation/public/audio/vocal.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈvoʊkl] |

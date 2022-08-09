@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| resources | <audio src="/awesome-pronunciation/public/audio/resources.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈriːsɔːrsɪz] |
 | router | <audio src="/awesome-pronunciation/public/audio/router.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈruːtər; ˈraʊtər] |
 | router | <audio src="/awesome-pronunciation/public/audio/router.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈruːtər; ˈraʊtər] |
 | recursion | <audio src="/awesome-pronunciation/public/audio/recursion.mp3" controls="controls" controlslist="nodownload"></audio> | [rɪˈkɜːrʒn] |
