@@ -3,16 +3,7 @@ const prettier = require('prettier');
 const fetch = require('node-fetch');
 
 const newWords = [
-  'wrapper',
-  'accurate',
-  'beacon',
-  'capability',
-  'capacity',
-  'thresholds',
-  'percentiles',
-  'analytics',
-  'Sentry',
-  'present'
+
 ];
 
 const db = JSON.parse(fs.readFileSync('./db.json').toString());
