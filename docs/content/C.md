@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| capacity | <audio src="/awesome-pronunciation/public/audio/capacity.mp3" controls="controls" controlslist="nodownload"></audio> | [kəˈpæsəti] |
+| capability | <audio src="/awesome-pronunciation/public/audio/capability.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌkeɪpəˈbɪləti] |
 | compatible | <audio src="/awesome-pronunciation/public/audio/compatible.mp3" controls="controls" controlslist="nodownload"></audio> | [kəmˈpætəb(ə)l] |
 | collaborative | <audio src="/awesome-pronunciation/public/audio/collaborative.mp3" controls="controls" controlslist="nodownload"></audio> | [kəˈlæbəreɪtɪv] |
 | concat | <audio src="/awesome-pronunciation/public/audio/concat.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |

@@ -4,6 +4,8 @@
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | present | <audio src="/awesome-pronunciation/public/audio/present.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈprez(ə)nt] |
+| percentiles | <audio src="/awesome-pronunciation/public/audio/percentiles.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
+| present | <audio src="/awesome-pronunciation/public/audio/present.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈprez(ə)nt] |
 | proposed | <audio src="/awesome-pronunciation/public/audio/proposed.mp3" controls="controls" controlslist="nodownload"></audio> | [prəˈpoʊzd] |
 | present | <audio src="/awesome-pronunciation/public/audio/present.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈprez(ə)nt] |
 | proposed | <audio src="/awesome-pronunciation/public/audio/proposed.mp3" controls="controls" controlslist="nodownload"></audio> | [prəˈpoʊzd] |

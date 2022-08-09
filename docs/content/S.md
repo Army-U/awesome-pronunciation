@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| Sentry | <audio src="/awesome-pronunciation/public/audio/Sentry.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsentri] |
 | sacrifice | <audio src="/awesome-pronunciation/public/audio/sacrifice.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsækrɪfaɪs] |
 | simulate | <audio src="/awesome-pronunciation/public/audio/simulate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsɪmjuleɪt] |
 | solid | <audio src="/awesome-pronunciation/public/audio/solid.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |

@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| wrapper | <audio src="/awesome-pronunciation/public/audio/wrapper.mp3" controls="controls" controlslist="nodownload"></audio> |  |
 | widget | <audio src="/awesome-pronunciation/public/audio/widget.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈwɪdʒɪt] |
 | wrapper | <audio src="/awesome-pronunciation/public/audio/wrapper.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈræpər] |
 | wobbler | <audio src="/awesome-pronunciation/public/audio/wobbler.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈwɑːblər] |
