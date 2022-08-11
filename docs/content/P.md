@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| prop | <audio src="/awesome-pronunciation/public/audio/prop.mp3" controls="controls" controlslist="nodownload"></audio> | [prɑːp] |
+| props | <audio src="/awesome-pronunciation/public/audio/props.mp3" controls="controls" controlslist="nodownload"></audio> | [prɑːps] |
 | phrase | <audio src="/awesome-pronunciation/public/audio/phrase.mp3" controls="controls" controlslist="nodownload"></audio> | [freɪz] |
 | present | <audio src="/awesome-pronunciation/public/audio/present.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈprez(ə)nt] |
 | percentiles | <audio src="/awesome-pronunciation/public/audio/percentiles.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |

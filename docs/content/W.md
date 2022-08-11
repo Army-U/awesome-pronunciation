@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| wrapping | <audio src="/awesome-pronunciation/public/audio/wrapping.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈræpɪŋ] |
 | waterfall | <audio src="/awesome-pronunciation/public/audio/waterfall.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈwɔːtərfɔːl] |
 | wrapper | <audio src="/awesome-pronunciation/public/audio/wrapper.mp3" controls="controls" controlslist="nodownload"></audio> |  |
 | widget | <audio src="/awesome-pronunciation/public/audio/widget.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈwɪdʒɪt] |

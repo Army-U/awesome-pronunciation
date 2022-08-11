@@ -1299,6 +1299,16 @@
 	],
 	"H": [
 		{
+			"word": "historically",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=historically&type=2"
+			],
+			"phonetic": [
+				"[hɪˈstɔːrɪkli]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "hash",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=hash&type=2"
@@ -1402,6 +1412,16 @@
 		}
 	],
 	"I": [
+		{
+			"word": "initiated",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=initiated&type=2"
+			],
+			"phonetic": [
+				"[ɪˈnɪʃɪeɪtɪd]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "initialize",
 			"origin": [
@@ -1803,6 +1823,36 @@
 	],
 	"M": [
 		{
+			"word": "maintainability",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=maintainability&type=2"
+			],
+			"phonetic": [
+				"[meɪnˌteɪnəˈbɪləti]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "malicious",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=malicious&type=2"
+			],
+			"phonetic": [
+				"[məˈlɪʃəs]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "multiplexing",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=multiplexing&type=2"
+			],
+			"phonetic": [
+				"[ˈmʌltɪpleksɪŋ]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "minify",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=minify&type=2"
@@ -2186,6 +2236,24 @@
 		}
 	],
 	"P": [
+		{
+			"word": "prop",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=prop&type=2"
+			],
+			"phonetic": ["[prɑːp]"],
+			"reference": ""
+		},
+		{
+			"word": "props",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=props&type=2"
+			],
+			"phonetic": [
+				"[prɑːps]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "phrase",
 			"origin": [
@@ -2628,6 +2696,26 @@
 		}
 	],
 	"S": [
+		{
+			"word": "sprites",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=sprites&type=2"
+			],
+			"phonetic": [
+				"[spraɪts]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "sanitize",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=sanitize&type=2"
+			],
+			"phonetic": [
+				"[ˈsænɪtaɪz]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "Sentry",
 			"origin": [
@@ -3288,6 +3376,16 @@
 		}
 	],
 	"W": [
+		{
+			"word": "wrapping",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=wrapping&type=2"
+			],
+			"phonetic": [
+				"[ˈræpɪŋ]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "waterfall",
 			"origin": [

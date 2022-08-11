@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| sprites | <audio src="/awesome-pronunciation/public/audio/sprites.mp3" controls="controls" controlslist="nodownload"></audio> | [spraɪts] |
+| sanitize | <audio src="/awesome-pronunciation/public/audio/sanitize.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsænɪtaɪz] |
 | Sentry | <audio src="/awesome-pronunciation/public/audio/Sentry.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsentri] |
 | sacrifice | <audio src="/awesome-pronunciation/public/audio/sacrifice.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsækrɪfaɪs] |
 | simulate | <audio src="/awesome-pronunciation/public/audio/simulate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsɪmjuleɪt] |

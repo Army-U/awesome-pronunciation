@@ -3,6 +3,9 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| maintainability | <audio src="/awesome-pronunciation/public/audio/maintainability.mp3" controls="controls" controlslist="nodownload"></audio> | [meɪnˌteɪnəˈbɪləti] |
+| malicious | <audio src="/awesome-pronunciation/public/audio/malicious.mp3" controls="controls" controlslist="nodownload"></audio> | [məˈlɪʃəs] |
+| multiplexing | <audio src="/awesome-pronunciation/public/audio/multiplexing.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈmʌltɪpleksɪŋ] |
 | minify | <audio src="/awesome-pronunciation/public/audio/minify.mp3" controls="controls" controlslist="nodownload"></audio> | [mɪnɪˌfaɪ] |
 | mortem | <audio src="/awesome-pronunciation/public/audio/mortem.mp3" controls="controls" controlslist="nodownload"></audio> |  |
 | modularize | <audio src="/awesome-pronunciation/public/audio/modularize.mp3" controls="controls" controlslist="nodownload"></audio> | ['mɔdjuləraiz, -dʒu-] |

@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| initiated | <audio src="/awesome-pronunciation/public/audio/initiated.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪˈnɪʃɪeɪtɪd] |
 | initialize | <audio src="/awesome-pronunciation/public/audio/initialize.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪˈnɪʃəlaɪz] |
 | inward | <audio src="/awesome-pronunciation/public/audio/inward.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈɪnwərd] |
 | intuition | <audio src="/awesome-pronunciation/public/audio/intuition.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌɪntuˈɪʃn] |
