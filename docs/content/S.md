@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| SCSS | <audio src="/awesome-pronunciation/public/audio/SCSS.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | sprites | <audio src="/awesome-pronunciation/public/audio/sprites.mp3" controls="controls" controlslist="nodownload"></audio> | [spraɪts] |
 | sanitize | <audio src="/awesome-pronunciation/public/audio/sanitize.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsænɪtaɪz] |
 | Sentry | <audio src="/awesome-pronunciation/public/audio/Sentry.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsentri] |
