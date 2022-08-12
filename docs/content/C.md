@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| cursor | <audio src="/awesome-pronunciation/public/audio/cursor.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkɜːrsər] |
 | capacity | <audio src="/awesome-pronunciation/public/audio/capacity.mp3" controls="controls" controlslist="nodownload"></audio> | [kəˈpæsəti] |
 | capability | <audio src="/awesome-pronunciation/public/audio/capability.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌkeɪpəˈbɪləti] |
 | compatible | <audio src="/awesome-pronunciation/public/audio/compatible.mp3" controls="controls" controlslist="nodownload"></audio> | [kəmˈpætəb(ə)l] |

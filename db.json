@@ -1,6 +1,26 @@
 {
 	"A": [
 		{
+			"word": "analyzer",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=analyzer&type=2"
+			],
+			"phonetic": [
+				"[ˈænəˌlaɪzər]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "aspects",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=aspects&type=2"
+			],
+			"phonetic": [
+				"[ˈæspekts]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "accurate",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=accurate&type=2"
@@ -520,6 +540,16 @@
 		}
 	],
 	"C": [
+		{
+			"word": "cursor",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=cursor&type=2"
+			],
+			"phonetic": [
+				"[ˈkɜːrsər]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "capacity",
 			"origin": [
@@ -2052,6 +2082,14 @@
 		}
 	],
 	"N": [
+		{
+			"word": "node_modules",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=node_modules&type=2"
+			],
+			"phonetic": [""],
+			"reference": ""
+		},
 		{
 			"word": "n-ary",
 			"origin": [

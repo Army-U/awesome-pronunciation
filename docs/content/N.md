@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| node_modules | <audio src="/awesome-pronunciation/public/audio/node_modules.mp3" controls="controls" controlslist="nodownload"></audio> |  |
 | n-ary | <audio src="/awesome-pronunciation/public/audio/n-ary.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | nano | <audio src="/awesome-pronunciation/public/audio/nano.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈnænoʊ] |
 | Nexus | <audio src="/awesome-pronunciation/public/audio/Nexus.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈneksəs] |
