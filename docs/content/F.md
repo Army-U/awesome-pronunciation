@@ -6,9 +6,6 @@
 | figure | <audio src="/awesome-pronunciation/public/audio/figure.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈfɪɡjər] |
 | forth | <audio src="/awesome-pronunciation/public/audio/forth.mp3" controls="controls" controlslist="nodownload"></audio> | [fɔːrθ] |
 | foreigner | <audio src="/awesome-pronunciation/public/audio/foreigner.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
-| figure | <audio src="/awesome-pronunciation/public/audio/figure.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈfɪɡjər] |
-| forth | <audio src="/awesome-pronunciation/public/audio/forth.mp3" controls="controls" controlslist="nodownload"></audio> | [fɔːrθ] |
-| foreigner | <audio src="/awesome-pronunciation/public/audio/foreigner.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | forward | <audio src="/awesome-pronunciation/public/audio/forward.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈfɔːrwərd] |
 | float | <audio src="/awesome-pronunciation/public/audio/float.mp3" controls="controls" controlslist="nodownload"></audio> | floʊt |
 | Fiber | <audio src="/awesome-pronunciation/public/audio/Fiber.mp3" controls="controls" controlslist="nodownload"></audio> | ˈfaɪbər |
