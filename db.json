@@ -2089,24 +2089,6 @@
 			"reference": ""
 		},
 		{
-			"word": "omit",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=omit&type=2"
-			],
-			"phonetic": ["[əˈmɪt]"],
-			"reference": ""
-		},
-		{
-			"word": "opacity",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=opacity&type=2"
-			],
-			"phonetic": [
-				"[oʊˈpæsəti]"
-			],
-			"reference": ""
-		},
-		{
 			"word": "outward",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=outward&type=2"
@@ -2228,37 +2210,7 @@
 				"https://dict.youdao.com/dictvoice?audio=percentiles&type=2"
 			],
 			"phonetic": [
-				"[undefined]"
-			],
-			"reference": ""
-		},
-		{
-			"word": "present",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=present&type=2"
-			],
-			"phonetic": [
-				"[ˈprez(ə)nt]"
-			],
-			"reference": ""
-		},
-		{
-			"word": "proposed",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=proposed&type=2"
-			],
-			"phonetic": [
-				"[prəˈpoʊzd]"
-			],
-			"reference": ""
-		},
-		{
-			"word": "present",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=present&type=2"
-			],
-			"phonetic": [
-				"[ˈprez(ə)nt]"
+				"[pə'sentailz]"
 			],
 			"reference": ""
 		},
@@ -2425,16 +2377,6 @@
 			],
 			"phonetic": [
 				"[ˈriːsɔːrsɪz]"
-			],
-			"reference": ""
-		},
-		{
-			"word": "router",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=router&type=2"
-			],
-			"phonetic": [
-				"[ˈruːtər; ˈraʊtər]"
 			],
 			"reference": ""
 		},
@@ -2657,6 +2599,14 @@
 			"reference": ""
 		},
 		{
+			"word": "SCSS",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=SCSS&type=2"
+			],
+			"phonetic": ["SCSS"],
+			"reference": "https://youglish.com/pronounce/less%20js/english/us?"
+		},
+		{
 			"word": "sprites",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=sprites&type=2"
@@ -2712,7 +2662,7 @@
 				"https://dict.youdao.com/dictvoice?audio=solid&type=2"
 			],
 			"phonetic": [
-				"[undefined]"
+				"[ˈsɑːlɪd]"
 			],
 			"reference": ""
 		},
@@ -2723,26 +2673,6 @@
 			],
 			"phonetic": [
 				"[ˈsækrɪfaɪs]"
-			],
-			"reference": ""
-		},
-		{
-			"word": "simulate",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=simulate&type=2"
-			],
-			"phonetic": [
-				"[ˈsɪmjuleɪt]"
-			],
-			"reference": ""
-		},
-		{
-			"word": "solid",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=solid&type=2"
-			],
-			"phonetic": [
-				"[undefined]"
 			],
 			"reference": ""
 		},
@@ -2781,16 +2711,6 @@
 			],
 			"phonetic": [
 				"['swaipə]"
-			],
-			"reference": ""
-		},
-		{
-			"word": "skeleton",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=skeleton&type=2"
-			],
-			"phonetic": [
-				"[ˈskelɪtn]"
 			],
 			"reference": ""
 		},
@@ -2866,14 +2786,6 @@
 				"https://dict.youdao.com/dictvoice?audio=scrum&type=2"
 			],
 			"phonetic": ["[skrʌm]"],
-			"reference": ""
-		},
-		{
-			"word": "SCSS",
-			"origin": [
-				"https://dictionary.cambridge.org/us/media/english/us_pron/u/uss/ussan/ussange026.mp3"
-			],
-			"phonetic": [""],
 			"reference": ""
 		},
 		{

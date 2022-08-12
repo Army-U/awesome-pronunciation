@@ -4,20 +4,18 @@
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | SCSS | <audio src="/awesome-pronunciation/public/audio/SCSS.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
+| SCSS | <audio src="/awesome-pronunciation/public/audio/SCSS.mp3" controls="controls" controlslist="nodownload"></audio> | SCSS |
 | sprites | <audio src="/awesome-pronunciation/public/audio/sprites.mp3" controls="controls" controlslist="nodownload"></audio> | [spraɪts] |
 | sanitize | <audio src="/awesome-pronunciation/public/audio/sanitize.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsænɪtaɪz] |
 | Sentry | <audio src="/awesome-pronunciation/public/audio/Sentry.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsentri] |
 | sacrifice | <audio src="/awesome-pronunciation/public/audio/sacrifice.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsækrɪfaɪs] |
 | simulate | <audio src="/awesome-pronunciation/public/audio/simulate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsɪmjuleɪt] |
-| solid | <audio src="/awesome-pronunciation/public/audio/solid.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
+| solid | <audio src="/awesome-pronunciation/public/audio/solid.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsɑːlɪd] |
 | sacrifice | <audio src="/awesome-pronunciation/public/audio/sacrifice.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsækrɪfaɪs] |
-| simulate | <audio src="/awesome-pronunciation/public/audio/simulate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsɪmjuleɪt] |
-| solid | <audio src="/awesome-pronunciation/public/audio/solid.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | shuffle | <audio src="/awesome-pronunciation/public/audio/shuffle.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈʃʌfl] |
 | symmetric | <audio src="/awesome-pronunciation/public/audio/symmetric.mp3" controls="controls" controlslist="nodownload"></audio> | [sɪˈmetrɪk] |
 | snippet | <audio src="/awesome-pronunciation/public/audio/snippet.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsnɪpɪt] |
 | swiper | <audio src="/awesome-pronunciation/public/audio/swiper.mp3" controls="controls" controlslist="nodownload"></audio> | ['swaipə] |
-| skeleton | <audio src="/awesome-pronunciation/public/audio/skeleton.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈskelɪtn] |
 | stats | <audio src="/awesome-pronunciation/public/audio/stats.mp3" controls="controls" controlslist="nodownload"></audio> | [stæts] |
 | squash | <audio src="/awesome-pronunciation/public/audio/squash.mp3" controls="controls" controlslist="nodownload"></audio> | [skwɑːʃ] |
 | stringify | <audio src="/awesome-pronunciation/public/audio/stringify.mp3" controls="controls" controlslist="nodownload"></audio> |  |
@@ -26,7 +24,6 @@
 | scenario | <audio src="/awesome-pronunciation/public/audio/scenario.mp3" controls="controls" controlslist="nodownload"></audio> | [səˈnærioʊ] |
 | scratch | <audio src="/awesome-pronunciation/public/audio/scratch.mp3" controls="controls" controlslist="nodownload"></audio> | [skrætʃ] |
 | scrum | <audio src="/awesome-pronunciation/public/audio/scrum.mp3" controls="controls" controlslist="nodownload"></audio> | [skrʌm] |
-| SCSS | <audio src="/awesome-pronunciation/public/audio/SCSS.mp3" controls="controls" controlslist="nodownload"></audio> |  |
 | skeleton | <audio src="/awesome-pronunciation/public/audio/skeleton.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈskelɪtn] |
 | Swagger | <audio src="/awesome-pronunciation/public/audio/Swagger.mp3" controls="controls" controlslist="nodownload"></audio> |  |
 | scale | <audio src="/awesome-pronunciation/public/audio/scale.mp3" controls="controls" controlslist="nodownload"></audio> | [skeɪl] |
@@ -41,6 +38,7 @@
 
 ## Reference
 
+- https://youglish.com/pronounce/less%20js/english/us?
 - https://www.youtube.com/watch?v=yXrqtLZmk_k
 - [Pronouncing SQL: S-Q-L or Sequel?](http://patorjk.com/blog/2012/01/26/pronouncing-sql-s-q-l-or-sequel/)
 - [sudo from wikipedia](https://en.wikipedia.org/wiki/Sudo)

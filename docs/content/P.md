@@ -8,10 +8,7 @@
 | props | <audio src="/awesome-pronunciation/public/audio/props.mp3" controls="controls" controlslist="nodownload"></audio> | [prɑːps] |
 | phrase | <audio src="/awesome-pronunciation/public/audio/phrase.mp3" controls="controls" controlslist="nodownload"></audio> | [freɪz] |
 | present | <audio src="/awesome-pronunciation/public/audio/present.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈprez(ə)nt] |
-| percentiles | <audio src="/awesome-pronunciation/public/audio/percentiles.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
-| present | <audio src="/awesome-pronunciation/public/audio/present.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈprez(ə)nt] |
-| proposed | <audio src="/awesome-pronunciation/public/audio/proposed.mp3" controls="controls" controlslist="nodownload"></audio> | [prəˈpoʊzd] |
-| present | <audio src="/awesome-pronunciation/public/audio/present.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈprez(ə)nt] |
+| percentiles | <audio src="/awesome-pronunciation/public/audio/percentiles.mp3" controls="controls" controlslist="nodownload"></audio> | [pə'sentailz] |
 | proposed | <audio src="/awesome-pronunciation/public/audio/proposed.mp3" controls="controls" controlslist="nodownload"></audio> | [prəˈpoʊzd] |
 | pivot | <audio src="/awesome-pronunciation/public/audio/pivot.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpɪvət] |
 | peak | <audio src="/awesome-pronunciation/public/audio/peak.mp3" controls="controls" controlslist="nodownload"></audio> | [piːk] |
