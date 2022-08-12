@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| practices | <audio src="/awesome-pronunciation/public/audio/practices.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpræktɪsɪz] |
 | prop | <audio src="/awesome-pronunciation/public/audio/prop.mp3" controls="controls" controlslist="nodownload"></audio> | [prɑːp] |
 | props | <audio src="/awesome-pronunciation/public/audio/props.mp3" controls="controls" controlslist="nodownload"></audio> | [prɑːps] |
 | phrase | <audio src="/awesome-pronunciation/public/audio/phrase.mp3" controls="controls" controlslist="nodownload"></audio> | [freɪz] |
