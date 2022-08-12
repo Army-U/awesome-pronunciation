@@ -8,8 +8,6 @@
 | accurate | <audio src="/awesome-pronunciation/public/audio/accurate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈækjərət] |
 | analytics | <audio src="/awesome-pronunciation/public/audio/analytics.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌænəˈlɪtɪks] |
 | assess | <audio src="/awesome-pronunciation/public/audio/assess.mp3" controls="controls" controlslist="nodownload"></audio> | [əˈses] |
-| animation | <audio src="/awesome-pronunciation/public/audio/animation.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌænɪˈmeɪʃ(ə)n] |
-| active | <audio src="/awesome-pronunciation/public/audio/active.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈæktɪv] |
 | active | <audio src="/awesome-pronunciation/public/audio/active.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈæktɪv] |
 | animation | <audio src="/awesome-pronunciation/public/audio/animation.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌænɪˈmeɪʃ(ə)n] |
 | allocate | <audio src="/awesome-pronunciation/public/audio/allocate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈæləkeɪt] |
