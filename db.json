@@ -2603,6 +2603,16 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=SCSS&type=2"
 			],
+			"phonetic": [
+				"[undefined]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "SCSS",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=SCSS&type=2"
+			],
 			"phonetic": ["SCSS"],
 			"reference": "https://youglish.com/pronounce/less%20js/english/us?"
 		},
@@ -2922,54 +2932,6 @@
 			"phonetic": [
 				"[ˈθrɑːtl]"
 			],
-			"reference": ""
-		},
-		{
-			"word": "theory",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=theory&type=2"
-			],
-			"phonetic": [
-				"[ˈθiːəri]"
-			],
-			"reference": ""
-		},
-		{
-			"word": "tedious",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=tedious&type=2"
-			],
-			"phonetic": [
-				"[ˈtiːdiəs]"
-			],
-			"reference": ""
-		},
-		{
-			"word": "TOEIC",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=TOEIC&type=2"
-			],
-			"phonetic": [
-				"[ˈtoʊɪk]"
-			],
-			"reference": ""
-		},
-		{
-			"word": "throttle",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=throttle&type=2"
-			],
-			"phonetic": [
-				"[ˈθrɑːtl]"
-			],
-			"reference": ""
-		},
-		{
-			"word": "text",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=text&type=2"
-			],
-			"phonetic": ["[tekst]"],
 			"reference": ""
 		},
 		{
