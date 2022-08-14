@@ -4,8 +4,6 @@
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | SCSS | <audio src="/awesome-pronunciation/public/audio/SCSS.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
-| SCSS | <audio src="/awesome-pronunciation/public/audio/SCSS.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
-| SCSS | <audio src="/awesome-pronunciation/public/audio/SCSS.mp3" controls="controls" controlslist="nodownload"></audio> | SCSS |
 | sprites | <audio src="/awesome-pronunciation/public/audio/sprites.mp3" controls="controls" controlslist="nodownload"></audio> | [spraɪts] |
 | sanitize | <audio src="/awesome-pronunciation/public/audio/sanitize.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsænɪtaɪz] |
 | Sentry | <audio src="/awesome-pronunciation/public/audio/Sentry.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsentri] |
@@ -39,7 +37,6 @@
 
 ## Reference
 
-- https://youglish.com/pronounce/less%20js/english/us?
 - https://www.youtube.com/watch?v=yXrqtLZmk_k
 - [Pronouncing SQL: S-Q-L or Sequel?](http://patorjk.com/blog/2012/01/26/pronouncing-sql-s-q-l-or-sequel/)
 - [sudo from wikipedia](https://en.wikipedia.org/wiki/Sudo)

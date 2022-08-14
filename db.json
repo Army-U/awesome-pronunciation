@@ -1245,6 +1245,14 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=hyper&type=2"
 			],
+			"phonetic": [""],
+			"reference": ""
+		},
+		{
+			"word": "hyper",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=hyper&type=2"
+			],
 			"phonetic": [
 				"[undefined]"
 			],
@@ -2607,24 +2615,6 @@
 				"[undefined]"
 			],
 			"reference": ""
-		},
-		{
-			"word": "SCSS",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=SCSS&type=2"
-			],
-			"phonetic": [
-				"[undefined]"
-			],
-			"reference": ""
-		},
-		{
-			"word": "SCSS",
-			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=SCSS&type=2"
-			],
-			"phonetic": ["SCSS"],
-			"reference": "https://youglish.com/pronounce/less%20js/english/us?"
 		},
 		{
 			"word": "sprites",
