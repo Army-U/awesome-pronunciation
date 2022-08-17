@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| private | <audio src="/awesome-pronunciation/public/audio/private.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpraɪvət] |
+| private | <audio src="/awesome-pronunciation/public/audio/private.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpraɪvət] |
 | practices | <audio src="/awesome-pronunciation/public/audio/practices.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpræktɪsɪz] |
 | prop | <audio src="/awesome-pronunciation/public/audio/prop.mp3" controls="controls" controlslist="nodownload"></audio> | [prɑːp] |
 | props | <audio src="/awesome-pronunciation/public/audio/props.mp3" controls="controls" controlslist="nodownload"></audio> | [prɑːps] |
