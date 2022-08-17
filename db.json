@@ -2011,6 +2011,14 @@
 			"reference": ""
 		},
 		{
+			"word": "nuxt",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=nuxt&type=2"
+			],
+			"phonetic": [""],
+			"reference": ""
+		},
+		{
 			"word": "node_modules",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=node_modules&type=2"
