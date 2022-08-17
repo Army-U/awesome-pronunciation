@@ -821,6 +821,14 @@
 	],
 	"D": [
 		{
+			"word": "debt",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=debt&type=2"
+			],
+			"phonetic": ["[det]"],
+			"reference": ""
+		},
+		{
 			"word": "deprioritize",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=deprioritize&type=2"
@@ -2003,11 +2011,11 @@
 	],
 	"N": [
 		{
-			"word": "nuxt",
+			"word": "next",
 			"origin": [
-				"https://dict.youdao.com/dictvoice?audio=nuxt&type=2"
+				"https://dict.youdao.com/dictvoice?audio=next&type=2"
 			],
-			"phonetic": [""],
+			"phonetic": ["[nekst]"],
 			"reference": ""
 		},
 		{
@@ -3112,6 +3120,16 @@
 		}
 	],
 	"V": [
+		{
+			"word": "Vite",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Vite&type=2"
+			],
+			"phonetic": [
+				"[undefined]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "viewport",
 			"origin": [

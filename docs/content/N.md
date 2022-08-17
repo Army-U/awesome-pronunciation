@@ -3,7 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
-| nuxt | <audio src="/awesome-pronunciation/public/audio/nuxt.mp3" controls="controls" controlslist="nodownload"></audio> |  |
+| next | <audio src="/awesome-pronunciation/public/audio/next.mp3" controls="controls" controlslist="nodownload"></audio> | [nekst] |
 | nuxt | <audio src="/awesome-pronunciation/public/audio/nuxt.mp3" controls="controls" controlslist="nodownload"></audio> |  |
 | node_modules | <audio src="/awesome-pronunciation/public/audio/node_modules.mp3" controls="controls" controlslist="nodownload"></audio> |  |
 | n-ary | <audio src="/awesome-pronunciation/public/audio/n-ary.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |

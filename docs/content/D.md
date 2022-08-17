@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| debt | <audio src="/awesome-pronunciation/public/audio/debt.mp3" controls="controls" controlslist="nodownload"></audio> | [det] |
 | deprioritize | <audio src="/awesome-pronunciation/public/audio/deprioritize.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | deferred | <audio src="/awesome-pronunciation/public/audio/deferred.mp3" controls="controls" controlslist="nodownload"></audio> | [dɪˈfɜːrd] |
 | denote | <audio src="/awesome-pronunciation/public/audio/denote.mp3" controls="controls" controlslist="nodownload"></audio> | [dɪˈnoʊt] |
