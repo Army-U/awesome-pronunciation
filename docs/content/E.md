@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| Elon Musk | <audio src="/awesome-pronunciation/public/audio/Elon%20Musk.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | enumerable | <audio src="/awesome-pronunciation/public/audio/enumerable.mp3" controls="controls" controlslist="nodownload"></audio> | ɪˈnjumərəbəl |
 | emit | <audio src="/awesome-pronunciation/public/audio/emit.mp3" controls="controls" controlslist="nodownload"></audio> | [iˈmɪt] |
 | embed | <audio src="/awesome-pronunciation/public/audio/embed.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪmˈbed] |

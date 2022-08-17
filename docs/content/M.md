@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| Mark Zuckerberg | <audio src="/awesome-pronunciation/public/audio/Mark%20Zuckerberg.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | maintainability | <audio src="/awesome-pronunciation/public/audio/maintainability.mp3" controls="controls" controlslist="nodownload"></audio> | [meɪnˌteɪnəˈbɪləti] |
 | malicious | <audio src="/awesome-pronunciation/public/audio/malicious.mp3" controls="controls" controlslist="nodownload"></audio> | [məˈlɪʃəs] |
 | multiplexing | <audio src="/awesome-pronunciation/public/audio/multiplexing.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈmʌltɪpleksɪŋ] |

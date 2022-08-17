@@ -965,6 +965,16 @@
 	],
 	"E": [
 		{
+			"word": "Elon Musk",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Elon Musk&type=2"
+			],
+			"phonetic": [
+				"[undefined]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "enumerable",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=enumerable&type=2"
@@ -1780,6 +1790,16 @@
 		}
 	],
 	"M": [
+		{
+			"word": "Mark Zuckerberg",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Mark Zuckerberg&type=2"
+			],
+			"phonetic": [
+				"[undefined]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "maintainability",
 			"origin": [
