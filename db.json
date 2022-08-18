@@ -1,6 +1,16 @@
 {
 	"A": [
 		{
+			"word": "async",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=async&type=2"
+			],
+			"phonetic": [
+				"[əˈsɪŋk]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "analyzer",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=analyzer&type=2"
