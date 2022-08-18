@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| phase | <audio src="/awesome-pronunciation/public/audio/phase.mp3" controls="controls" controlslist="nodownload"></audio> | [feɪz] |
 | private | <audio src="/awesome-pronunciation/public/audio/private.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpraɪvət] |
 | private | <audio src="/awesome-pronunciation/public/audio/private.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpraɪvət] |
 | practices | <audio src="/awesome-pronunciation/public/audio/practices.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpræktɪsɪz] |

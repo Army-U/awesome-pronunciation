@@ -975,6 +975,16 @@
 	],
 	"E": [
 		{
+			"word": "evolved",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=evolved&type=2"
+			],
+			"phonetic": [
+				"[ɪˈvɑːlvd]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "Elon Musk",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Elon Musk&type=2"
@@ -2231,6 +2241,14 @@
 	],
 	"P": [
 		{
+			"word": "phase",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=phase&type=2"
+			],
+			"phonetic": ["[feɪz]"],
+			"reference": ""
+		},
+		{
 			"word": "private",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=private&type=2"
@@ -2680,6 +2698,16 @@
 		}
 	],
 	"S": [
+		{
+			"word": "synchronously",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=synchronously&type=2"
+			],
+			"phonetic": [
+				"[undefined]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "Svelte",
 			"origin": [
