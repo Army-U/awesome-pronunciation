@@ -2681,6 +2681,14 @@
 	],
 	"S": [
 		{
+			"word": "Svelte",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Svelte&type=2"
+			],
+			"phonetic": ["[svelt]"],
+			"reference": ""
+		},
+		{
 			"word": "SCSS",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=SCSS&type=2"
