@@ -4,7 +4,7 @@
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | annual | <audio src="/awesome-pronunciation/public/audio/annual.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈænjuəl] |
-| applicable | <audio src="/awesome-pronunciation/public/audio/applicable.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈæplɪkəblˌəˈplɪkəbl] |
+| applicable | <audio src="/awesome-pronunciation/public/audio/applicable.mp3" controls="controls" controlslist="nodownload"></audio> | [əˈplɪkəb(ə)l] |
 | async | <audio src="/awesome-pronunciation/public/audio/async.mp3" controls="controls" controlslist="nodownload"></audio> | [əˈsɪŋk] |
 | analyzer | <audio src="/awesome-pronunciation/public/audio/analyzer.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈænəˌlaɪzər] |
 | aspects | <audio src="/awesome-pronunciation/public/audio/aspects.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈæspekts] |
