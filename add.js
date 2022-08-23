@@ -2,17 +2,7 @@ const fs = require('fs');
 const prettier = require('prettier');
 const fetch = require('node-fetch');
 
-const newWords = [
-  'panel',
-  'applicable',
-  'foreign',
-  'criteria',
-  'ratio',
-  'validity',
-  'annual',
-  'deamon',
-  'precise',
-];
+const newWords = [];
 
 const db = JSON.parse(fs.readFileSync('./db.json').toString());
 
