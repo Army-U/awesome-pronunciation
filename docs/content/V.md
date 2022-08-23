@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| validity | <audio src="/awesome-pronunciation/public/audio/validity.mp3" controls="controls" controlslist="nodownload"></audio> | [vəˈlɪdəti] |
 | Vite | <audio src="/awesome-pronunciation/public/audio/Vite.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | viewport | <audio src="/awesome-pronunciation/public/audio/viewport.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈvjuːpɔːrt] |
 | vocal | <audio src="/awesome-pronunciation/public/audio/vocal.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈvoʊkl] |

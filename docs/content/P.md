@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| panel | <audio src="/awesome-pronunciation/public/audio/panel.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpænl] |
+| precise | <audio src="/awesome-pronunciation/public/audio/precise.mp3" controls="controls" controlslist="nodownload"></audio> | [prɪˈsaɪs] |
 | phase | <audio src="/awesome-pronunciation/public/audio/phase.mp3" controls="controls" controlslist="nodownload"></audio> | [feɪz] |
 | private | <audio src="/awesome-pronunciation/public/audio/private.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpraɪvət] |
 | private | <audio src="/awesome-pronunciation/public/audio/private.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpraɪvət] |

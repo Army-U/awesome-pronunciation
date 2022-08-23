@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| foreign | <audio src="/awesome-pronunciation/public/audio/foreign.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈfɔːrən] |
 | figure | <audio src="/awesome-pronunciation/public/audio/figure.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈfɪɡjər] |
 | forth | <audio src="/awesome-pronunciation/public/audio/forth.mp3" controls="controls" controlslist="nodownload"></audio> | [fɔːrθ] |
 | foreigner | <audio src="/awesome-pronunciation/public/audio/foreigner.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |

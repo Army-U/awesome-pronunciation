@@ -1,6 +1,26 @@
 {
 	"A": [
 		{
+			"word": "annual",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=annual&type=2"
+			],
+			"phonetic": [
+				"[ˈænjuəl]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "applicable",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=applicable&type=2"
+			],
+			"phonetic": [
+				"[ˈæplɪkəblˌəˈplɪkəbl]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "async",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=async&type=2"
@@ -531,6 +551,16 @@
 	],
 	"C": [
 		{
+			"word": "criteria",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=criteria&type=2"
+			],
+			"phonetic": [
+				"[kraɪˈtɪriə]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "cursor",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=cursor&type=2"
@@ -831,6 +861,16 @@
 	],
 	"D": [
 		{
+			"word": "deamon",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=deamon&type=2"
+			],
+			"phonetic": [
+				"[undefined]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "debt",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=debt&type=2"
@@ -1090,6 +1130,16 @@
 		}
 	],
 	"F": [
+		{
+			"word": "foreign",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=foreign&type=2"
+			],
+			"phonetic": [
+				"[ˈfɔːrən]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "figure",
 			"origin": [
@@ -2241,6 +2291,24 @@
 	],
 	"P": [
 		{
+			"word": "panel",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=panel&type=2"
+			],
+			"phonetic": ["[ˈpænl]"],
+			"reference": ""
+		},
+		{
+			"word": "precise",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=precise&type=2"
+			],
+			"phonetic": [
+				"[prɪˈsaɪs]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "phase",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=phase&type=2"
@@ -2480,6 +2548,16 @@
 		}
 	],
 	"R": [
+		{
+			"word": "ratio",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=ratio&type=2"
+			],
+			"phonetic": [
+				"[ˈreɪʃioʊ]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "resources",
 			"origin": [
@@ -3206,6 +3284,16 @@
 		}
 	],
 	"V": [
+		{
+			"word": "validity",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=validity&type=2"
+			],
+			"phonetic": [
+				"[vəˈlɪdəti]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "Vite",
 			"origin": [
