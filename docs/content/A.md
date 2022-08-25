@@ -3,6 +3,9 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| action | <audio src="/awesome-pronunciation/public/audio/action.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈækʃ(ə)n] |
+| architecture | <audio src="/awesome-pronunciation/public/audio/architecture.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈɑːrkɪtektʃər] |
+| attentive | <audio src="/awesome-pronunciation/public/audio/attentive.mp3" controls="controls" controlslist="nodownload"></audio> | [əˈtentɪv] |
 | annual | <audio src="/awesome-pronunciation/public/audio/annual.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈænjuəl] |
 | applicable | <audio src="/awesome-pronunciation/public/audio/applicable.mp3" controls="controls" controlslist="nodownload"></audio> | [əˈplɪkəb(ə)l] |
 | async | <audio src="/awesome-pronunciation/public/audio/async.mp3" controls="controls" controlslist="nodownload"></audio> | [əˈsɪŋk] |

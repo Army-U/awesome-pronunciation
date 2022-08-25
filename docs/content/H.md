@@ -3,10 +3,9 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
-| hyper | <audio src="/awesome-pronunciation/public/audio/hyper.mp3" controls="controls" controlslist="nodownload"></audio> |  |
+| hover | <audio src="/awesome-pronunciation/public/audio/hover.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | hyper | <audio src="/awesome-pronunciation/public/audio/hyper.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | historically | <audio src="/awesome-pronunciation/public/audio/historically.mp3" controls="controls" controlslist="nodownload"></audio> | [hɪˈstɔːrɪkli] |
-| hash | <audio src="/awesome-pronunciation/public/audio/hash.mp3" controls="controls" controlslist="nodownload"></audio> | [hæʃ] |
 | hash | <audio src="/awesome-pronunciation/public/audio/hash.mp3" controls="controls" controlslist="nodownload"></audio> | [hæʃ] |
 | hassle | <audio src="/awesome-pronunciation/public/audio/hassle.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈhæs(ə)l] |
 | horizontal | <audio src="/awesome-pronunciation/public/audio/horizontal.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌhɔːrɪˈzɑːntl] |

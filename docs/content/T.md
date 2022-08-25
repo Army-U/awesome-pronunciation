@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| temporarily | <audio src="/awesome-pronunciation/public/audio/temporarily.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌtempəˈrerəli] |
 | thresholds | <audio src="/awesome-pronunciation/public/audio/thresholds.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈθreʃhold] |
 | text | <audio src="/awesome-pronunciation/public/audio/text.mp3" controls="controls" controlslist="nodownload"></audio> | [tekst] |
 | throttle | <audio src="/awesome-pronunciation/public/audio/throttle.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈθrɑːtl] |

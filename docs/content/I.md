@@ -3,6 +3,9 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| index | <audio src="/awesome-pronunciation/public/audio/index.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈɪndeks] |
+| inheritance | <audio src="/awesome-pronunciation/public/audio/inheritance.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪnˈherɪtəns] |
+| IIFE | <audio src="/awesome-pronunciation/public/audio/IIFE.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | initiated | <audio src="/awesome-pronunciation/public/audio/initiated.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪˈnɪʃɪeɪtɪd] |
 | initialize | <audio src="/awesome-pronunciation/public/audio/initialize.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪˈnɪʃəlaɪz] |
 | inward | <audio src="/awesome-pronunciation/public/audio/inward.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈɪnwərd] |

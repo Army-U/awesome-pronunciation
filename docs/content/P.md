@@ -3,10 +3,11 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| pop | <audio src="/awesome-pronunciation/public/audio/pop.mp3" controls="controls" controlslist="nodownload"></audio> | [pɑːp] |
+| prototypal | <audio src="/awesome-pronunciation/public/audio/prototypal.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | panel | <audio src="/awesome-pronunciation/public/audio/panel.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpænl] |
 | precise | <audio src="/awesome-pronunciation/public/audio/precise.mp3" controls="controls" controlslist="nodownload"></audio> | [prɪˈsaɪs] |
 | phase | <audio src="/awesome-pronunciation/public/audio/phase.mp3" controls="controls" controlslist="nodownload"></audio> | [feɪz] |
-| private | <audio src="/awesome-pronunciation/public/audio/private.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpraɪvət] |
 | private | <audio src="/awesome-pronunciation/public/audio/private.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpraɪvət] |
 | practices | <audio src="/awesome-pronunciation/public/audio/practices.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpræktɪsɪz] |
 | prop | <audio src="/awesome-pronunciation/public/audio/prop.mp3" controls="controls" controlslist="nodownload"></audio> | [prɑːp] |

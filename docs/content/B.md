@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| brief | <audio src="/awesome-pronunciation/public/audio/brief.mp3" controls="controls" controlslist="nodownload"></audio> | [briːf] |
 | beacon | <audio src="/awesome-pronunciation/public/audio/beacon.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈbiːkən] |
 | backward | <audio src="/awesome-pronunciation/public/audio/backward.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈbækwərd] |
 | behavioral | <audio src="/awesome-pronunciation/public/audio/behavioral.mp3" controls="controls" controlslist="nodownload"></audio> | [bɪˈheɪvjərəl] |

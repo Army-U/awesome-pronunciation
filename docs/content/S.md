@@ -3,13 +3,13 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| sincere | <audio src="/awesome-pronunciation/public/audio/sincere.mp3" controls="controls" controlslist="nodownload"></audio> | [sɪnˈsɪr] |
 | synchronously | <audio src="/awesome-pronunciation/public/audio/synchronously.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | Svelte | <audio src="/awesome-pronunciation/public/audio/Svelte.mp3" controls="controls" controlslist="nodownload"></audio> | [svelt] |
 | SCSS | <audio src="/awesome-pronunciation/public/audio/SCSS.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | sprites | <audio src="/awesome-pronunciation/public/audio/sprites.mp3" controls="controls" controlslist="nodownload"></audio> | [spraɪts] |
 | sanitize | <audio src="/awesome-pronunciation/public/audio/sanitize.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsænɪtaɪz] |
 | Sentry | <audio src="/awesome-pronunciation/public/audio/Sentry.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsentri] |
-| sacrifice | <audio src="/awesome-pronunciation/public/audio/sacrifice.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsækrɪfaɪs] |
 | simulate | <audio src="/awesome-pronunciation/public/audio/simulate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsɪmjuleɪt] |
 | solid | <audio src="/awesome-pronunciation/public/audio/solid.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsɑːlɪd] |
 | sacrifice | <audio src="/awesome-pronunciation/public/audio/sacrifice.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsækrɪfaɪs] |

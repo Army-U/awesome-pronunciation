@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| ethics | <audio src="/awesome-pronunciation/public/audio/ethics.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈeθɪks] |
 | evolved | <audio src="/awesome-pronunciation/public/audio/evolved.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪˈvɑːlvd] |
 | Elon Musk | <audio src="/awesome-pronunciation/public/audio/Elon%20Musk.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | enumerable | <audio src="/awesome-pronunciation/public/audio/enumerable.mp3" controls="controls" controlslist="nodownload"></audio> | ɪˈnjumərəbəl |
