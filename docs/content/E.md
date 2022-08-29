@@ -17,3 +17,7 @@
 | eureka | <audio src="/awesome-pronunciation/public/audio/eureka.mp3" controls="controls" controlslist="nodownload"></audio> | [jʊˈrikə] |
 | eval | <audio src="/awesome-pronunciation/public/audio/eval.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪ'væl] |
 | event | <audio src="/awesome-pronunciation/public/audio/event.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪ'vent] |
+
+## Reference
+
+- Et Cetera
