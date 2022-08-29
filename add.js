@@ -3,15 +3,7 @@ const prettier = require('prettier');
 const fetch = require('node-fetch');
 
 const newWords = [
-  'regret',
-  'gorgeous',
-  'colleague',
-  'Sonar',
-  'collapse',
-  'slot',
-  'participation',
-  'uncertain',
-  'pipeline',
+  'etc',
 ];
 
 const db = JSON.parse(fs.readFileSync('./db.json').toString());
