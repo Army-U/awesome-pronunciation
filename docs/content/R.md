@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| regret | <audio src="/awesome-pronunciation/public/audio/regret.mp3" controls="controls" controlslist="nodownload"></audio> | [rɪˈɡret] |
 | ratio | <audio src="/awesome-pronunciation/public/audio/ratio.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈreɪʃioʊ] |
 | resources | <audio src="/awesome-pronunciation/public/audio/resources.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈriːsɔːrsɪz] |
 | router | <audio src="/awesome-pronunciation/public/audio/router.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈruːtər; ˈraʊtər] |

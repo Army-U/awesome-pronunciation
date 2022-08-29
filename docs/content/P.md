@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| pipeline | <audio src="/awesome-pronunciation/public/audio/pipeline.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpaɪplaɪn] |
+| participation | <audio src="/awesome-pronunciation/public/audio/participation.mp3" controls="controls" controlslist="nodownload"></audio> | [pɑːrˌtɪsɪˈpeɪʃn] |
 | pop | <audio src="/awesome-pronunciation/public/audio/pop.mp3" controls="controls" controlslist="nodownload"></audio> | [pɑːp] |
 | prototypal | <audio src="/awesome-pronunciation/public/audio/prototypal.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | panel | <audio src="/awesome-pronunciation/public/audio/panel.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpænl] |

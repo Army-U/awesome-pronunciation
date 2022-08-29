@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| slot | <audio src="/awesome-pronunciation/public/audio/slot.mp3" controls="controls" controlslist="nodownload"></audio> | [slɑːt] |
+| Sonar | <audio src="/awesome-pronunciation/public/audio/Sonar.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsoʊnɑːr] |
 | sincere | <audio src="/awesome-pronunciation/public/audio/sincere.mp3" controls="controls" controlslist="nodownload"></audio> | [sɪnˈsɪr] |
 | synchronously | <audio src="/awesome-pronunciation/public/audio/synchronously.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | Svelte | <audio src="/awesome-pronunciation/public/audio/Svelte.mp3" controls="controls" controlslist="nodownload"></audio> | [svelt] |

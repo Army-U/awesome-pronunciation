@@ -589,6 +589,26 @@
 	],
 	"C": [
 		{
+			"word": "collapse",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=collapse&type=2"
+			],
+			"phonetic": [
+				"[kəˈlæps]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "colleague",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=colleague&type=2"
+			],
+			"phonetic": [
+				"[ˈkɑːliːɡ]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "criteria",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=criteria&type=2"
@@ -1326,6 +1346,16 @@
 		}
 	],
 	"G": [
+		{
+			"word": "gorgeous",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=gorgeous&type=2"
+			],
+			"phonetic": [
+				"[ˈɡɔːrdʒəs]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "garbage",
 			"origin": [
@@ -2363,6 +2393,26 @@
 	],
 	"P": [
 		{
+			"word": "pipeline",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=pipeline&type=2"
+			],
+			"phonetic": [
+				"[ˈpaɪplaɪn]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "participation",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=participation&type=2"
+			],
+			"phonetic": [
+				"[pɑːrˌtɪsɪˈpeɪʃn]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "pop",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=pop&type=2"
@@ -2629,6 +2679,16 @@
 	],
 	"R": [
 		{
+			"word": "regret",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=regret&type=2"
+			],
+			"phonetic": [
+				"[rɪˈɡret]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "ratio",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=ratio&type=2"
@@ -2856,6 +2916,24 @@
 		}
 	],
 	"S": [
+		{
+			"word": "slot",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=slot&type=2"
+			],
+			"phonetic": ["[slɑːt]"],
+			"reference": ""
+		},
+		{
+			"word": "Sonar",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Sonar&type=2"
+			],
+			"phonetic": [
+				"[ˈsoʊnɑːr]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "sincere",
 			"origin": [
@@ -3362,6 +3440,16 @@
 		}
 	],
 	"U": [
+		{
+			"word": "uncertain",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=uncertain&type=2"
+			],
+			"phonetic": [
+				"[ʌnˈsɜːrtn]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "Ubuntu",
 			"origin": [
