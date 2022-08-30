@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| puppeteer | <audio src="/awesome-pronunciation/public/audio/puppeteer.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌpʌpɪˈtɪr] |
 | pipeline | <audio src="/awesome-pronunciation/public/audio/pipeline.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpaɪplaɪn] |
 | participation | <audio src="/awesome-pronunciation/public/audio/participation.mp3" controls="controls" controlslist="nodownload"></audio> | [pɑːrˌtɪsɪˈpeɪʃn] |
 | pop | <audio src="/awesome-pronunciation/public/audio/pop.mp3" controls="controls" controlslist="nodownload"></audio> | [pɑːp] |
