@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| object | <audio src="/awesome-pronunciation/public/audio/object.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈɑːbdʒɪkt; əbˈdʒekt] |
 | omit | <audio src="/awesome-pronunciation/public/audio/omit.mp3" controls="controls" controlslist="nodownload"></audio> | [əˈmɪt] |
 | opacity | <audio src="/awesome-pronunciation/public/audio/opacity.mp3" controls="controls" controlslist="nodownload"></audio> | [oʊˈpæsəti] |
 | outward | <audio src="/awesome-pronunciation/public/audio/outward.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈaʊtwərd] |

@@ -2415,6 +2415,16 @@
 	],
 	"O": [
 		{
+			"word": "object",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=object&type=2"
+			],
+			"phonetic": [
+				"[ˈɑːbdʒɪkt; əbˈdʒekt]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "omit",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=omit&type=2"
@@ -3718,6 +3728,16 @@
 		}
 	],
 	"W": [
+		{
+			"word": "written",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=written&type=2"
+			],
+			"phonetic": [
+				"[ˈrɪt(ə)n]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "walkthrough",
 			"origin": [
