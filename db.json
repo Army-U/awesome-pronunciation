@@ -589,6 +589,16 @@
 	],
 	"C": [
 		{
+			"word": "consistency",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=consistency&type=2"
+			],
+			"phonetic": [
+				"[kənˈsɪstənsi]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "collapse",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=collapse&type=2"
@@ -918,6 +928,26 @@
 		}
 	],
 	"D": [
+		{
+			"word": "decouple",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=decouple&type=2"
+			],
+			"phonetic": [
+				"[diːˈkʌpl]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "declarative",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=declarative&type=2"
+			],
+			"phonetic": [
+				"[dɪˈklærətɪv]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "debt",
 			"origin": [
@@ -1532,6 +1562,16 @@
 		}
 	],
 	"I": [
+		{
+			"word": "imperative",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=imperative&type=2"
+			],
+			"phonetic": [
+				"[ɪmˈperətɪv]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "index",
 			"origin": [
@@ -4077,11 +4117,11 @@
 			"explanation": "",
 			"reference": ""
 		},
-    {
-      "word": "pros and cons",
-      "explanation": "",
-      "reference": "[proʊz ənd kɑːnz]"
-    },
+		{
+			"word": "pros and cons",
+			"explanation": "",
+			"reference": "[proʊz ənd kɑːnz]"
+		},
 		{
 			"word": "2 + 1",
 			"explanation": "two plus one / add two to one",

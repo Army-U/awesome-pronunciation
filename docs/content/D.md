@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| decouple | <audio src="/awesome-pronunciation/public/audio/decouple.mp3" controls="controls" controlslist="nodownload"></audio> | [diːˈkʌpl] |
+| declarative | <audio src="/awesome-pronunciation/public/audio/declarative.mp3" controls="controls" controlslist="nodownload"></audio> | [dɪˈklærətɪv] |
 | debt | <audio src="/awesome-pronunciation/public/audio/debt.mp3" controls="controls" controlslist="nodownload"></audio> | [det] |
 | deprioritize | <audio src="/awesome-pronunciation/public/audio/deprioritize.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | deferred | <audio src="/awesome-pronunciation/public/audio/deferred.mp3" controls="controls" controlslist="nodownload"></audio> | [dɪˈfɜːrd] |

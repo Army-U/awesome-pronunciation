@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| consistency | <audio src="/awesome-pronunciation/public/audio/consistency.mp3" controls="controls" controlslist="nodownload"></audio> | [kənˈsɪstənsi] |
 | collapse | <audio src="/awesome-pronunciation/public/audio/collapse.mp3" controls="controls" controlslist="nodownload"></audio> | [kəˈlæps] |
 | colleague | <audio src="/awesome-pronunciation/public/audio/colleague.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkɑːliːɡ] |
 | criteria | <audio src="/awesome-pronunciation/public/audio/criteria.mp3" controls="controls" controlslist="nodownload"></audio> | [kraɪˈtɪriə] |
