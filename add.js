@@ -2,7 +2,7 @@ const fs = require('fs');
 const prettier = require('prettier');
 const fetch = require('node-fetch');
 
-const newWords = ['imperative', 'declarative', 'consistency', 'decouple'];
+const newWords = ['written', 'object'];
 
 const db = JSON.parse(fs.readFileSync('./db.json').toString());
 

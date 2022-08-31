@@ -589,6 +589,46 @@
 	],
 	"C": [
 		{
+			"word": "concept",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=concept&type=2"
+			],
+			"phonetic": [
+				"[ˈkɑːnsept]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "compile",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=compile&type=2"
+			],
+			"phonetic": [
+				"[kəmˈpaɪl]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "commands",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=commands&type=2"
+			],
+			"phonetic": [
+				"[undefined]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "compilation",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=compilation&type=2"
+			],
+			"phonetic": [
+				"[ˌkɑːmpɪˈleɪʃn]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "consistency",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=consistency&type=2"
@@ -1387,6 +1427,16 @@
 	],
 	"G": [
 		{
+			"word": "glossary",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=glossary&type=2"
+			],
+			"phonetic": [
+				"[ˈɡlɑːsəri]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "gorgeous",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=gorgeous&type=2"
@@ -1446,6 +1496,16 @@
 		}
 	],
 	"H": [
+		{
+			"word": "handled",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=handled&type=2"
+			],
+			"phonetic": [
+				"[ˈhændld]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "hover",
 			"origin": [
@@ -3313,6 +3373,16 @@
 	],
 	"T": [
 		{
+			"word": "techniques",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=techniques&type=2"
+			],
+			"phonetic": [
+				"[tekˈniːks]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "temporarily",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=temporarily&type=2"
@@ -3648,6 +3718,16 @@
 		}
 	],
 	"W": [
+		{
+			"word": "walkthrough",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=walkthrough&type=2"
+			],
+			"phonetic": [
+				"[ˈwɔːkˌθrʊ]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "wrote",
 			"origin": [

@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| techniques | <audio src="/awesome-pronunciation/public/audio/techniques.mp3" controls="controls" controlslist="nodownload"></audio> | [tekˈniːks] |
 | temporarily | <audio src="/awesome-pronunciation/public/audio/temporarily.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌtempəˈrerəli] |
 | thresholds | <audio src="/awesome-pronunciation/public/audio/thresholds.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈθreʃhold] |
 | text | <audio src="/awesome-pronunciation/public/audio/text.mp3" controls="controls" controlslist="nodownload"></audio> | [tekst] |

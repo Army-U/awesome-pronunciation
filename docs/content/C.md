@@ -3,6 +3,10 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| concept | <audio src="/awesome-pronunciation/public/audio/concept.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkɑːnsept] |
+| compile | <audio src="/awesome-pronunciation/public/audio/compile.mp3" controls="controls" controlslist="nodownload"></audio> | [kəmˈpaɪl] |
+| commands | <audio src="/awesome-pronunciation/public/audio/commands.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
+| compilation | <audio src="/awesome-pronunciation/public/audio/compilation.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌkɑːmpɪˈleɪʃn] |
 | consistency | <audio src="/awesome-pronunciation/public/audio/consistency.mp3" controls="controls" controlslist="nodownload"></audio> | [kənˈsɪstənsi] |
 | collapse | <audio src="/awesome-pronunciation/public/audio/collapse.mp3" controls="controls" controlslist="nodownload"></audio> | [kəˈlæps] |
 | colleague | <audio src="/awesome-pronunciation/public/audio/colleague.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkɑːliːɡ] |
