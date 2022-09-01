@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| mock | <audio src="/awesome-pronunciation/public/audio/mock.mp3" controls="controls" controlslist="nodownload"></audio> | [mɑːk] |
 | million | <audio src="/awesome-pronunciation/public/audio/million.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈmɪljən] |
 | Mark Zuckerberg | <audio src="/awesome-pronunciation/public/audio/Mark%20Zuckerberg.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | maintainability | <audio src="/awesome-pronunciation/public/audio/maintainability.mp3" controls="controls" controlslist="nodownload"></audio> | [meɪnˌteɪnəˈbɪləti] |

@@ -2123,6 +2123,14 @@
 	],
 	"M": [
 		{
+			"word": "mock",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=mock&type=2"
+			],
+			"phonetic": ["[mɑːk]"],
+			"reference": ""
+		},
+		{
 			"word": "million",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=million&type=2"
