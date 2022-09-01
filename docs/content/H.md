@@ -4,7 +4,7 @@
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | handled | <audio src="/awesome-pronunciation/public/audio/handled.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈhændld] |
-| hover | <audio src="/awesome-pronunciation/public/audio/hover.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
+| hover | <audio src="/awesome-pronunciation/public/audio/hover.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈhʌvər] |
 | hyper | <audio src="/awesome-pronunciation/public/audio/hyper.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | historically | <audio src="/awesome-pronunciation/public/audio/historically.mp3" controls="controls" controlslist="nodownload"></audio> | [hɪˈstɔːrɪkli] |
 | hash | <audio src="/awesome-pronunciation/public/audio/hash.mp3" controls="controls" controlslist="nodownload"></audio> | [hæʃ] |
