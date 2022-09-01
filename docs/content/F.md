@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| forum | <audio src="/awesome-pronunciation/public/audio/forum.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈfɔːrəm] |
 | formality | <audio src="/awesome-pronunciation/public/audio/formality.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | foreign | <audio src="/awesome-pronunciation/public/audio/foreign.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈfɔːrən] |
 | figure | <audio src="/awesome-pronunciation/public/audio/figure.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈfɪɡjər] |

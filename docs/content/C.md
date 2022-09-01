@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| currency | <audio src="/awesome-pronunciation/public/audio/currency.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkɜːrənsi] |
 | concept | <audio src="/awesome-pronunciation/public/audio/concept.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkɑːnsept] |
 | compile | <audio src="/awesome-pronunciation/public/audio/compile.mp3" controls="controls" controlslist="nodownload"></audio> | [kəmˈpaɪl] |
 | commands | <audio src="/awesome-pronunciation/public/audio/commands.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |

@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| accepts | <audio src="/awesome-pronunciation/public/audio/accepts.mp3" controls="controls" controlslist="nodownload"></audio> | [əkˈsepts] |
 | action | <audio src="/awesome-pronunciation/public/audio/action.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈækʃ(ə)n] |
 | architecture | <audio src="/awesome-pronunciation/public/audio/architecture.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈɑːrkɪtektʃər] |
 | attentive | <audio src="/awesome-pronunciation/public/audio/attentive.mp3" controls="controls" controlslist="nodownload"></audio> | [əˈtentɪv] |

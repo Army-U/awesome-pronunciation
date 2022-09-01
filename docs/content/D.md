@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| deletion | <audio src="/awesome-pronunciation/public/audio/deletion.mp3" controls="controls" controlslist="nodownload"></audio> | [dɪˈliːʃn] |
 | decouple | <audio src="/awesome-pronunciation/public/audio/decouple.mp3" controls="controls" controlslist="nodownload"></audio> | [diːˈkʌpl] |
 | declarative | <audio src="/awesome-pronunciation/public/audio/declarative.mp3" controls="controls" controlslist="nodownload"></audio> | [dɪˈklærətɪv] |
 | debt | <audio src="/awesome-pronunciation/public/audio/debt.mp3" controls="controls" controlslist="nodownload"></audio> | [det] |

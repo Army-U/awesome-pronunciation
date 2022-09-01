@@ -1,6 +1,16 @@
 {
 	"A": [
 		{
+			"word": "accepts",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=accepts&type=2"
+			],
+			"phonetic": [
+				"[əkˈsepts]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "action",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=action&type=2"
@@ -477,6 +487,16 @@
 	],
 	"B": [
 		{
+			"word": "billion",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=billion&type=2"
+			],
+			"phonetic": [
+				"[ˈbɪljən]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "brief",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=brief&type=2"
@@ -588,6 +608,16 @@
 		}
 	],
 	"C": [
+		{
+			"word": "currency",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=currency&type=2"
+			],
+			"phonetic": [
+				"[ˈkɜːrənsi]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "concept",
 			"origin": [
@@ -969,6 +999,16 @@
 	],
 	"D": [
 		{
+			"word": "deletion",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=deletion&type=2"
+			],
+			"phonetic": [
+				"[dɪˈliːʃn]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "decouple",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=decouple&type=2"
@@ -1133,6 +1173,16 @@
 	],
 	"E": [
 		{
+			"word": "emphasize",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=emphasize&type=2"
+			],
+			"phonetic": [
+				"[ˈemfəsaɪz]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "etc",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=etc&type=2"
@@ -1268,6 +1318,16 @@
 		}
 	],
 	"F": [
+		{
+			"word": "forum",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=forum&type=2"
+			],
+			"phonetic": [
+				"[ˈfɔːrəm]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "formality",
 			"origin": [
@@ -2073,6 +2133,16 @@
 	],
 	"M": [
 		{
+			"word": "million",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=million&type=2"
+			],
+			"phonetic": [
+				"[ˈmɪljən]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "Mark Zuckerberg",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Mark Zuckerberg&type=2"
@@ -2414,6 +2484,16 @@
 		}
 	],
 	"O": [
+		{
+			"word": "only",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=only&type=2"
+			],
+			"phonetic": [
+				"[ˈoʊnli]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "object",
 			"origin": [

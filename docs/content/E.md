@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| emphasize | <audio src="/awesome-pronunciation/public/audio/emphasize.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈemfəsaɪz] |
 | etc | <audio src="/awesome-pronunciation/public/audio/etc.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌet ˈsetərə; ˌɪt ˈsetərə] |
 | ethics | <audio src="/awesome-pronunciation/public/audio/ethics.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈeθɪks] |
 | evolved | <audio src="/awesome-pronunciation/public/audio/evolved.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪˈvɑːlvd] |
