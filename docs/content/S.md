@@ -6,7 +6,7 @@
 | slot | <audio src="/awesome-pronunciation/public/audio/slot.mp3" controls="controls" controlslist="nodownload"></audio> | [slɑːt] |
 | Sonar | <audio src="/awesome-pronunciation/public/audio/Sonar.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsoʊnɑːr] |
 | sincere | <audio src="/awesome-pronunciation/public/audio/sincere.mp3" controls="controls" controlslist="nodownload"></audio> | [sɪnˈsɪr] |
-| synchronously | <audio src="/awesome-pronunciation/public/audio/synchronously.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
+| synchronously | <audio src="/awesome-pronunciation/public/audio/synchronously.mp3" controls="controls" controlslist="nodownload"></audio> | ['siŋkrənəsli] |
 | Svelte | <audio src="/awesome-pronunciation/public/audio/Svelte.mp3" controls="controls" controlslist="nodownload"></audio> | [svelt] |
 | SCSS | <audio src="/awesome-pronunciation/public/audio/SCSS.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | sprites | <audio src="/awesome-pronunciation/public/audio/sprites.mp3" controls="controls" controlslist="nodownload"></audio> | [spraɪts] |
