@@ -6,7 +6,7 @@
 | currency | <audio src="/awesome-pronunciation/public/audio/currency.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkɜːrənsi] |
 | concept | <audio src="/awesome-pronunciation/public/audio/concept.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkɑːnsept] |
 | compile | <audio src="/awesome-pronunciation/public/audio/compile.mp3" controls="controls" controlslist="nodownload"></audio> | [kəmˈpaɪl] |
-| commands | <audio src="/awesome-pronunciation/public/audio/commands.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
+| commands | <audio src="/awesome-pronunciation/public/audio/commands.mp3" controls="controls" controlslist="nodownload"></audio> | [kə'mændz] |
 | compilation | <audio src="/awesome-pronunciation/public/audio/compilation.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌkɑːmpɪˈleɪʃn] |
 | consistency | <audio src="/awesome-pronunciation/public/audio/consistency.mp3" controls="controls" controlslist="nodownload"></audio> | [kənˈsɪstənsi] |
 | collapse | <audio src="/awesome-pronunciation/public/audio/collapse.mp3" controls="controls" controlslist="nodownload"></audio> | [kəˈlæps] |
