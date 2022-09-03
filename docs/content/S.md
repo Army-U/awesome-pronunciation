@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| swap | <audio src="/awesome-pronunciation/public/audio/swap.mp3" controls="controls" controlslist="nodownload"></audio> | [swɑːp] |
 | slot | <audio src="/awesome-pronunciation/public/audio/slot.mp3" controls="controls" controlslist="nodownload"></audio> | [slɑːt] |
 | Sonar | <audio src="/awesome-pronunciation/public/audio/Sonar.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsoʊnɑːr] |
 | sincere | <audio src="/awesome-pronunciation/public/audio/sincere.mp3" controls="controls" controlslist="nodownload"></audio> | [sɪnˈsɪr] |

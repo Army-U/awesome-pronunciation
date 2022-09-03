@@ -609,6 +609,16 @@
 	],
 	"C": [
 		{
+			"word": "composition",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=composition&type=2"
+			],
+			"phonetic": [
+				"[ˌkɑːmpəˈzɪʃ(ə)n]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "currency",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=currency&type=2"
@@ -2601,6 +2611,16 @@
 	],
 	"P": [
 		{
+			"word": "profile",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=profile&type=2"
+			],
+			"phonetic": [
+				"[ˈproʊfaɪl]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "puppeteer",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=puppeteer&type=2"
@@ -3134,6 +3154,14 @@
 		}
 	],
 	"S": [
+		{
+			"word": "swap",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=swap&type=2"
+			],
+			"phonetic": ["[swɑːp]"],
+			"reference": ""
+		},
 		{
 			"word": "slot",
 			"origin": [
