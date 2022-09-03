@@ -1163,6 +1163,16 @@
 	],
 	"E": [
 		{
+			"word": "encounter",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=encounter&type=2"
+			],
+			"phonetic": [
+				"[ɪnˈkaʊntər]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "emphasize",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=emphasize&type=2"
