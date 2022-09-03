@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| variety | <audio src="/awesome-pronunciation/public/audio/variety.mp3" controls="controls" controlslist="nodownload"></audio> | [vəˈraɪəti] |
 | volunteer | <audio src="/awesome-pronunciation/public/audio/volunteer.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌvɑːlənˈtɪr] |
 | volume | <audio src="/awesome-pronunciation/public/audio/volume.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈvɑːljəm] |
 | validity | <audio src="/awesome-pronunciation/public/audio/validity.mp3" controls="controls" controlslist="nodownload"></audio> | [vəˈlɪdəti] |
