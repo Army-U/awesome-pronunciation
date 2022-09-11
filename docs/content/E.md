@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| exist | <audio src="/awesome-pronunciation/public/audio/exist.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪɡˈzɪst] |
+| exact | <audio src="/awesome-pronunciation/public/audio/exact.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪɡˈzækt] |
 | encounter | <audio src="/awesome-pronunciation/public/audio/encounter.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪnˈkaʊntər] |
 | emphasize | <audio src="/awesome-pronunciation/public/audio/emphasize.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈemfəsaɪz] |
 | etc | <audio src="/awesome-pronunciation/public/audio/etc.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌet ˈsetərə; ˌɪt ˈsetərə] |

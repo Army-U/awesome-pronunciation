@@ -1,6 +1,16 @@
 {
 	"A": [
 		{
+			"word": "agency",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=agency&type=2"
+			],
+			"phonetic": [
+				"[ˈeɪdʒənsi]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "accepts",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=accepts&type=2"
@@ -609,6 +619,16 @@
 	],
 	"C": [
 		{
+			"word": "compliance",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=compliance&type=2"
+			],
+			"phonetic": [
+				"[kəmˈplaɪəns]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "composition",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=composition&type=2"
@@ -999,6 +1019,26 @@
 	],
 	"D": [
 		{
+			"word": "demand",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=demand&type=2"
+			],
+			"phonetic": [
+				"[dɪˈmænd]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "dual",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=dual&type=2"
+			],
+			"phonetic": [
+				"[ˈduːəl]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "deletion",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=deletion&type=2"
@@ -1172,6 +1212,26 @@
 		}
 	],
 	"E": [
+		{
+			"word": "exist",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=exist&type=2"
+			],
+			"phonetic": [
+				"[ɪɡˈzɪst]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "exact",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=exact&type=2"
+			],
+			"phonetic": [
+				"[ɪɡˈzækt]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "encounter",
 			"origin": [
@@ -1692,6 +1752,16 @@
 		}
 	],
 	"I": [
+		{
+			"word": "illustrate",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=illustrate&type=2"
+			],
+			"phonetic": [
+				"[ˈɪləstreɪt]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "imperative",
 			"origin": [
