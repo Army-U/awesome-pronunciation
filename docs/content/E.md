@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| emoji | <audio src="/awesome-pronunciation/public/audio/emoji.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪˈmoʊdʒi] |
 | exist | <audio src="/awesome-pronunciation/public/audio/exist.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪɡˈzɪst] |
 | exact | <audio src="/awesome-pronunciation/public/audio/exact.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪɡˈzækt] |
 | encounter | <audio src="/awesome-pronunciation/public/audio/encounter.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪnˈkaʊntər] |

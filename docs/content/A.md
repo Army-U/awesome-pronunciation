@@ -3,6 +3,10 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| adjust | <audio src="/awesome-pronunciation/public/audio/adjust.mp3" controls="controls" controlslist="nodownload"></audio> | [əˈdʒʌst] |
+| adaptable | <audio src="/awesome-pronunciation/public/audio/adaptable.mp3" controls="controls" controlslist="nodownload"></audio> | [əˈdæptəb(ə)l] |
+| availability | <audio src="/awesome-pronunciation/public/audio/availability.mp3" controls="controls" controlslist="nodownload"></audio> | [əˌveɪləˈbɪləti] |
+| attribution | <audio src="/awesome-pronunciation/public/audio/attribution.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌætrɪˈbjuːʃn] |
 | agency | <audio src="/awesome-pronunciation/public/audio/agency.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈeɪdʒənsi] |
 | accepts | <audio src="/awesome-pronunciation/public/audio/accepts.mp3" controls="controls" controlslist="nodownload"></audio> | [əkˈsepts] |
 | action | <audio src="/awesome-pronunciation/public/audio/action.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈækʃ(ə)n] |

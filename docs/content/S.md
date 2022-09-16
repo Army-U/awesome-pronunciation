@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| swipe | <audio src="/awesome-pronunciation/public/audio/swipe.mp3" controls="controls" controlslist="nodownload"></audio> | [swaɪp] |
 | swap | <audio src="/awesome-pronunciation/public/audio/swap.mp3" controls="controls" controlslist="nodownload"></audio> | [swɑːp] |
 | slot | <audio src="/awesome-pronunciation/public/audio/slot.mp3" controls="controls" controlslist="nodownload"></audio> | [slɑːt] |
 | Sonar | <audio src="/awesome-pronunciation/public/audio/Sonar.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈsoʊnɑːr] |

@@ -4,6 +4,7 @@
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | demand | <audio src="/awesome-pronunciation/public/audio/demand.mp3" controls="controls" controlslist="nodownload"></audio> | [dɪˈmænd] |
+| demand | <audio src="/awesome-pronunciation/public/audio/demand.mp3" controls="controls" controlslist="nodownload"></audio> | [dɪˈmænd] |
 | dual | <audio src="/awesome-pronunciation/public/audio/dual.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈduːəl] |
 | deletion | <audio src="/awesome-pronunciation/public/audio/deletion.mp3" controls="controls" controlslist="nodownload"></audio> | [dɪˈliːʃn] |
 | decouple | <audio src="/awesome-pronunciation/public/audio/decouple.mp3" controls="controls" controlslist="nodownload"></audio> | [diːˈkʌpl] |

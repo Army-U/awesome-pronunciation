@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| gesture | <audio src="/awesome-pronunciation/public/audio/gesture.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈdʒestʃər] |
+| glitches | <audio src="/awesome-pronunciation/public/audio/glitches.mp3" controls="controls" controlslist="nodownload"></audio> | [ɡlɪtʃɪz] |
 | glossary | <audio src="/awesome-pronunciation/public/audio/glossary.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈɡlɑːsəri] |
 | gorgeous | <audio src="/awesome-pronunciation/public/audio/gorgeous.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈɡɔːrdʒəs] |
 | garbage | <audio src="/awesome-pronunciation/public/audio/garbage.mp3" controls="controls" controlslist="nodownload"></audio> | ˈɡɑːrbɪdʒ |

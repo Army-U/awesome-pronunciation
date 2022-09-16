@@ -1,6 +1,46 @@
 {
 	"A": [
 		{
+			"word": "adjust",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=adjust&type=2"
+			],
+			"phonetic": [
+				"[əˈdʒʌst]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "adaptable",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=adaptable&type=2"
+			],
+			"phonetic": [
+				"[əˈdæptəb(ə)l]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "availability",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=availability&type=2"
+			],
+			"phonetic": [
+				"[əˌveɪləˈbɪləti]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "attribution",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=attribution&type=2"
+			],
+			"phonetic": [
+				"[ˌætrɪˈbjuːʃn]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "agency",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=agency&type=2"
@@ -1029,6 +1069,16 @@
 			"reference": ""
 		},
 		{
+			"word": "demand",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=demand&type=2"
+			],
+			"phonetic": [
+				"[dɪˈmænd]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "dual",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=dual&type=2"
@@ -1213,6 +1263,16 @@
 	],
 	"E": [
 		{
+			"word": "emoji",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=emoji&type=2"
+			],
+			"phonetic": [
+				"[ɪˈmoʊdʒi]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "exist",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=exist&type=2"
@@ -1389,6 +1449,16 @@
 	],
 	"F": [
 		{
+			"word": "flaky",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=flaky&type=2"
+			],
+			"phonetic": [
+				"[ˈfleɪki]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "forum",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=forum&type=2"
@@ -1556,6 +1626,26 @@
 		}
 	],
 	"G": [
+		{
+			"word": "gesture",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=gesture&type=2"
+			],
+			"phonetic": [
+				"[ˈdʒestʃər]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "glitches",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=glitches&type=2"
+			],
+			"phonetic": [
+				"[ɡlɪtʃɪz]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "glossary",
 			"origin": [
@@ -2095,6 +2185,16 @@
 	],
 	"K": [
 		{
+			"word": "kilobytes",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=kilobytes&type=2"
+			],
+			"phonetic": [
+				"[undefined]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "Kotlin",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=Kotlin&type=2"
@@ -2212,6 +2312,16 @@
 		}
 	],
 	"M": [
+		{
+			"word": "multiple",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=multiple&type=2"
+			],
+			"phonetic": [
+				"[ˈmʌltɪp(ə)l]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "mock",
 			"origin": [
@@ -3235,6 +3345,14 @@
 	],
 	"S": [
 		{
+			"word": "swipe",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=swipe&type=2"
+			],
+			"phonetic": ["[swaɪp]"],
+			"reference": ""
+		},
+		{
 			"word": "swap",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=swap&type=2"
@@ -3944,6 +4062,16 @@
 		}
 	],
 	"W": [
+		{
+			"word": "willingness",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=willingness&type=2"
+			],
+			"phonetic": [
+				"[ˈwɪlɪŋnəs]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "written",
 			"origin": [

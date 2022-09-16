@@ -2,7 +2,7 @@ const fs = require('fs');
 const prettier = require('prettier');
 const fetch = require('node-fetch');
 
-const newWords = ['theoretical'];
+const newWords = ['flaky', 'emoji', 'adjust', 'availability', 'attribution', 'adaptable', 'multiple', 'gesture', 'glitches', 'swipe', 'willingness', 'kilobytes', 'demand'];
 
 const db = JSON.parse(fs.readFileSync('./db.json').toString());
 

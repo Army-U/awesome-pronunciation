@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| willingness | <audio src="/awesome-pronunciation/public/audio/willingness.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈwɪlɪŋnəs] |
 | written | <audio src="/awesome-pronunciation/public/audio/written.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈrɪt(ə)n] |
 | walkthrough | <audio src="/awesome-pronunciation/public/audio/walkthrough.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈwɔːkˌθrʊ] |
 | wrote | <audio src="/awesome-pronunciation/public/audio/wrote.mp3" controls="controls" controlslist="nodownload"></audio> | [roʊt] |
