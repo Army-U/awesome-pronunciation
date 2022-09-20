@@ -3,6 +3,9 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| gist | <audio src="/awesome-pronunciation/public/audio/gist.mp3" controls="controls" controlslist="nodownload"></audio> | [dʒɪst] |
+| Grafana | <audio src="/awesome-pronunciation/public/audio/Grafana.mp3" controls="controls" controlslist="nodownload"></audio> |  |
+| grads | <audio src="/awesome-pronunciation/public/audio/grads.mp3" controls="controls" controlslist="nodownload"></audio> | [ɡrædz] |
 | gesture | <audio src="/awesome-pronunciation/public/audio/gesture.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈdʒestʃər] |
 | glitches | <audio src="/awesome-pronunciation/public/audio/glitches.mp3" controls="controls" controlslist="nodownload"></audio> | [ɡlɪtʃɪz] |
 | glossary | <audio src="/awesome-pronunciation/public/audio/glossary.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈɡlɑːsəri] |

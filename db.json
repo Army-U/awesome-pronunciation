@@ -1,6 +1,26 @@
 {
 	"A": [
 		{
+			"word": "apologize",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=apologize&type=2"
+			],
+			"phonetic": [
+				"[əˈpɑːlədʒaɪz]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "agnostic",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=agnostic&type=2"
+			],
+			"phonetic": [
+				"[æɡˈnɑːstɪk]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "adjust",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=adjust&type=2"
@@ -1059,6 +1079,34 @@
 	],
 	"D": [
 		{
+			"word": "due",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=due&type=2"
+			],
+			"phonetic": ["[duː]"],
+			"reference": ""
+		},
+		{
+			"word": "disability",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=disability&type=2"
+			],
+			"phonetic": [
+				"[ˌdɪsəˈbɪləti]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "determined",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=determined&type=2"
+			],
+			"phonetic": [
+				"[dɪˈtɜːrmɪnd]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "demand",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=demand&type=2"
@@ -1262,6 +1310,26 @@
 		}
 	],
 	"E": [
+		{
+			"word": "expose",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=expose&type=2"
+			],
+			"phonetic": [
+				"[ɪkˈspoʊz]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "expose",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=expose&type=2"
+			],
+			"phonetic": [
+				"[ɪkˈspoʊz]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "emoji",
 			"origin": [
@@ -1627,6 +1695,30 @@
 	],
 	"G": [
 		{
+			"word": "gist",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=gist&type=2"
+			],
+			"phonetic": ["[dʒɪst]"],
+			"reference": ""
+		},
+		{
+			"word": "Grafana",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Grafana&type=2"
+			],
+			"phonetic": [""],
+			"reference": ""
+		},
+		{
+			"word": "grads",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=grads&type=2"
+			],
+			"phonetic": ["[ɡrædz]"],
+			"reference": ""
+		},
+		{
 			"word": "gesture",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=gesture&type=2"
@@ -1716,6 +1808,24 @@
 		}
 	],
 	"H": [
+		{
+			"word": "height",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=height&type=2"
+			],
+			"phonetic": ["[haɪt]"],
+			"reference": ""
+		},
+		{
+			"word": "hesitate",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=hesitate&type=2"
+			],
+			"phonetic": [
+				"[ˈhezɪteɪt]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "handled",
 			"origin": [
@@ -1842,6 +1952,26 @@
 		}
 	],
 	"I": [
+		{
+			"word": "instrument",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=instrument&type=2"
+			],
+			"phonetic": [
+				"[undefined]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "instance",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=instance&type=2"
+			],
+			"phonetic": [
+				"[undefined]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "illustrate",
 			"origin": [
@@ -2218,6 +2348,26 @@
 		}
 	],
 	"L": [
+		{
+			"word": "latency",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=latency&type=2"
+			],
+			"phonetic": [
+				"[ˈleɪtənsi]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "labor",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=labor&type=2"
+			],
+			"phonetic": [
+				"[ˈleɪbər]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "lanes",
 			"origin": [
@@ -2683,6 +2833,16 @@
 	],
 	"O": [
 		{
+			"word": "obsess",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=obsess&type=2"
+			],
+			"phonetic": [
+				"[əbˈses]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "only",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=only&type=2"
@@ -2790,6 +2950,56 @@
 		}
 	],
 	"P": [
+		{
+			"word": "prevalent",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=prevalent&type=2"
+			],
+			"phonetic": [
+				"[ˈprevələnt]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "Prometheus",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Prometheus&type=2"
+			],
+			"phonetic": [
+				"[proˈmiθɪəs]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "packets",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=packets&type=2"
+			],
+			"phonetic": [
+				"[ˈpækɪts]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "postpone",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=postpone&type=2"
+			],
+			"phonetic": [
+				"[poʊˈspoʊn]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "progress",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=progress&type=2"
+			],
+			"phonetic": [
+				"[ˈprɑːɡres]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "permanent",
 			"origin": [
@@ -3107,6 +3317,44 @@
 	],
 	"R": [
 		{
+			"word": "rough",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=rough&type=2"
+			],
+			"phonetic": ["[rʌf]"],
+			"reference": ""
+		},
+		{
+			"word": "recognize",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=recognize&type=2"
+			],
+			"phonetic": [
+				"[ˈrekəɡnaɪz]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "repo",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=repo&type=2"
+			],
+			"phonetic": [
+				"[ˈriːpoʊ]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "rounds",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=rounds&type=2"
+			],
+			"phonetic": [
+				"[raʊndz]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "regret",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=regret&type=2"
@@ -3344,6 +3592,24 @@
 		}
 	],
 	"S": [
+		{
+			"word": "stakeholders",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=stakeholders&type=2"
+			],
+			"phonetic": [
+				"[undefined]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "stub",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=stub&type=2"
+			],
+			"phonetic": ["[stʌb]"],
+			"reference": ""
+		},
 		{
 			"word": "swipe",
 			"origin": [
@@ -3697,6 +3963,16 @@
 	],
 	"T": [
 		{
+			"word": "tolerate",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=tolerate&type=2"
+			],
+			"phonetic": [
+				"[ˈtɑːləreɪt]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "theoretical",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=theoretical&type=2"
@@ -3905,6 +4181,16 @@
 	],
 	"U": [
 		{
+			"word": "union",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=union&type=2"
+			],
+			"phonetic": [
+				"[ˈjuːniən]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "uncertain",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=uncertain&type=2"
@@ -3926,6 +4212,16 @@
 		}
 	],
 	"V": [
+		{
+			"word": "vulnerability",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=vulnerability&type=2"
+			],
+			"phonetic": [
+				"[ˌvʌlnərəˈbɪləti]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "variety",
 			"origin": [

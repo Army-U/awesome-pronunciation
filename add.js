@@ -2,7 +2,39 @@ const fs = require('fs');
 const prettier = require('prettier');
 const fetch = require('node-fetch');
 
-const newWords = [];
+const newWords = [
+  'agnostic',
+  'vulnerability',
+  'determined',
+  'recognize',
+  'instance',
+  'disability',
+  'progress',
+  'tolerate',
+  'stakeholders',
+  'stub',
+  'expose',
+  'postpone',
+  'apologize',
+  'obsess',
+  'expose',
+  'rounds',
+  'grads',
+  'labor',
+  'instrument',
+  'latency',
+  'height',
+  'repo',
+  'hesitate',
+  'rough',
+  'due',
+  'union',
+  'gist',
+  'packets',
+  'prevalent',
+  'Grafana',
+  'Prometheus'
+];
 
 const db = JSON.parse(fs.readFileSync('./db.json').toString());
 

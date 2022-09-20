@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| stakeholders | <audio src="/awesome-pronunciation/public/audio/stakeholders.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
+| stub | <audio src="/awesome-pronunciation/public/audio/stub.mp3" controls="controls" controlslist="nodownload"></audio> | [stʌb] |
 | swipe | <audio src="/awesome-pronunciation/public/audio/swipe.mp3" controls="controls" controlslist="nodownload"></audio> | [swaɪp] |
 | swap | <audio src="/awesome-pronunciation/public/audio/swap.mp3" controls="controls" controlslist="nodownload"></audio> | [swɑːp] |
 | slot | <audio src="/awesome-pronunciation/public/audio/slot.mp3" controls="controls" controlslist="nodownload"></audio> | [slɑːt] |

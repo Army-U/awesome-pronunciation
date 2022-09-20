@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| vulnerability | <audio src="/awesome-pronunciation/public/audio/vulnerability.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌvʌlnərəˈbɪləti] |
 | variety | <audio src="/awesome-pronunciation/public/audio/variety.mp3" controls="controls" controlslist="nodownload"></audio> | [vəˈraɪəti] |
 | volunteer | <audio src="/awesome-pronunciation/public/audio/volunteer.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌvɑːlənˈtɪr] |
 | volume | <audio src="/awesome-pronunciation/public/audio/volume.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈvɑːljəm] |

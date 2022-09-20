@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| instrument | <audio src="/awesome-pronunciation/public/audio/instrument.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
+| instance | <audio src="/awesome-pronunciation/public/audio/instance.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | illustrate | <audio src="/awesome-pronunciation/public/audio/illustrate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈɪləstreɪt] |
 | imperative | <audio src="/awesome-pronunciation/public/audio/imperative.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪmˈperətɪv] |
 | index | <audio src="/awesome-pronunciation/public/audio/index.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈɪndeks] |

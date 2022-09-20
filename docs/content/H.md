@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| height | <audio src="/awesome-pronunciation/public/audio/height.mp3" controls="controls" controlslist="nodownload"></audio> | [haɪt] |
+| hesitate | <audio src="/awesome-pronunciation/public/audio/hesitate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈhezɪteɪt] |
 | handled | <audio src="/awesome-pronunciation/public/audio/handled.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈhændld] |
 | hover | <audio src="/awesome-pronunciation/public/audio/hover.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈhʌvər] |
 | hyper | <audio src="/awesome-pronunciation/public/audio/hyper.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |

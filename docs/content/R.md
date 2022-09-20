@@ -3,6 +3,10 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| rough | <audio src="/awesome-pronunciation/public/audio/rough.mp3" controls="controls" controlslist="nodownload"></audio> | [rʌf] |
+| recognize | <audio src="/awesome-pronunciation/public/audio/recognize.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈrekəɡnaɪz] |
+| repo | <audio src="/awesome-pronunciation/public/audio/repo.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈriːpoʊ] |
+| rounds | <audio src="/awesome-pronunciation/public/audio/rounds.mp3" controls="controls" controlslist="nodownload"></audio> | [raʊndz] |
 | regret | <audio src="/awesome-pronunciation/public/audio/regret.mp3" controls="controls" controlslist="nodownload"></audio> | [rɪˈɡret] |
 | ratio | <audio src="/awesome-pronunciation/public/audio/ratio.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈreɪʃioʊ] |
 | resources | <audio src="/awesome-pronunciation/public/audio/resources.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈriːsɔːrsɪz] |

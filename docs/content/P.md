@@ -3,6 +3,11 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| prevalent | <audio src="/awesome-pronunciation/public/audio/prevalent.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈprevələnt] |
+| Prometheus | <audio src="/awesome-pronunciation/public/audio/Prometheus.mp3" controls="controls" controlslist="nodownload"></audio> | [proˈmiθɪəs] |
+| packets | <audio src="/awesome-pronunciation/public/audio/packets.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpækɪts] |
+| postpone | <audio src="/awesome-pronunciation/public/audio/postpone.mp3" controls="controls" controlslist="nodownload"></audio> | [poʊˈspoʊn] |
+| progress | <audio src="/awesome-pronunciation/public/audio/progress.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈprɑːɡres] |
 | permanent | <audio src="/awesome-pronunciation/public/audio/permanent.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpɜːrmənənt] |
 | profile | <audio src="/awesome-pronunciation/public/audio/profile.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈproʊfaɪl] |
 | puppeteer | <audio src="/awesome-pronunciation/public/audio/puppeteer.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌpʌpɪˈtɪr] |
