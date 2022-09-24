@@ -1,6 +1,16 @@
 {
 	"A": [
 		{
+			"word": "alternative",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=alternative&type=2"
+			],
+			"phonetic": [
+				"[ɔːlˈtɜːrnətɪv]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "apologize",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=apologize&type=2"
@@ -679,6 +689,44 @@
 	],
 	"C": [
 		{
+			"word": "creation",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=creation&type=2"
+			],
+			"phonetic": [
+				"[kriˈeɪʃ(ə)n]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "college",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=college&type=2"
+			],
+			"phonetic": [
+				"[ˈkɑːlɪdʒ]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "Chrome",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Chrome&type=2"
+			],
+			"phonetic": ["[kroʊm]"],
+			"reference": ""
+		},
+		{
+			"word": "certificate",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=certificate&type=2"
+			],
+			"phonetic": [
+				"[undefined]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "compliance",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=compliance&type=2"
@@ -1079,6 +1127,26 @@
 	],
 	"D": [
 		{
+			"word": "demonstrate",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=demonstrate&type=2"
+			],
+			"phonetic": [
+				"[ˈdemənstreɪt]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "disability",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=disability&type=2"
+			],
+			"phonetic": [
+				"[ˌdɪsəˈbɪləti]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "due",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=due&type=2"
@@ -1310,6 +1378,16 @@
 		}
 	],
 	"E": [
+		{
+			"word": "explanation",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=explanation&type=2"
+			],
+			"phonetic": [
+				"[ˌekspləˈneɪʃ(ə)n]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "expose",
 			"origin": [
@@ -1695,6 +1773,16 @@
 	],
 	"G": [
 		{
+			"word": "Gigabyte",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Gigabyte&type=2"
+			],
+			"phonetic": [
+				"[ˈɡɪɡəbaɪt]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "gist",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=gist&type=2"
@@ -1952,6 +2040,26 @@
 		}
 	],
 	"I": [
+		{
+			"word": "infinite",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=infinite&type=2"
+			],
+			"phonetic": [
+				"[ˈɪnfɪnət]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "invitation",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=invitation&type=2"
+			],
+			"phonetic": [
+				"[ˌɪnvɪˈteɪʃ(ə)n]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "instrument",
 			"origin": [
@@ -2303,17 +2411,25 @@
 		{
 			"word": "JSON",
 			"origin": [
-				"http://www.howtopronounce.cc/file/f91b14383e904e2cb29cb0c8ae27bbf4.mp3",
 				"http://www.howtopronounce.cc/file/6f5f43447d63458eaebe2fc1ee3cd56f.mp3"
 			],
 			"phonetic": [
-				"[ˈdʒeɪsən]",
 				"[ˈdʒeɪsɑn]"
 			],
 			"reference": "[How-do-you-pronounce-JSON](https://www.quora.com/How-do-you-pronounce-JSON)"
 		}
 	],
 	"K": [
+		{
+			"word": "Kilobyte",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Kilobyte&type=2"
+			],
+			"phonetic": [
+				"[ˈkɪləbaɪt]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "kilobytes",
 			"origin": [
@@ -2348,6 +2464,16 @@
 		}
 	],
 	"L": [
+		{
+			"word": "layer",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=layer&type=2"
+			],
+			"phonetic": [
+				"[ˈleɪər]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "latency",
 			"origin": [
@@ -2462,6 +2588,26 @@
 		}
 	],
 	"M": [
+		{
+			"word": "modification",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=modification&type=2"
+			],
+			"phonetic": [
+				"[ˌmɑːdɪfɪˈkeɪʃ(ə)n]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "Megabyte",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=Megabyte&type=2"
+			],
+			"phonetic": [
+				"[ˈmeɡəbaɪt]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "multiple",
 			"origin": [
@@ -2833,6 +2979,26 @@
 	],
 	"O": [
 		{
+			"word": "officially",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=officially&type=2"
+			],
+			"phonetic": [
+				"[əˈfɪʃəli]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "oriented",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=oriented&type=2"
+			],
+			"phonetic": [
+				"[ˈɔːrientɪd]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "obsess",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=obsess&type=2"
@@ -2950,6 +3116,66 @@
 		}
 	],
 	"P": [
+		{
+			"word": "pleasure",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=pleasure&type=2"
+			],
+			"phonetic": [
+				"[ˈpleʒər]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "performance",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=performance&type=2"
+			],
+			"phonetic": [
+				"[pərˈfɔːrməns]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "preference",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=preference&type=2"
+			],
+			"phonetic": [
+				"[ˈprefrəns]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "potential",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=potential&type=2"
+			],
+			"phonetic": [
+				"[pəˈtenʃ(ə)l]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "pod",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=pod&type=2"
+			],
+			"phonetic": [
+				"[undefined]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "pagination",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=pagination&type=2"
+			],
+			"phonetic": [
+				"[ˌpædʒɪˈneɪʃ(ə)n]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "prevalent",
 			"origin": [
@@ -3593,6 +3819,36 @@
 	],
 	"S": [
 		{
+			"word": "significant",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=significant&type=2"
+			],
+			"phonetic": [
+				"[sɪɡˈnɪfɪkənt]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "simplicity",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=simplicity&type=2"
+			],
+			"phonetic": [
+				"[sɪmˈplɪsəti]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "SonarQube",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=SonarQube&type=2"
+			],
+			"phonetic": [
+				"[undefined]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "stakeholders",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=stakeholders&type=2"
@@ -3962,6 +4218,16 @@
 		}
 	],
 	"T": [
+		{
+			"word": "tomorrow",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=tomorrow&type=2"
+			],
+			"phonetic": [
+				"[təˈmɑːroʊ]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "tolerate",
 			"origin": [

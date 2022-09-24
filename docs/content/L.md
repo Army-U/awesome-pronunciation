@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| layer | <audio src="/awesome-pronunciation/public/audio/layer.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈleɪər] |
 | latency | <audio src="/awesome-pronunciation/public/audio/latency.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈleɪtənsi] |
 | labor | <audio src="/awesome-pronunciation/public/audio/labor.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈleɪbər] |
 | lanes | <audio src="/awesome-pronunciation/public/audio/lanes.mp3" controls="controls" controlslist="nodownload"></audio> | leɪnz |

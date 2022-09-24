@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| tomorrow | <audio src="/awesome-pronunciation/public/audio/tomorrow.mp3" controls="controls" controlslist="nodownload"></audio> | [təˈmɑːroʊ] |
 | tolerate | <audio src="/awesome-pronunciation/public/audio/tolerate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈtɑːləreɪt] |
 | theoretical | <audio src="/awesome-pronunciation/public/audio/theoretical.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌθiːəˈretɪk(ə)l] |
 | techniques | <audio src="/awesome-pronunciation/public/audio/techniques.mp3" controls="controls" controlslist="nodownload"></audio> | [tekˈniːks] |

@@ -3,6 +3,9 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| significant | <audio src="/awesome-pronunciation/public/audio/significant.mp3" controls="controls" controlslist="nodownload"></audio> | [sɪɡˈnɪfɪkənt] |
+| simplicity | <audio src="/awesome-pronunciation/public/audio/simplicity.mp3" controls="controls" controlslist="nodownload"></audio> | [sɪmˈplɪsəti] |
+| SonarQube | <audio src="/awesome-pronunciation/public/audio/SonarQube.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | stakeholders | <audio src="/awesome-pronunciation/public/audio/stakeholders.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | stub | <audio src="/awesome-pronunciation/public/audio/stub.mp3" controls="controls" controlslist="nodownload"></audio> | [stʌb] |
 | swipe | <audio src="/awesome-pronunciation/public/audio/swipe.mp3" controls="controls" controlslist="nodownload"></audio> | [swaɪp] |

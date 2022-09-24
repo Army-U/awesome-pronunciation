@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| explanation | <audio src="/awesome-pronunciation/public/audio/explanation.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌekspləˈneɪʃ(ə)n] |
 | expose | <audio src="/awesome-pronunciation/public/audio/expose.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪkˈspoʊz] |
 | expose | <audio src="/awesome-pronunciation/public/audio/expose.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪkˈspoʊz] |
 | emoji | <audio src="/awesome-pronunciation/public/audio/emoji.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪˈmoʊdʒi] |

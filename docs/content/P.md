@@ -3,6 +3,12 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| pleasure | <audio src="/awesome-pronunciation/public/audio/pleasure.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpleʒər] |
+| performance | <audio src="/awesome-pronunciation/public/audio/performance.mp3" controls="controls" controlslist="nodownload"></audio> | [pərˈfɔːrməns] |
+| preference | <audio src="/awesome-pronunciation/public/audio/preference.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈprefrəns] |
+| potential | <audio src="/awesome-pronunciation/public/audio/potential.mp3" controls="controls" controlslist="nodownload"></audio> | [pəˈtenʃ(ə)l] |
+| pod | <audio src="/awesome-pronunciation/public/audio/pod.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
+| pagination | <audio src="/awesome-pronunciation/public/audio/pagination.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌpædʒɪˈneɪʃ(ə)n] |
 | prevalent | <audio src="/awesome-pronunciation/public/audio/prevalent.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈprevələnt] |
 | Prometheus | <audio src="/awesome-pronunciation/public/audio/Prometheus.mp3" controls="controls" controlslist="nodownload"></audio> | [proˈmiθɪəs] |
 | packets | <audio src="/awesome-pronunciation/public/audio/packets.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpækɪts] |

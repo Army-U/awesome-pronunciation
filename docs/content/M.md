@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| modification | <audio src="/awesome-pronunciation/public/audio/modification.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌmɑːdɪfɪˈkeɪʃ(ə)n] |
+| Megabyte | <audio src="/awesome-pronunciation/public/audio/Megabyte.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈmeɡəbaɪt] |
 | multiple | <audio src="/awesome-pronunciation/public/audio/multiple.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈmʌltɪp(ə)l] |
 | mock | <audio src="/awesome-pronunciation/public/audio/mock.mp3" controls="controls" controlslist="nodownload"></audio> | [mɑːk] |
 | million | <audio src="/awesome-pronunciation/public/audio/million.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈmɪljən] |

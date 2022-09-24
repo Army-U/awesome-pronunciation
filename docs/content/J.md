@@ -8,7 +8,7 @@
 | Jenkins | <audio src="/awesome-pronunciation/public/audio/Jenkins.mp3" controls="controls" controlslist="nodownload"></audio> | ['dʒeŋkinz] |
 | Jekyll | <audio src="/awesome-pronunciation/public/audio/Jekyll.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈdʒi:kil] |
 | jpg(jpeg) | <audio src="/awesome-pronunciation/public/audio/jpg(jpeg).mp3" controls="controls" controlslist="nodownload"></audio> | ['dʒeɪpeɡ] |
-| JSON | <audio src="/awesome-pronunciation/public/audio/JSON-0.mp3" controls="controls" controlslist="nodownload"></audio><br/><audio src="/awesome-pronunciation/public/audio/JSON-1.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈdʒeɪsən]<br/>[ˈdʒeɪsɑn] |
+| JSON | <audio src="/awesome-pronunciation/public/audio/JSON.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈdʒeɪsɑn] |
 
 ## Reference
 

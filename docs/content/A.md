@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| alternative | <audio src="/awesome-pronunciation/public/audio/alternative.mp3" controls="controls" controlslist="nodownload"></audio> | [ɔːlˈtɜːrnətɪv] |
 | apologize | <audio src="/awesome-pronunciation/public/audio/apologize.mp3" controls="controls" controlslist="nodownload"></audio> | [əˈpɑːlədʒaɪz] |
 | agnostic | <audio src="/awesome-pronunciation/public/audio/agnostic.mp3" controls="controls" controlslist="nodownload"></audio> | [æɡˈnɑːstɪk] |
 | adjust | <audio src="/awesome-pronunciation/public/audio/adjust.mp3" controls="controls" controlslist="nodownload"></audio> | [əˈdʒʌst] |

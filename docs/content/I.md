@@ -3,6 +3,8 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| infinite | <audio src="/awesome-pronunciation/public/audio/infinite.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈɪnfɪnət] |
+| invitation | <audio src="/awesome-pronunciation/public/audio/invitation.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌɪnvɪˈteɪʃ(ə)n] |
 | instrument | <audio src="/awesome-pronunciation/public/audio/instrument.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | instance | <audio src="/awesome-pronunciation/public/audio/instance.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | illustrate | <audio src="/awesome-pronunciation/public/audio/illustrate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈɪləstreɪt] |
