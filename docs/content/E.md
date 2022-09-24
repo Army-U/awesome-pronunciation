@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| expiry | <audio src="/awesome-pronunciation/public/audio/expiry.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪkˈspaɪəri] |
 | explanation | <audio src="/awesome-pronunciation/public/audio/explanation.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌekspləˈneɪʃ(ə)n] |
 | expose | <audio src="/awesome-pronunciation/public/audio/expose.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪkˈspoʊz] |
 | expose | <audio src="/awesome-pronunciation/public/audio/expose.mp3" controls="controls" controlslist="nodownload"></audio> | [ɪkˈspoʊz] |

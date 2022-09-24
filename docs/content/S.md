@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| sematic | <audio src="/awesome-pronunciation/public/audio/sematic.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
 | significant | <audio src="/awesome-pronunciation/public/audio/significant.mp3" controls="controls" controlslist="nodownload"></audio> | [sɪɡˈnɪfɪkənt] |
 | simplicity | <audio src="/awesome-pronunciation/public/audio/simplicity.mp3" controls="controls" controlslist="nodownload"></audio> | [sɪmˈplɪsəti] |
 | SonarQube | <audio src="/awesome-pronunciation/public/audio/SonarQube.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |

@@ -1,6 +1,26 @@
 {
 	"A": [
 		{
+			"word": "adapt",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=adapt&type=2"
+			],
+			"phonetic": [
+				"[əˈdæpt]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "adopt",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=adopt&type=2"
+			],
+			"phonetic": [
+				"[əˈdɑːpt]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "alternative",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=alternative&type=2"
@@ -1378,6 +1398,16 @@
 		}
 	],
 	"E": [
+		{
+			"word": "expiry",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=expiry&type=2"
+			],
+			"phonetic": [
+				"[ɪkˈspaɪəri]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "explanation",
 			"origin": [
@@ -3818,6 +3848,16 @@
 		}
 	],
 	"S": [
+		{
+			"word": "sematic",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=sematic&type=2"
+			],
+			"phonetic": [
+				"[undefined]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "significant",
 			"origin": [
