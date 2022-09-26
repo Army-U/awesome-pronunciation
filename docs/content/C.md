@@ -7,7 +7,7 @@
 | creation | <audio src="/awesome-pronunciation/public/audio/creation.mp3" controls="controls" controlslist="nodownload"></audio> | [kriˈeɪʃ(ə)n] |
 | college | <audio src="/awesome-pronunciation/public/audio/college.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkɑːlɪdʒ] |
 | Chrome | <audio src="/awesome-pronunciation/public/audio/Chrome.mp3" controls="controls" controlslist="nodownload"></audio> | [kroʊm] |
-| certificate | <audio src="/awesome-pronunciation/public/audio/certificate.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
+| certificate | <audio src="/awesome-pronunciation/public/audio/certificate.mp3" controls="controls" controlslist="nodownload"></audio> | [sərˈtɪfɪkət] |
 | compliance | <audio src="/awesome-pronunciation/public/audio/compliance.mp3" controls="controls" controlslist="nodownload"></audio> | [kəmˈplaɪəns] |
 | composition | <audio src="/awesome-pronunciation/public/audio/composition.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌkɑːmpəˈzɪʃ(ə)n] |
 | currency | <audio src="/awesome-pronunciation/public/audio/currency.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkɜːrənsi] |
