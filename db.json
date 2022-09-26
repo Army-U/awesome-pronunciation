@@ -2601,6 +2601,16 @@
 	],
 	"M": [
 		{
+			"word": "merchant",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=merchant&type=2"
+			],
+			"phonetic": [
+				"[ˈmɜːrtʃənt]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "manual",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=manual&type=2"
@@ -3153,9 +3163,7 @@
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=pause&type=2"
 			],
-			"phonetic": [
-				"[undefined]"
-			],
+			"phonetic": ["[pɔːz]"],
 			"reference": ""
 		},
 		{

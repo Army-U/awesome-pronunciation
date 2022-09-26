@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| merchant | <audio src="/awesome-pronunciation/public/audio/merchant.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈmɜːrtʃənt] |
 | manual | <audio src="/awesome-pronunciation/public/audio/manual.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈmænjuəl] |
 | modification | <audio src="/awesome-pronunciation/public/audio/modification.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌmɑːdɪfɪˈkeɪʃ(ə)n] |
 | Megabyte | <audio src="/awesome-pronunciation/public/audio/Megabyte.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈmeɡəbaɪt] |

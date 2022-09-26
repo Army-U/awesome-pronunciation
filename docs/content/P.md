@@ -4,7 +4,7 @@
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
 | pursue | <audio src="/awesome-pronunciation/public/audio/pursue.mp3" controls="controls" controlslist="nodownload"></audio> | [pərˈsuː] |
-| pause | <audio src="/awesome-pronunciation/public/audio/pause.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
+| pause | <audio src="/awesome-pronunciation/public/audio/pause.mp3" controls="controls" controlslist="nodownload"></audio> | [pɔːz] |
 | project | <audio src="/awesome-pronunciation/public/audio/project.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈprɑːdʒekt] |
 | propose | <audio src="/awesome-pronunciation/public/audio/propose.mp3" controls="controls" controlslist="nodownload"></audio> | [prəˈpoʊz] |
 | progress | <audio src="/awesome-pronunciation/public/audio/progress.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈprɑːɡres] |

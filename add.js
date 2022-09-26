@@ -3,7 +3,7 @@ const prettier = require('prettier');
 const fetch = require('node-fetch');
 
 const newWords = [
-
+'merchant'
 ];
 
 const db = JSON.parse(fs.readFileSync('./db.json').toString());
