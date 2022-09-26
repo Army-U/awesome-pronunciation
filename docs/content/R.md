@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| repetitive | <audio src="/awesome-pronunciation/public/audio/repetitive.mp3" controls="controls" controlslist="nodownload"></audio> | [rɪˈpetətɪv] |
 | rough | <audio src="/awesome-pronunciation/public/audio/rough.mp3" controls="controls" controlslist="nodownload"></audio> | [rʌf] |
 | recognize | <audio src="/awesome-pronunciation/public/audio/recognize.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈrekəɡnaɪz] |
 | repo | <audio src="/awesome-pronunciation/public/audio/repo.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈriːpoʊ] |

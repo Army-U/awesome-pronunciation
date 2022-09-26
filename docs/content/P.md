@@ -3,6 +3,10 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| project | <audio src="/awesome-pronunciation/public/audio/project.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈprɑːdʒekt] |
+| propose | <audio src="/awesome-pronunciation/public/audio/propose.mp3" controls="controls" controlslist="nodownload"></audio> | [prəˈpoʊz] |
+| progress | <audio src="/awesome-pronunciation/public/audio/progress.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈprɑːɡres] |
+| proposal | <audio src="/awesome-pronunciation/public/audio/proposal.mp3" controls="controls" controlslist="nodownload"></audio> | [prəˈpoʊz(ə)l] |
 | pleasure | <audio src="/awesome-pronunciation/public/audio/pleasure.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpleʒər] |
 | performance | <audio src="/awesome-pronunciation/public/audio/performance.mp3" controls="controls" controlslist="nodownload"></audio> | [pərˈfɔːrməns] |
 | preference | <audio src="/awesome-pronunciation/public/audio/preference.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈprefrəns] |

@@ -2619,6 +2619,16 @@
 	],
 	"M": [
 		{
+			"word": "manual",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=manual&type=2"
+			],
+			"phonetic": [
+				"[ˈmænjuəl]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "modification",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=modification&type=2"
@@ -3147,6 +3157,46 @@
 	],
 	"P": [
 		{
+			"word": "project",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=project&type=2"
+			],
+			"phonetic": [
+				"[ˈprɑːdʒekt]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "propose",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=propose&type=2"
+			],
+			"phonetic": [
+				"[prəˈpoʊz]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "progress",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=progress&type=2"
+			],
+			"phonetic": [
+				"[ˈprɑːɡres]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "proposal",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=proposal&type=2"
+			],
+			"phonetic": [
+				"[prəˈpoʊz(ə)l]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "pleasure",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=pleasure&type=2"
@@ -3572,6 +3622,16 @@
 		}
 	],
 	"R": [
+		{
+			"word": "repetitive",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=repetitive&type=2"
+			],
+			"phonetic": [
+				"[rɪˈpetətɪv]"
+			],
+			"reference": ""
+		},
 		{
 			"word": "rough",
 			"origin": [

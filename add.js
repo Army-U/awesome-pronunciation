@@ -3,10 +3,12 @@ const prettier = require('prettier');
 const fetch = require('node-fetch');
 
 const newWords = [
-  'expiry',
-  'sematic',
-  'adopt',
-  'adapt'
+  'progress',
+  'project',
+  'repetitive',
+  'manual',
+  'propose',
+  'proposal'
 ];
 
 const db = JSON.parse(fs.readFileSync('./db.json').toString());
