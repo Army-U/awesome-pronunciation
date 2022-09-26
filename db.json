@@ -709,6 +709,16 @@
 	],
 	"C": [
 		{
+			"word": "convince",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=convince&type=2"
+			],
+			"phonetic": [
+				"[kənˈvɪns]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "creation",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=creation&type=2"
@@ -3157,6 +3167,26 @@
 	],
 	"P": [
 		{
+			"word": "pursue",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=pursue&type=2"
+			],
+			"phonetic": [
+				"[pərˈsuː]"
+			],
+			"reference": ""
+		},
+		{
+			"word": "pause",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=pause&type=2"
+			],
+			"phonetic": [
+				"[undefined]"
+			],
+			"reference": ""
+		},
+		{
 			"word": "project",
 			"origin": [
 				"https://dict.youdao.com/dictvoice?audio=project&type=2"
@@ -4318,6 +4348,14 @@
 		}
 	],
 	"T": [
+		{
+			"word": "thrill",
+			"origin": [
+				"https://dict.youdao.com/dictvoice?audio=thrill&type=2"
+			],
+			"phonetic": ["[θrɪl]"],
+			"reference": ""
+		},
 		{
 			"word": "tomorrow",
 			"origin": [

@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| convince | <audio src="/awesome-pronunciation/public/audio/convince.mp3" controls="controls" controlslist="nodownload"></audio> | [kənˈvɪns] |
 | creation | <audio src="/awesome-pronunciation/public/audio/creation.mp3" controls="controls" controlslist="nodownload"></audio> | [kriˈeɪʃ(ə)n] |
 | college | <audio src="/awesome-pronunciation/public/audio/college.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkɑːlɪdʒ] |
 | Chrome | <audio src="/awesome-pronunciation/public/audio/Chrome.mp3" controls="controls" controlslist="nodownload"></audio> | [kroʊm] |

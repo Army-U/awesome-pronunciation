@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| thrill | <audio src="/awesome-pronunciation/public/audio/thrill.mp3" controls="controls" controlslist="nodownload"></audio> | [θrɪl] |
 | tomorrow | <audio src="/awesome-pronunciation/public/audio/tomorrow.mp3" controls="controls" controlslist="nodownload"></audio> | [təˈmɑːroʊ] |
 | tolerate | <audio src="/awesome-pronunciation/public/audio/tolerate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈtɑːləreɪt] |
 | theoretical | <audio src="/awesome-pronunciation/public/audio/theoretical.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌθiːəˈretɪk(ə)l] |
