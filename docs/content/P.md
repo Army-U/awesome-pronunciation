@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| polish | <audio src="/awesome-pronunciation/public/audio/polish.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈpɑːlɪʃ] |
 | pursue | <audio src="/awesome-pronunciation/public/audio/pursue.mp3" controls="controls" controlslist="nodownload"></audio> | [pərˈsuː] |
 | pause | <audio src="/awesome-pronunciation/public/audio/pause.mp3" controls="controls" controlslist="nodownload"></audio> | [pɔːz] |
 | project | <audio src="/awesome-pronunciation/public/audio/project.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈprɑːdʒekt] |
