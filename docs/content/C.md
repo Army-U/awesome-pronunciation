@@ -39,7 +39,7 @@
 | custom | <audio src="/awesome-pronunciation/public/audio/custom.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkʌstəm] |
 | cubic | <audio src="/awesome-pronunciation/public/audio/cubic.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkjubɪk] |
 | constant | <audio src="/awesome-pronunciation/public/audio/constant.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkɑnstənt] |
-| complex | <audio src="/awesome-pronunciation/public/audio/complex.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkɑmˌpleks] |
+| complex | <audio src="/awesome-pronunciation/public/audio/complex.mp3" controls="controls" controlslist="nodownload"></audio> | [kəmˈpleks] |
 | colon | <audio src="/awesome-pronunciation/public/audio/colon.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈkoʊlɑn] |
 | chalk | <audio src="/awesome-pronunciation/public/audio/chalk.mp3" controls="controls" controlslist="nodownload"></audio> | [tʃɔːk] |
 | C# | <audio src="/awesome-pronunciation/public/audio/C%23.mp3" controls="controls" controlslist="nodownload"></audio> | C sharp [si ʃɑ:p] |
