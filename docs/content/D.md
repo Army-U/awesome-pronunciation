@@ -6,9 +6,7 @@
 | demonstrate | <audio src="/awesome-pronunciation/public/audio/demonstrate.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈdemənstreɪt] |
 | disability | <audio src="/awesome-pronunciation/public/audio/disability.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌdɪsəˈbɪləti] |
 | due | <audio src="/awesome-pronunciation/public/audio/due.mp3" controls="controls" controlslist="nodownload"></audio> | [duː] |
-| disability | <audio src="/awesome-pronunciation/public/audio/disability.mp3" controls="controls" controlslist="nodownload"></audio> | [ˌdɪsəˈbɪləti] |
 | determined | <audio src="/awesome-pronunciation/public/audio/determined.mp3" controls="controls" controlslist="nodownload"></audio> | [dɪˈtɜːrmɪnd] |
-| demand | <audio src="/awesome-pronunciation/public/audio/demand.mp3" controls="controls" controlslist="nodownload"></audio> | [dɪˈmænd] |
 | demand | <audio src="/awesome-pronunciation/public/audio/demand.mp3" controls="controls" controlslist="nodownload"></audio> | [dɪˈmænd] |
 | dual | <audio src="/awesome-pronunciation/public/audio/dual.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈduːəl] |
 | deletion | <audio src="/awesome-pronunciation/public/audio/deletion.mp3" controls="controls" controlslist="nodownload"></audio> | [dɪˈliːʃn] |

@@ -15,7 +15,6 @@
 | hierarchy | <audio src="/awesome-pronunciation/public/audio/hierarchy.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈhaɪərɑːrki] |
 | hyphen | <audio src="/awesome-pronunciation/public/audio/hyphen.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈhaɪfən] |
 | Hadoop | <audio src="/awesome-pronunciation/public/audio/Hadoop.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈhʌduːp] |
-| height | <audio src="/awesome-pronunciation/public/audio/height.mp3" controls="controls" controlslist="nodownload"></audio> | [haɪt] |
 | hidden | <audio src="/awesome-pronunciation/public/audio/hidden.mp3" controls="controls" controlslist="nodownload"></audio> | ['hɪdn] |
 | href | <audio src="/awesome-pronunciation/public/audio/href.mp3" controls="controls" controlslist="nodownload"></audio> | H ref [eit∫ref] |
 

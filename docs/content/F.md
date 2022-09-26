@@ -5,11 +5,11 @@
 | :-- | :-- | :-- |
 | flaky | <audio src="/awesome-pronunciation/public/audio/flaky.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈfleɪki] |
 | forum | <audio src="/awesome-pronunciation/public/audio/forum.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈfɔːrəm] |
-| formality | <audio src="/awesome-pronunciation/public/audio/formality.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
+| formality | <audio src="/awesome-pronunciation/public/audio/formality.mp3" controls="controls" controlslist="nodownload"></audio> | [fɔːrˈmæləti] |
 | foreign | <audio src="/awesome-pronunciation/public/audio/foreign.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈfɔːrən] |
 | figure | <audio src="/awesome-pronunciation/public/audio/figure.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈfɪɡjər] |
 | forth | <audio src="/awesome-pronunciation/public/audio/forth.mp3" controls="controls" controlslist="nodownload"></audio> | [fɔːrθ] |
-| foreigner | <audio src="/awesome-pronunciation/public/audio/foreigner.mp3" controls="controls" controlslist="nodownload"></audio> | [undefined] |
+| foreigner | <audio src="/awesome-pronunciation/public/audio/foreigner.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈfɔːrənər] |
 | forward | <audio src="/awesome-pronunciation/public/audio/forward.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈfɔːrwərd] |
 | float | <audio src="/awesome-pronunciation/public/audio/float.mp3" controls="controls" controlslist="nodownload"></audio> | floʊt |
 | Fiber | <audio src="/awesome-pronunciation/public/audio/Fiber.mp3" controls="controls" controlslist="nodownload"></audio> | ˈfaɪbər |
