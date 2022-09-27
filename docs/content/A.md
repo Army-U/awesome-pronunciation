@@ -3,6 +3,7 @@
 
 | Word  | Pronunciation | phonetic |
 | :-- | :-- | :-- |
+| ARIA | <audio src="/awesome-pronunciation/public/audio/ARIA.mp3" controls="controls" controlslist="nodownload"></audio> | [ˈɑːriə] |
 | approval | <audio src="/awesome-pronunciation/public/audio/approval.mp3" controls="controls" controlslist="nodownload"></audio> | [əˈpruːv(ə)l] |
 | adapt | <audio src="/awesome-pronunciation/public/audio/adapt.mp3" controls="controls" controlslist="nodownload"></audio> | [əˈdæpt] |
 | adopt | <audio src="/awesome-pronunciation/public/audio/adopt.mp3" controls="controls" controlslist="nodownload"></audio> | [əˈdɑːpt] |
